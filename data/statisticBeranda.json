@@ -2,40 +2,40 @@
   "data": 
   [
     {
-      "title": 'Kedatangan Pelaku Perjalanan Luar Negeri',
+      "title": "Kedatangan Pelaku Perjalanan Luar Negeri",
       "style_background": "#FFFFFF",
-      "type": 'kedatangan',
+      "type": "kedatangan",
       "warga_negara": [
         {
-          "type": 'wna',
-          "title": 'WNA Masuk',
-          "total_jiwa": '2.387 Jiwa',
-          "desc": 'Data Januari sd Juli 2022',
+          "type": "wna",
+          "title": "WNA Masuk",
+          "total_jiwa": "2.387 Jiwa",
+          "desc": "Data Januari sd Juli 2022",
         },
         {
-          "type": 'wni',
-          "title": 'WNI Masuk',
-          "total_jiwa": '2.387 Jiwa',
-          "desc": 'Data Januari sd Juli 2022',
+          "type": "wni",
+          "title": "WNI Masuk",
+          "total_jiwa": "2.387 Jiwa",
+          "desc": "Data Januari sd Juli 2022",
         }
       ]
     },
     {
-      "title": 'Keberangkatan Pelaku Perjalanan Luar Negeri',
-      "type": 'keberangkatan',
+      "title": "Keberangkatan Pelaku Perjalanan Luar Negeri",
+      "type": "keberangkatan",
       "style_background": "#FFFFFF",
       "warga_negara": [
         {
-          "type": 'wna',
-          "title": 'WNA Keluar',
-          "total_jiwa": '2.387 Jiwa',
-          "desc": 'Data Januari sd Juli 2022',
+          "type": "wna",
+          "title": "WNA Keluar",
+          "total_jiwa": "2.387 Jiwa",
+          "desc": "Data Januari sd Juli 2022",
         },
         {
-          "type": 'wni',
-          "title": 'WNI Keluar',
-          "total_jiwa": '2.387 Jiwa',
-          "desc": 'Data Januari sd Juli 2022',
+          "type": "wni",
+          "title": "WNI Keluar",
+          "total_jiwa": "2.387 Jiwa",
+          "desc": "Data Januari sd Juli 2022",
         }
       ]
     }
