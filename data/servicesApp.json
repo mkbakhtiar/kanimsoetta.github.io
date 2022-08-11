@@ -15,11 +15,13 @@
 			"mobileApps": [
 				{
 					"type": "android",
-					"url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US"
+					"url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
+          "url_image":"https://i.imgur.com/FHclioE.png"
 				},
 				{
 					"type": "ios",
-					"url": "https://apps.apple.com/id/app/m-paspor/id1576336459"
+					"url": "https://apps.apple.com/id/app/m-paspor/id1576336459",
+          "url_image":"https://i.imgur.com/J9tDSTK.png"
 				}
 			]
 		},
