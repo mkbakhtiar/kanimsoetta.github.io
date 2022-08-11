@@ -1,4 +1,6 @@
-	{
+{
+  "data": [	
+{
 		id: 1,
 		title: 'repellendus id ullam',
 		label: 'Dolorem officiis temporibus.',
@@ -16,3 +18,5 @@
 		label: 'Dolorem officiis temporibus.',
 		image: Images.Banner3,
 	}
+	  ]
+}
