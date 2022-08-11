@@ -1,0 +1,20 @@
+const slidesBanner = [
+	{
+		id: 1,
+		title: 'repellendus id ullam',
+		label: 'Dolorem officiis temporibus.',
+		image: Images.Banner1,
+	},
+	{
+		id: 2,
+		title: 'repellendus id ullam',
+		label: 'Dolorem officiis temporibus.',
+		image: Images.Banner2,
+	},
+	{
+		id: 3,
+		title: 'repellendus id ullam',
+		label: 'Dolorem officiis temporibus.',
+		image: Images.Banner3,
+	},
+];
