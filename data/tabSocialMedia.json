@@ -1,3 +1,14 @@
 {
-  "data": ['Instagram', 'Twitter', 'Facebook']
+  "data": 
+  [
+    {
+    "item":"Instagram"
+    },
+    {
+      "item":"Twitter"
+    },
+    {
+      "item":"Facebook"
+    }
+  ]
 }
