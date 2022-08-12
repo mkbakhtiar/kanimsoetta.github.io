@@ -9,40 +9,40 @@
 		"contact": {
 			"email": {
 				"title": "Email",
-				"content": "kanim@soekarnohatta@imigrasi.go.id"
+				"content": "kanim_soekarnohatta.imigrasi.go.id"
 			},
 			"phone": {
 				"title": "Telepon",
-				"content": "021 – 550 7185"
+				"content": "(021) 550 7185"
 			},
 			"wa": {
 				"title": "Whatsapp",
-				"content": "0811 - 833 - 7004"
+				"content": "0811 833 7004"
 			},
 			"socmed": {
 				"title": "Sosia Media",
 				"content": [
-					{ "path": "", "icon": "" },
-					{ "path": "", "icon": "" },
-					{ "path": "", "icon": "" },
-					{ "path": "", "icon": "" },
-					{ "path": "", "icon": "" }
+					{ "path": "https://www.instagram.com/imigrasi.soekarnohatta/", "icon": "https://i.imgur.com/8F3alDw.png" },
+					{ "path": "https://twitter.com/imigrasi_soetta", "icon": "https://i.imgur.com/AgKMhLz.png" },
+					{ "path": "https://www.facebook.com/imigrasi.soekarnohatta", "icon": "https://i.imgur.com/1NC6Xng.png" },
+					{ "path": "https://www.youtube.com/c/KantorImigrasiSoekarnoHatta", "icon": "https://i.imgur.com/olr0gAq.png" },
+					{ "path": "https://www.tiktok.com/@imigrasi.soekarnohatta", "icon": "https://i.imgur.com/ctgI8yj.png" }
 				]
 			}
 		},
 		"otherLinks": [
-			{ "label": "Pengumuman", "path": "" },
-			{ "label": "Ruang Berita", "path": "" },
-			{ "label": "Statistik", "path": "" },
-			{ "label": "Jam Kerja", "path": "" }
+			{ "label": "Pengumuman", "path": "/ruang-berita/pengumuman" },
+			{ "label": "Ruang Berita", "path": "/ruang-berita" },
+			{ "label": "Statistik", "path": "/informasi-publik/statistik" },
+			{ "label": "Jam Kerja", "path": "/informasi-publik/jam-pelayanan" }
 		],
 		"relatedLink": {
 			"title": "Link Terkait",
 			"content": [
-				{ "label": "Kemenkumham RI", "path": "" },
-				{ "label": "Direktorat Jendral Imigrasi", "path": "" },
-				{ "label": "Kanwil DKI Jakarta", "path": "" },
-				{ "label": "Lapor.id", "path": "" }
+				{ "label": "Kemenkumham RI", "path": "https://kemenkumham.go.id/" },
+				{ "label": "Direktorat Jendral Imigrasi", "path": "https://www.imigrasi.go.id/id/" },
+				{ "label": "Kanwil DKI Jakarta", "path": "https://jakarta.kemenkumham.go.id/" },
+				{ "label": "Lapor.id", "path": "https://www.lapor.go.id/" }
 			]
 		}
   }
