@@ -1,0 +1,50 @@
+{
+  "data": 
+  [
+    {
+    "address": {
+			"title": "Alamat Kami",
+			"address": "Jl. Bandar Udara Internasional Soekarno-Hatta (Komplek Perkantoran), Tangerang, Banten, 19110"
+		},
+		"contact": {
+			"email": {
+				"title": "Email",
+				"content": "kanim@soekarnohatta@imigrasi.go.id"
+			},
+			"phone": {
+				"title": "Telepon",
+				"content": "021 – 550 7185"
+			},
+			"wa": {
+				"title": "Whatsapp",
+				"content": "0811 - 833 - 7004"
+			},
+			"socmed": {
+				"title": "Sosia Media",
+				"content": [
+					{ "path": "", "icon": "" },
+					{ "path": "", "icon": "" },
+					{ "path": "", "icon": "" },
+					{ "path": "", "icon": "" },
+					{ "path": "", "icon": "" }
+				]
+			}
+		},
+		"otherLinks": [
+			{ "label": "Pengumuman", "path": "" },
+			{ "label": "Ruang Berita", "path": "" },
+			{ "label": "Statistik", "path": "" },
+			{ "label": "Jam Kerja", "path": "" }
+		],
+		"relatedLink": {
+			"title": "Link Terkait",
+			"content": [
+				{ "label": "Kemenkumham RI", "path": "" },
+				{ "label": "Direktorat Jendral Imigrasi", "path": "" },
+				{ "label": "Kanwil DKI Jakarta", "path": "" },
+				{ "label": "Lapor.id", "path": "" }
+			]
+		}
+  }
+  ]
+}
