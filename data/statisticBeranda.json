@@ -9,13 +9,13 @@
         {
           "type": "wna",
           "title": "WNA Masuk",
-          "total_jiwa": "2.387 Jiwa",
+          "total_jiwa": "439.519 Jiwa",
           "desc": "Data Januari sd Juli 2022"
         },
         {
           "type": "wni",
           "title": "WNI Masuk",
-          "total_jiwa": "2.387 Jiwa",
+          "total_jiwa": "1.089.309 Jiwa",
           "desc": "Data Januari sd Juli 2022"
         }
       ]
@@ -28,13 +28,13 @@
         {
           "type": "wna",
           "title": "WNA Keluar",
-          "total_jiwa": "2.387 Jiwa",
+          "total_jiwa": "395.657 Jiwa",
           "desc": "Data Januari sd Juli 2022"
         },
         {
           "type": "wni",
           "title": "WNI Keluar",
-          "total_jiwa": "2.387 Jiwa",
+          "total_jiwa": "1.158.127 Jiwa",
           "desc": "Data Januari sd Juli 2022"
         }
       ]
