@@ -1,0 +1,30 @@
+{
+  "data": 
+  [
+    {
+      "type": "whistleblower",
+      "content": "",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSe4jsT2fvg2Bb5FZD4yQTHtws-3j8B6I92-fFgspfjeKBmgFw/viewform"
+    },
+    {
+      "type": "lapor.id",
+      "content": "",
+      "link": "https://lapor.go.id/"
+    },
+    {
+      "type": "wa",
+      "content": "6281183377004",
+      "link": "https://wa.me/"
+    },
+    {
+      "type": "mail",
+      "content": "Kanim_soekarnohatta@imigrasi.go.id",
+      "link": "mailto:"
+    },
+    {
+      "type": "phone",
+      "content": "62215507185",
+      "link": "tel:+"
+    }
+  ]
+}
