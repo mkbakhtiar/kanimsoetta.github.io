@@ -6,38 +6,38 @@
           "slider": [
             {
               "id": 1,
-              "image_mobile": "https: //i.imgur.com/ssRfcjH.jpg",
-              "image_dekstop": "https: //i.imgur.com/5sjfnv4.jpg"
+              "image_mobile": "https://i.imgur.com/ssRfcjH.jpg",
+              "image_dekstop": "https://i.imgur.com/5sjfnv4.jpg"
             },
             {
               "id": 2,
-              "image_mobile": "https: //i.imgur.com/mpKRaah.jpg",
-              "image_dekstop": "https: //i.imgur.com/oTMaXQL.jpg"
+              "image_mobile": "https://i.imgur.com/mpKRaah.jpg",
+              "image_dekstop": "https://i.imgur.com/oTMaXQL.jpg"
             },
             {
               "id": 3,
-              "image_mobile": "https: //i.imgur.com/fOjD5RI.jpg",
-              "image_dekstop": "https: //i.imgur.com/vEnMl9l.jpg"
+              "image_mobile": "https://i.imgur.com/fOjD5RI.jpg",
+              "image_dekstop": "https://i.imgur.com/vEnMl9l.jpg"
             },
             {
               "id": 4,
-              "image_mobile": "https: //i.imgur.com/BnN4tUR.jpg",
-              "image_dekstop": "https: //i.imgur.com/lfxHhv2.jpg"
+              "image_mobile": "https://i.imgur.com/BnN4tUR.jpg",
+              "image_dekstop": "https://i.imgur.com/lfxHhv2.jpg"
             },
             {
               "id": 5,
-              "image_mobile": "https: //i.imgur.com/0MD5Ye0.jpg",
-              "image_dekstop": "https: //i.imgur.com/4A8akcO.jpg"
+              "image_mobile": "https://i.imgur.com/0MD5Ye0.jpg",
+              "image_dekstop": "https://i.imgur.com/4A8akcO.jpg"
             },
             {
               "id": 6,
-              "image_mobile": "https: //i.imgur.com/fFQlP0z.jpg",
-              "image_dekstop": "https: //i.imgur.com/0gEtm6x.jpg"
+              "image_mobile": "https://i.imgur.com/fFQlP0z.jpg",
+              "image_dekstop": "https://i.imgur.com/0gEtm6x.jpg"
             },
             {
               "id": 7,
-              "image_mobile": "https: //i.imgur.com/yKambTK.jpg",
-              "image_dekstop": "https: //i.imgur.com/qjxnKxX.jpg"
+              "image_mobile": "https://i.imgur.com/yKambTK.jpg",
+              "image_dekstop": "https://i.imgur.com/qjxnKxX.jpg"
             }
           ]
         },
@@ -158,50 +158,50 @@
             {
               "title": "M-Paspor",
               "description": "Tautan untuk mengunduh aplikasi pengajuan paspor bagi pengguna telepon genggam berbasis iOS / android",
-              "icon": "https: //i.imgur.com/bSABXYS.png",
+              "icon": "https://i.imgur.com/bSABXYS.png",
               "appUrl": "",
               "mobileApps": [
                 {
                   "type": "android",
-                  "url": "https: //play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
-                  "url_image": "https: //i.imgur.com/FHclioE.png"
+                  "url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
+                  "url_image": "https://i.imgur.com/FHclioE.png"
                 },
                 {
                   "type": "ios",
-                  "url": "https: //apps.apple.com/id/app/m-paspor/id1576336459",
-                  "url_image": "https: //i.imgur.com/J9tDSTK.png"
+                  "url": "https://apps.apple.com/id/app/m-paspor/id1576336459",
+                  "url_image": "https://i.imgur.com/J9tDSTK.png"
                 }
               ]
             },
             {
               "title": "Visa Online",
               "description": "Tautan yang dapat digunakan oleh WNA yang akan mengajukan visa, bisa berupa visa kunjungan, VITAS, atau lainnya",
-              "icon": "https: //imgur.com/mhWWwN7.png",
-              "appUrl": "https: //visa-online.imigrasi.go.id/"
+              "icon": "https://imgur.com/mhWWwN7.png",
+              "appUrl": "https://visa-online.imigrasi.go.id/"
             },
             {
               "title": "Check Permohonan Paspor",
               "description": "Fitur layanan yang dapat digunakan oleh pemohon untuk mengetahui perkembangan proses pengajuan paspor",
-              "icon": "https: //i.imgur.com/Jush5VM.png",
-              "appUrl": "https: //soekarnohatta.imigrasi.go.id:8001/apps/cekpermohonan/"
+              "icon": "https://i.imgur.com/Jush5VM.png",
+              "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/cekpermohonan/"
             },
             {
               "title": "E-Perdim 11",
               "description": "Tautan untuk lampiran pengisian formulir Dokumen Perjalanan Republik Indonesia (DPRI) dalam pengajuan permohonan paspor",
-              "icon": "https: //i.imgur.com/nF90pro.png",
-              "appUrl": "https: //soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
+              "icon": "https://i.imgur.com/nF90pro.png",
+              "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
             },
             {
               "title": "Izin Tinggal Online",
               "description": "Tautan yang dapat digunakan oleh pemohon/WNA untuk mengajukan pengajuan izin tinggal secara online",
-              "icon": "https: //i.imgur.com/ZixmWWn.png",
-              "appUrl": "https: //izintinggal-online.imigrasi.go.id/"
+              "icon": "https://i.imgur.com/ZixmWWn.png",
+              "appUrl": "https://izintinggal-online.imigrasi.go.id/"
             },
             {
               "title": "Pelaporan Orang Asing",
               "description": "Aplikasi yang dapat digunakan oleh masyarakat untuk pelaporan orang asing yang berada di wilayahnya",
-              "icon": "https: //i.imgur.com/dmpFSbr.png",
-              "appUrl": "https: //apoa.imigrasi.go.id/poa/"
+              "icon": "https://i.imgur.com/dmpFSbr.png",
+              "appUrl": "https://apoa.imigrasi.go.id/poa/"
             }
           ]
         }
@@ -625,11 +625,11 @@
                   "content": [
                     {
                       "title": "DIPA Tahun 2022",
-                      "link": "https: //drive.google.com/file/d/1kwO8VZvnh22rK6MlIvPpLqHkN8IOvEsP/view?usp=sharing"
+                      "link": "https://drive.google.com/file/d/1kwO8VZvnh22rK6MlIvPpLqHkN8IOvEsP/view?usp=sharing"
                     },
                     {
                       "title": "DIPA Tahun 2021",
-                      "link": "https: //drive.google.com/file/d/1pFM_EgDmMEJG8V1qGEnnu2HVF_r6tJuw/view?usp=sharing"
+                      "link": "https://drive.google.com/file/d/1pFM_EgDmMEJG8V1qGEnnu2HVF_r6tJuw/view?usp=sharing"
                     }
                   ]
                 }
@@ -647,11 +647,11 @@
                   "content": [
                     {
                       "title": "LAKIP Tahun 2021",
-                      "link": "https: //drive.google.com/file/d/1D3p2TOYGg6bdGFHU_33SCnGbVYxetb6_/view?usp=sharing"
+                      "link": "https://drive.google.com/file/d/1D3p2TOYGg6bdGFHU_33SCnGbVYxetb6_/view?usp=sharing"
                     },
                     {
                       "title": "LAKIP Tahun 2020",
-                      "link": "https: //drive.google.com/file/d/1hRTs7WXTiPbosGErF3TkJH9_xY2hscWO/view?usp=sharing"
+                      "link": "https://drive.google.com/file/d/1hRTs7WXTiPbosGErF3TkJH9_xY2hscWO/view?usp=sharing"
                     }
                   ]
                 }
@@ -691,7 +691,7 @@
                 "type": "card_quotes",
                 "content": [
                   {
-                    "link": "https: //drive.google.com/file/d/1ZAX5WR3BpNydhyNFJuWGZQE4uDPwMwYj/view?usp=sharing",
+                    "link": "https://drive.google.com/file/d/1ZAX5WR3BpNydhyNFJuWGZQE4uDPwMwYj/view?usp=sharing",
                     "title": "NO: W.10.IMI.IMI.I.UM.01.01-3987 TAHUN 2022",
                     "open_1": "Kami seluruh pegawai Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta dengan ini menyatakan sanggup memberikan pelayanan Keimigrasian berbasis HAM yang cepat, tepat dan profesional tanpa suap, pungli dan gratifikasi atas layanan:",
                     "list_1": [
