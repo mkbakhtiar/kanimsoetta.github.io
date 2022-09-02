@@ -39,6 +39,16 @@
 									"type": "li",
 									"className": "list-c list-alpha",
 									"content": "anak yang lahir dari perkawinan yang sah dari seorang ayah Warga Negara Indonesia dan ibu Warga Negara Asing;"
+								},
+								{
+									"type": "li",
+									"className": "list-c list-number",
+									"content": "anak yang lahir dari perkawinan yang sah dari seorang ayah Warga Negara Indonesia dan ibu Warga Negara Asing;"
+								},
+								{
+									"type": "li",
+									"className": "sub-list",
+									"content": "anak yang lahir dari perkawinan yang sah dari seorang ayah Warga Negara Indonesia dan ibu Warga Negara Asing;"
 								}
 							]
 						}
