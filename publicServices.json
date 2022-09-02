@@ -989,7 +989,11 @@
                           },
                           {
                             "type": "li",
-                            "content": "Surat Ganti Nama (jika ada)",
+                            "content": "Surat Ganti Nama (jika ada)"
+                          },
+                          {
+                            "type": "li",
+                            "content": "Paspor Lama",
                             "extraContent": [
                               {
                                 "type": "ol",
