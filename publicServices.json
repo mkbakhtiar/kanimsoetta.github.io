@@ -635,20 +635,25 @@
                     "title": "Umum",
                     "content": [
                       {
-                        "type": "li",
-                        "content": "Permohonan paspor dapat diajukan oleh pemohon dalam rangka melaksanakan Haji / Umroh. "
-                      },
-                      {
-                        "type": "li",
-                        "content": "Paspor biasa terdiri atas Paspor biasa non elektronik, Paspor biasa elektronik dan paspor elektronik polikarbonat."
-                      },
-                      {
-                        "type": "li",
-                        "content": "Paspor biasa diterbitkan dengan menggunakan Sistem Informasi Manajemen Keimigrasian."
-                      },
-                      {
-                        "type": "li",
-                        "content": "Permohonan paspor biasa dapat diajukan dengan melampirkan dokumen kelengkapan persyaratan Asli."
+                        "type": "ol",
+                        "content": [
+                          {
+                            "type": "li",
+                            "content": "Permohonan paspor dapat diajukan oleh pemohon dalam rangka melaksanakan Haji / Umroh. "
+                          },
+                          {
+                            "type": "li",
+                            "content": "Paspor biasa terdiri atas Paspor biasa non elektronik, Paspor biasa elektronik dan paspor elektronik polikarbonat."
+                          },
+                          {
+                            "type": "li",
+                            "content": "Paspor biasa diterbitkan dengan menggunakan Sistem Informasi Manajemen Keimigrasian."
+                          },
+                          {
+                            "type": "li",
+                            "content": "Permohonan paspor biasa dapat diajukan dengan melampirkan dokumen kelengkapan persyaratan Asli."
+                          }
+                        ]
                       }
                     ]
                   },
@@ -794,15 +799,15 @@
                           },
                           {
                             "type": "li",
-                            "content": "Paspor biasa terdiri atas Paspor biasa non elektronik, Paspor biasa elektronik dan paspor elektronik polikarbonat."
+                            "content": "Penggantian Paspor biasa terdiri atas Paspor biasa non elektronik, Paspor biasa elektronik dan paspor elektronik polikarbonat."
                           },
                           {
                             "type": "li",
-                            "content": "Paspor biasa diterbitkan dengan menggunakan Sistem Informasi Manajemen Keimigrasian."
+                            "content": "Penggantian Paspor biasa diterbitkan dengan menggunakan Sistem Informasi Manajemen Keimigrasian."
                           },
                           {
                             "type": "li",
-                            "content": "Permohonan paspor biasa dapat diajukan dengan melampirkan dokumen kelengkapan persyaratan Asli."
+                            "content": "Permohonan Penggantian  paspor biasa dapat diajukan dengan melampirkan dokumen kelengkapan persyaratan Asli."
                           }
                         ]
                       }
