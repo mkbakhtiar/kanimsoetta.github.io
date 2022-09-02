@@ -475,24 +475,29 @@
                     "title": "Umum",
                     "content": [
                       {
-                        "type": "li",
-                        "className": "list-c list-number",
-                        "content": "Permohonan paspor dapat diajukan oleh Calon Pekerja Migran yang akan bekerja di Luar Negeri."
-                      },
-                      {
-                        "type": "li",
-                        "className": "list-c list-number",
-                        "content": "Paspor biasa terdiri atas Paspor biasa non elektronik, Paspor biasa elektronik dan paspor elektronik polikarbonat."
-                      },
-                      {
-                        "type": "li",
-                        "className": "list-c list-number",
-                        "content": "Paspor biasa diterbitkan dengan menggunakan Sistem Informasi Manajemen Keimigrasian."
-                      },
-                      {
-                        "type": "li",
-                        "className": "list-c list-number",
-                        "content": "Permohonan paspor biasa dapat diajukan dengan melampirkan dokumen kelengkapan persyaratan Asli."
+                        "type": "ol",
+                        "content": [
+                          {
+                            "type": "li",
+                            "className": "list-c list-number",
+                            "content": "Permohonan paspor dapat diajukan oleh Calon Pekerja Migran yang akan bekerja di Luar Negeri."
+                          },
+                          {
+                            "type": "li",
+                            "className": "list-c list-number",
+                            "content": "Paspor biasa terdiri atas Paspor biasa non elektronik, Paspor biasa elektronik dan paspor elektronik polikarbonat."
+                          },
+                          {
+                            "type": "li",
+                            "className": "list-c list-number",
+                            "content": "Paspor biasa diterbitkan dengan menggunakan Sistem Informasi Manajemen Keimigrasian."
+                          },
+                          {
+                            "type": "li",
+                            "className": "list-c list-number",
+                            "content": "Permohonan paspor biasa dapat diajukan dengan melampirkan dokumen kelengkapan persyaratan Asli."
+                          }
+                        ]
                       }
                     ]
                   },
