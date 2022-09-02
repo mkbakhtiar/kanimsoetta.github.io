@@ -48,10 +48,12 @@
                           {
                             "type": "li",
                             "content": "Akta Kelahiran / Ijazah (SD/SMP/SMA) / Akta Perkawinan atau Buku Nikah / Surat Baptis *",
-                            "extraContent": {
-                              "type": "p-s",
-                              "content": "* (Harus memuat Nama, Tempat Tanggal Lahir dan Nama Orang Tua)"
-                            }
+                            "extraContent": [
+                              {
+                                "type": "p-s",
+                                "content": "* (Harus memuat Nama, Tempat Tanggal Lahir dan Nama Orang Tua)"
+                              }
+                            ]
                           },
                           {
                             "type": "li",
@@ -60,24 +62,26 @@
                           {
                             "type": "li",
                             "content": "Surat Ganti Nama (jika ada)",
-                            "extraContent": {
-                              "type": "ol",
-                              "title": "Catatan",
-                              "content": [
-                                {
-                                  "type": "li",
-                                  "content": "Petugas berhak meminta syarat tambahan jika diperlukan."
-                                },
-                                {
-                                  "type": "li",
-                                  "content": "Semua data pada dokumen yang dipersyaratkan harus sama."
-                                },
-                                {
-                                  "type": "li",
-                                  "content": "Dokumen asli harus dibawa dan difotokopi di kertas A4 (tidak dipotong)."
-                                }
-                              ]
-                            }
+                            "extraContent": [
+                              {
+                                "type": "ol",
+                                "title": "Catatan",
+                                "content": [
+                                  {
+                                    "type": "li",
+                                    "content": "Petugas berhak meminta syarat tambahan jika diperlukan."
+                                  },
+                                  {
+                                    "type": "li",
+                                    "content": "Semua data pada dokumen yang dipersyaratkan harus sama."
+                                  },
+                                  {
+                                    "type": "li",
+                                    "content": "Dokumen asli harus dibawa dan difotokopi di kertas A4 (tidak dipotong)."
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }
@@ -378,7 +382,7 @@
                             "content": "Surat Ganti Nama (jika ada)",
                             "extraContent": [
                               {
-                                "type": "ul",
+                                "type": "ol",
                                 "title": "Catatan",
                                 "content": [
                                   {
@@ -533,7 +537,7 @@
                             "content": "Surat Ganti Nama (jika ada)",
                             "extraContent": [
                               {
-                                "type": "ul",
+                                "type": "ol",
                                 "title": "Catatan",
                                 "content": [
                                   {
@@ -684,7 +688,7 @@
                             "content": "Surat Ganti Nama (jika ada)",
                             "extraContent": [
                               {
-                                "type": "ul",
+                                "type": "ol",
                                 "title": "Catatan",
                                 "content": [
                                   {
@@ -812,36 +816,38 @@
                           {
                             "type": "li",
                             "content": "Paspor Lama (Diterbitkan di dalam negeri , tahun 2009 keatas)",
-                            "extraContent": {
-                              "type": "ol",
-                              "title": "Catatan",
-                              "content": [
-                                {
-                                  "type": "li",
-                                  "content": "Tidak berlaku untuk penggantian karena hilang / rusak dan ada perbedaan data."
-                                },
-                                {
-                                  "type": "li",
-                                  "content": "Apabila paspor keluaran tahun 2009 kebawah dan ada perbedaan data maka persyaratan lengkap seperti permohonan baru."
-                                },
-                                {
-                                  "type": "li",
-                                  "content": "Tidak berlaku untuk penggantian paspor anak dibawah 17 tahun, persyaratan penggantian pasport anak mengikuti persyaratan permohonan baru paspor anak dengan tetap melampirkan paspor lama anak."
-                                },
-                                {
-                                  "type": "li",
-                                  "content": "Petugas berhak meminta syarat tambahan jika diperlukan."
-                                },
-                                {
-                                  "type": "li",
-                                  "content": "Semua data pada dokumen yang dipersyaratkan harus sama"
-                                },
-                                {
-                                  "type": "li",
-                                  "content": "Dokumen asli harus dibawa dan difotokopi di kertas A4 (tidak dipotong)"
-                                }
-                              ]
-                            }
+                            "extraContent": [
+                              {
+                                "type": "ol",
+                                "title": "Catatan",
+                                "content": [
+                                  {
+                                    "type": "li",
+                                    "content": "Tidak berlaku untuk penggantian karena hilang / rusak dan ada perbedaan data."
+                                  },
+                                  {
+                                    "type": "li",
+                                    "content": "Apabila paspor keluaran tahun 2009 kebawah dan ada perbedaan data maka persyaratan lengkap seperti permohonan baru."
+                                  },
+                                  {
+                                    "type": "li",
+                                    "content": "Tidak berlaku untuk penggantian paspor anak dibawah 17 tahun, persyaratan penggantian pasport anak mengikuti persyaratan permohonan baru paspor anak dengan tetap melampirkan paspor lama anak."
+                                  },
+                                  {
+                                    "type": "li",
+                                    "content": "Petugas berhak meminta syarat tambahan jika diperlukan."
+                                  },
+                                  {
+                                    "type": "li",
+                                    "content": "Semua data pada dokumen yang dipersyaratkan harus sama"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "content": "Dokumen asli harus dibawa dan difotokopi di kertas A4 (tidak dipotong)"
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }
@@ -976,7 +982,7 @@
                             "content": "Surat Ganti Nama (jika ada)",
                             "extraContent": [
                               {
-                                "type": "ul",
+                                "type": "ol",
                                 "title": "Catatan",
                                 "content": [
                                   {
@@ -1115,7 +1121,7 @@
                             "content": "Surat Ganti Nama (jika ada)",
                             "extraContent": [
                               {
-                                "type": "ul",
+                                "type": "ol",
                                 "title": "Catatan",
                                 "content": [
                                   {
