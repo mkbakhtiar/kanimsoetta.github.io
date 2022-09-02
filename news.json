@@ -51,6 +51,26 @@
 									"content": "anak yang lahir dari perkawinan yang sah dari seorang ayah Warga Negara Indonesia dan ibu Warga Negara Asing;"
 								}
 							]
+						},
+						{
+							"type": "ol",
+							"content": [
+								{
+									"type": "li",
+									"className": "list-c list-alpha",
+									"content": "anak yang lahir dari perkawinan yang sah dari seorang ayah Warga Negara Indonesia dan ibu Warga Negara Asing;"
+								},
+								{
+									"type": "li",
+									"className": "list-c list-alpha",
+									"content": "anak yang lahir dari perkawinan yang sah dari seorang ayah Warga Negara Indonesia dan ibu Warga Negara Asing;"
+								},
+								{
+									"type": "li",
+									"className": "list-c list-alpha",
+									"content": "anak yang lahir dari perkawinan yang sah dari seorang ayah Warga Negara Indonesia dan ibu Warga Negara Asing;"
+								}
+							]
 						}
 					],
 					"created_at": "2022-09-02",
