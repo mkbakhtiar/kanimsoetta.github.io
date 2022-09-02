@@ -1206,7 +1206,7 @@
             ]
           },
           "updatePassportData": {
-            "pageTitle": "Perubahan Data Paspor",
+            "pageTitle": "Perubahan Data Paspor (Endorsement)",
             "content": [
               {
                 "type": "ac",
