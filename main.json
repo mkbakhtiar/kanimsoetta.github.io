@@ -6,38 +6,38 @@
           "slider": [
             {
               "id": 1,
-              "image_mobile": "/images/banner/ssRfcjH.webp",
-              "image_dekstop": "/images/banner/5sjfnv4.webp"
+              "image_mobile": "/images/banner/ssRfcjH.jpg",
+              "image_dekstop": "/images/banner/5sjfnv4.jpg"
             },
             {
               "id": 2,
-              "image_mobile": "/images/banner/mpKRaah.webp",
-              "image_dekstop": "/images/banner/oTMaXQL.webp"
+              "image_mobile": "/images/banner/mpKRaah.jpg",
+              "image_dekstop": "/images/banner/oTMaXQL.jpg"
             },
             {
               "id": 3,
-              "image_mobile": "/images/banner/fOjD5RI.webp",
-              "image_dekstop": "/images/banner/vEnMl9l.webp"
+              "image_mobile": "/images/banner/fOjD5RI.jpg",
+              "image_dekstop": "/images/banner/vEnMl9l.jpg"
             },
             {
               "id": 4,
-              "image_mobile": "/images/banner/BnN4tUR.webp",
-              "image_dekstop": "/images/banner/lfxHhv2.webp"
+              "image_mobile": "/images/banner/BnN4tUR.jpg",
+              "image_dekstop": "/images/banner/lfxHhv2.jpg"
             },
             {
               "id": 5,
-              "image_mobile": "/images/banner/0MD5Ye0.webp",
-              "image_dekstop": "/images/banner/4A8akcO.webp"
+              "image_mobile": "/images/banner/0MD5Ye0.jpg",
+              "image_dekstop": "/images/banner/4A8akcO.jpg"
             },
             {
               "id": 6,
-              "image_mobile": "/images/banner/fFQlP0z.webp",
-              "image_dekstop": "/images/banner/0gEtm6x.webp"
+              "image_mobile": "/images/banner/fFQlP0z.jpg",
+              "image_dekstop": "/images/banner/0gEtm6x.jpg"
             },
             {
               "id": 7,
-              "image_mobile": "/images/banner/yKambTK.webp",
-              "image_dekstop": "/images/banner/qjxnKxX.webp"
+              "image_mobile": "/images/banner/yKambTK.jpg",
+              "image_dekstop": "/images/banner/qjxnKxX.jpg"
             }
           ]
         },
