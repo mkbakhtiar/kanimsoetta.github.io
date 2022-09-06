@@ -9031,7 +9031,7 @@
                         {
                           "type": "table",
                           "content": {
-                            "title": "Kegiatan",
+                            "title": "",
                             "head_column": [
                               {
                                 "content": "SUBKEGIATAN",
@@ -9346,7 +9346,7 @@
                         {
                           "type": "table",
                           "content": {
-                            "title": "Kegiatan",
+                            "title": "",
                             "head_column": [
                               {
                                 "content": "SUBKEGIATAN",
@@ -10864,7 +10864,7 @@
                         {
                           "type": "table",
                           "content": {
-                            "title": "Kegiatan",
+                            "title": "",
                             "head_column": [
                               {
                                 "content": "SUBKEGIATAN",
