@@ -4,7 +4,7 @@
       "berita": [
         {
           "cover": {
-            "url": "https://i.imgur.com/L7uU1lFh.jpg",
+            "url": "/images/news/L7uU1lFh.jpg",
             "photoDescription": "Kepala Kantor Imigrasi Soetta, Muhammad Tito Andrianto bersama dengan Menteri Perhubungan, Budi Karya Sumadi dan Jajaran Kepala Instansi Sekitar Bandara (Sumber Foto: Internal Kanim Soetta)"
           },
           "category": "Serba-Serbi",
@@ -17,7 +17,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/kHPZKKkh.jpg",
+                "url": "/images/news/kHPZKKkh.jpg",
                 "photoDescription": "Budi Karya Sumadi melakukan pengecekan pada peserta Apel (Sumber Foto: Internal Kanim Soetta)"
               }
             },
@@ -28,7 +28,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/GMp5ufAh.jpg",
+                "url": "/images/news/GMp5ufAh.jpg",
                 "photoDescription": "Perserta apel dari berbagai instansi sekitar Bandara Soetta (Sumber Foto: Internal Kanim Soetta)"
               }
             },
@@ -42,7 +42,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/oA9Q25qh.jpg",
+            "url": "/images/news/oA9Q25qh.jpg",
             "photoDescription": "Immigration on Air berlangsung dengan narasumber Kepala Bidang TPI Soetta dan Perwakilan pihak Bank BRI (Sumber Foto: Humas Kanim Soetta)"
           },
           "category": "Pelayanan Keimigrasian",
@@ -59,7 +59,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/cZycNVch.jpg",
+                "url": "/images/news/cZycNVch.jpg",
                 "photoDescription": "Host Immigration on Air bersama dengan Verico Sandi, Selaku Kepala Bidang TPI Soetta memberikan penjelasan terkait Visa on Arrival (Sumber Foto: Humas Kanim Soetta)"
               }
             },
@@ -81,7 +81,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/NUrR1fDh.jpg",
+            "url": "/images/news/NUrR1fDh.jpg",
             "photoDescription": ""
           },
           "category": "Pelayanan Keimigrasian",
@@ -98,21 +98,21 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/dWQqSjjh.jpg",
+                "url": "/images/news/dWQqSjjh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/XM17aPCh.jpg",
+                "url": "/images/news/XM17aPCh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/YrfmPmRh.jpg",
+                "url": "/images/news/YrfmPmRh.jpg",
                 "photoDescription": ""
               }
             },
@@ -126,7 +126,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/iYVkrphh.jpg",
+            "url": "/images/news/iYVkrphh.jpg",
             "photoDescription": "Ilustrasi Petugas Imigrasi di Konter Pemeriksaan Visa On Arrival (VOA) (Sumber Foto: Humas Kanim Soetta)"
           },
           "category": "Pelayanan Keimigrasian",
@@ -143,7 +143,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/VJHtMvvh.jpg",
+                "url": "/images/news/VJHtMvvh.jpg",
                 "photoDescription": "Ilustrasi salah satu WNA yang menggunakan Visa On Arrival (VOA) (Sumber Foto: Humas Kanim Soetta)"
               }
             },
@@ -165,7 +165,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/TmuCWI6h.jpg",
+            "url": "/images/news/TmuCWI6h.jpg",
             "photoDescription": "Kepala Kantor Imigrasi Soetta, Tito Andrianto menyematkan PIN “Tegur Saya Jika Saya Tidak Ramah” kepada pegawai (Sumber Foto: Humas Kanim Soetta)"
           },
           "category": "WBK/WBBM",
@@ -182,7 +182,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/Vp7eETCh.jpg",
+                "url": "/images/news/Vp7eETCh.jpg",
                 "photoDescription": "Suasana Pelaksanaan Apel (Sumber Foto: Humas Kanim Soetta)"
               }
             },
@@ -193,7 +193,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/eaP9WZch.jpg",
+                "url": "/images/news/eaP9WZch.jpg",
                 "photoDescription": "Suasana Pelaksanaan Apel (Sumber Foto: Humas Kanim Soetta)"
               }
             },
@@ -207,7 +207,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/z6MJx1bh.jpg",
+            "url": "/images/news/z6MJx1bh.jpg",
             "photoDescription": ""
           },
           "category": "Pelayanan Keimigrasian",
@@ -228,14 +228,14 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/TkmoWpgh.jpg",
+                "url": "/images/news/TkmoWpgh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/g9RAFjqh.jpg",
+                "url": "/images/news/g9RAFjqh.jpg",
                 "photoDescription": ""
               }
             },
@@ -246,14 +246,14 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/ZLKioh8h.jpg",
+                "url": "/images/news/ZLKioh8h.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/QNjJWPEh.jpg",
+                "url": "/images/news/QNjJWPEh.jpg",
                 "photoDescription": ""
               }
             },
@@ -264,7 +264,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/DXhAerph.jpg",
+                "url": "/images/news/DXhAerph.jpg",
                 "photoDescription": ""
               }
             },
@@ -276,7 +276,7 @@
               "type": "g",
               "content": {
                 "url": "",
-                "photoDescription": "https://i.imgur.com/sen6LCah.jpg"
+                "photoDescription": "/images/news/sen6LCah.jpg"
               }
             },
             {
@@ -289,7 +289,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/mcleFxXh.jpg",
+            "url": "/images/news/mcleFxXh.jpg",
             "photoDescription": ""
           },
           "category": "Pelayanan Keimigrasian",
@@ -306,35 +306,35 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/iecLoC9h.jpg",
+                "url": "/images/news/iecLoC9h.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/vRrq86uh.jpg",
+                "url": "/images/news/vRrq86uh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/ygYFsmkh.jpg",
+                "url": "/images/news/ygYFsmkh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/yT4ty7Bh.jpg",
+                "url": "/images/news/yT4ty7Bh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/AOE0yqnh.jpg",
+                "url": "/images/news/AOE0yqnh.jpg",
                 "photoDescription": ""
               }
             },
@@ -348,7 +348,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/Qy9zl5bh.jpg",
+            "url": "/images/news/Qy9zl5bh.jpg",
             "photoDescription": ""
           },
           "category": "WBK/WBBM",
@@ -365,14 +365,14 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/aP7HPrAh.jpg",
+                "url": "/images/news/aP7HPrAh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/L9M25Hhh.jpg",
+                "url": "/images/news/L9M25Hhh.jpg",
                 "photoDescription": ""
               }
             },
@@ -386,7 +386,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/PVlcHoOh.jpg",
+            "url": "/images/news/PVlcHoOh.jpg",
             "photoDescription": ""
           },
           "category": "Pelayanan Keimigrasian",
@@ -403,42 +403,42 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/T0H8a85h.jpg",
+                "url": "/images/news/T0H8a85h.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/GEksS6kh.jpg",
+                "url": "/images/news/GEksS6kh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/BuW9QwKh.jpg",
+                "url": "/images/news/BuW9QwKh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/PXUsAPNh.jpg",
+                "url": "/images/news/PXUsAPNh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/VL34BXGh.jpg",
+                "url": "/images/news/VL34BXGh.jpg",
                 "photoDescription": ""
               }
             },
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/hh0UIHVh.jpg",
+                "url": "/images/news/hh0UIHVh.jpg",
                 "photoDescription": ""
               }
             }
@@ -448,7 +448,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/bEf0aQUh.jpg",
+            "url": "/images/news/bEf0aQUh.jpg",
             "photoDescription": "Penyesuaian Jam Kerja Layanan Selama Bulan Ramadhan 1443 H"
           },
           "category": "Pelayanan Keimigrasian",
@@ -476,7 +476,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/hnznUOrh.jpg",
+            "url": "/images/news/hnznUOrh.jpg",
             "photoDescription": "Dokter Netty Rahmawati dan Suster Resty Marpaung berpose di depan klinik Pratama Kantor Imigrasi Kelas 1 Khusus TPI Soekarno-Hatta (Sumber Foto: Internal Kanim Soetta)"
           },
           "category": "Serba-Serbi",
@@ -489,7 +489,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/xSxI0Llh.jpg",
+                "url": "/images/news/xSxI0Llh.jpg",
                 "photoDescription": "Pengecekan tekanan darah pengguna layanan keimigrasian Kanim Soetta (Sumber Foto: Internal Kanim Soetta)"
               }
             },
@@ -500,7 +500,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/S0p0M6sh.jpg",
+                "url": "/images/news/S0p0M6sh.jpg",
                 "photoDescription": "Layanan swab di Klinik Pratama Soetta (Sumber Foto: Internal Kanim Soetta)"
               }
             },
@@ -514,7 +514,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/AjOEL3nh.jpg",
+            "url": "/images/news/AjOEL3nh.jpg",
             "photoDescription": "Pelaksanaan kegiatan Medical Check-up pegawai Kantor Imigrasi Kelas 1 Khusus TPI Soekarno-hatta bersama klinik Arina Medika (Sumber Foto: Internal Kanim Soetta)"
           },
           "category": "Serba-Serbi",
@@ -527,7 +527,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/2Lv6GS4h.jpg",
+                "url": "/images/news/2Lv6GS4h.jpg",
                 "photoDescription": "Salah satu pegawai Kanim Soetta sedang menjalani proses pengambilan sampel darah (Sumber Foto: Internal Kanim Soetta)"
               }
             },
@@ -578,7 +578,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/JRldks6h.jpg",
+                "url": "/images/news/JRldks6h.jpg",
                 "photoDescription": "Satu dari beragam rangkaian pemeriksaan pada kegiatan Medical Check-up pegawai Kanim Soetta (Sumber Foto: Internal Kanim Soetta)"
               }
             }
@@ -588,7 +588,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/T1KBeyoh.jpg",
+            "url": "/images/news/T1KBeyoh.jpg",
             "photoDescription": "Foto bersama pada kegiatan Pemusnahan Arsip Keimigrasian Kantor Imigrasi Kelas 1 Khusus TPI Soekarno-Hatta  (Sumber Foto: Internal Kanim Soetta)"
           },
           "category": "Serba-Serbi",
@@ -605,7 +605,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/FVWV9l2h.jpg",
+                "url": "/images/news/FVWV9l2h.jpg",
                 "photoDescription": "Sambutan dari Kepala Kantor Imigrasi Kelas 1 Khusus TPI Soekarno-Hatta (Sumber Foto: Internal Kanim Soetta)"
               }
             },
@@ -616,7 +616,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/AYjfT6th.jpg",
+                "url": "/images/news/AYjfT6th.jpg",
                 "photoDescription": "Tamu undangan kegiatan Pemusnahan Arsip menyanyikan lagu “Indonesia Raya” bersama-sama  (Sumber Foto: Internal Kanim Soetta)"
               }
             },
@@ -630,7 +630,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/7tHh9Ush.jpg",
+            "url": "/images/news/7tHh9Ush.jpg",
             "photoDescription": "Citra virus Covid-19 yang pernah menjadi pandemi global sejak 2020 lalu (Sumber Foto: Google)"
           },
           "category": "Serba-Serbi",
@@ -643,7 +643,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/xZ8ND65h.jpg",
+                "url": "/images/news/xZ8ND65h.jpg",
                 "photoDescription": "Penggunaan masker yang pernah menjadi mandatory pemerintah ketika puncak penyebaran Covid-19 beberapa saat lalu (Sumber Foto: Google)"
               }
             },
@@ -665,7 +665,7 @@
                   "content": "Selain penerapan pola tidur dan istirahat, kebiasaan untuk menjalani hidup yang aktif juga terbukti ampuh dalam menjaga kesehatan tubuh selama endemi. Ayo, ngaku! Apakah Sahabat Mido termasuk pelaku hidup aktif, atau justru pelaku pola hidup sedentary? Nyatanya, pola hidup yang aktif serta olahraga teratur dapat memberikan manfaat positif bagi kondisi fisik dan mental, lho! Beberapa manfaat yang dimaksud di antaranya adalah menurunkan resiko terkena penyakit, meningkatkan massa tulang dan otot, mengontrol berat badan, serta meningkatkan kesehatan mental sekaligus menjaga mood level agar tetap stabil.",
                   "image": {
                     "position": "bottom",
-                    "url": "https://i.imgur.com/a8ivFPXh.jpg",
+                    "url": "/images/news/a8ivFPXh.jpg",
                     "description": "Pola hidup aktif dipandang banyak ahli dapat menjadi salah satu cara agar tetap sehat di tengah-tengah endemi Covid-19 (Sumber Foto: Google)"
                   }
                 },
@@ -682,7 +682,7 @@
         },
         {
           "cover": {
-            "url": "https://i.imgur.com/oqyElLgh.jpg",
+            "url": "/images/news/oqyElLgh.jpg",
             "photoDescription": "Dirsistik bersama Kepala Kantor Imigrasi Soetta, Muhammad Tito Andrianto, Kabid TPI Verico Sandy, Kabid Tikim, Habiburrahman dan Rombongan bergerak menuju Tempat Pemeriksaan Imigrasi (Sumber Foto: Humas Kanim)"
           },
           "category": "Pelayanan Keimigrasian",
@@ -695,7 +695,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/0go7nxNh.jpg",
+                "url": "/images/news/0go7nxNh.jpg",
                 "photoDescription": "Dirsitik memimpin diskusi terkait keadaan TPI Soetta dan target apa yang diharapkan dari kerjasama dengan Tim Securiport (Sumber Foto: Humas Kanim Soetta)"
               }
             },
@@ -706,7 +706,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/iAD2lMoh.jpg",
+                "url": "/images/news/iAD2lMoh.jpg",
                 "photoDescription": "Dirsistik, Kepala Kanim Soetta dan Rombongan Menuju Kedatangan T3 Internasional Bandara Soetta (Sumber Foto: Humas Kanim Soetta)"
               }
             },
@@ -717,7 +717,7 @@
             {
               "type": "g",
               "content": {
-                "url": "https://i.imgur.com/S4AVL6th.jpg",
+                "url": "/images/news/S4AVL6th.jpg",
                 "photoDescription": "Dirsistik jelaskan keadaan sistem pemeriksaan keimigrasian di T3 Kedatangan Internasional Bandara Soetta kepada Tim Securiport (Sumber Foto: Humas Kanim Soetta)"
               }
             },
@@ -769,7 +769,7 @@
       "pengumuman": [
         {
           "images": [
-            "https://i.imgur.com/HywApmX.png"
+            "/images/news/HywApmX.png"
           ],
           "created_at": "2022-08-24",
           "title": "Jam Pelayanan",
@@ -810,7 +810,7 @@
         },
         {
           "images": [
-            "https://i.imgur.com/PXtFQEw.png"
+            "/images/news/PXtFQEw.png"
           ],
           "created_at": "2022-08-24",
           "title": "Negara Subjek VOA",
@@ -1213,7 +1213,7 @@
         },
         {
           "images": [
-            "https://i.imgur.com/cZ1OIhFh.jpg"
+            "/images/news/cZ1OIhFh.jpg"
           ],
           "created_at": "2022-08-24",
           "title": "Layanan Percepatan Paspor",
@@ -1270,12 +1270,12 @@
         },
         {
           "images": [
-            "https://i.imgur.com/kHNiNW3h.jpg",
-            "https://i.imgur.com/bh65sxzh.jpg",
-            "https://i.imgur.com/RrnujW4h.jpg",
-            "https://i.imgur.com/MKgLWHwh.jpg",
-            "https://i.imgur.com/6YEuIY5h.jpg",
-            "https://i.imgur.com/P0bIDsmh.jpg"
+            "/images/news/kHNiNW3h.jpg",
+            "/images/news/bh65sxzh.jpg",
+            "/images/news/RrnujW4h.jpg",
+            "/images/news/MKgLWHwh.jpg",
+            "/images/news/6YEuIY5h.jpg",
+            "/images/news/P0bIDsmh.jpg"
           ],
           "created_at": "2022-04-13",
           "title": "Pemohon Wajib Tahu",
@@ -1291,7 +1291,7 @@
         },
         {
           "images": [
-            "https://i.imgur.com/bEf0aQUh.jpg"
+            "/images/news/bEf0aQUh.jpg"
           ],
           "created_at": "2022-04-06",
           "title": "Catat! Berikut Adalah Jam Kerja Pelayanan",
@@ -1311,8 +1311,8 @@
         },
         {
           "images": [
-            "https://i.imgur.com/RTwkQehh.jpg",
-            "https://i.imgur.com/h32F8nFh.jpg"
+            "/images/news/RTwkQehh.jpg",
+            "/images/news/h32F8nFh.jpg"
           ],
           "created_at": "2022-02-14",
           "title": "Catat! Berikut Adalah Cara Mudah Menggunakan Aplikasi",
@@ -1332,7 +1332,7 @@
         },
         {
           "images": [
-            "https://i.imgur.com/kLajVgfh.jpg"
+            "/images/news/kLajVgfh.jpg"
           ],
           "created_at": "2022-01-19",
           "title": "Immigration On Air Part II",
@@ -1356,9 +1356,9 @@
         },
         {
           "images": [
-            "https://i.imgur.com/1p5wxB4h.jpg",
-            "https://i.imgur.com/DQeXMMch.jpg",
-            "https://i.imgur.com/eyX2WT5h.jpg"
+            "/images/news/1p5wxB4h.jpg",
+            "/images/news/DQeXMMch.jpg",
+            "/images/news/eyX2WT5h.jpg"
           ],
           "created_at": "2022-01-11",
           "title": "Kepala Kantor dan Jajaran Pejabat Struktural Kanim Seotta Mengikuti Kegiatan Deklarasi",
@@ -1374,8 +1374,8 @@
         },
         {
           "images": [
-            "https://i.imgur.com/awFEPgkh.jpg",
-            "https://i.imgur.com/Ue6Fehgh.jpg"
+            "/images/news/awFEPgkh.jpg",
+            "/images/news/Ue6Fehgh.jpg"
           ],
           "created_at": "2021-12-31",
           "title": "Siaran Pers Apresiasi Kantor Wilayah DKI Jakarta",
@@ -1391,10 +1391,10 @@
         },
         {
           "images": [
-            "https://i.imgur.com/nrcto6Nh.jpg",
-            "https://i.imgur.com/UDlgksjh.jpg",
-            "https://i.imgur.com/AWbbJsOh.jpg",
-            "https://i.imgur.com/IbClF6xh.jpg"
+            "/images/news/nrcto6Nh.jpg",
+            "/images/news/UDlgksjh.jpg",
+            "/images/news/AWbbJsOh.jpg",
+            "/images/news/IbClF6xh.jpg"
           ],
           "created_at": "2021-06-08",
           "title": "Hasil Survey IKM & IPK Mei 2021",
@@ -1414,10 +1414,10 @@
         },
         {
           "images": [
-            "https://i.imgur.com/XD5Hau9h.jpg",
-            "https://i.imgur.com/CprV5STh.jpg",
-            "https://i.imgur.com/ZTZFyBYh.jpg",
-            "https://i.imgur.com/uiyTvxfh.jpg"
+            "/images/news/XD5Hau9h.jpg",
+            "/images/news/CprV5STh.jpg",
+            "/images/news/ZTZFyBYh.jpg",
+            "/images/news/uiyTvxfh.jpg"
           ],
           "created_at": "2021-05-25",
           "title": "Hasil Survey IKT & IPK",
@@ -1441,8 +1441,8 @@
         },
         {
           "images": [
-            "https://i.imgur.com/qGGtEoGh.jpg",
-            "https://i.imgur.com/JHsbnPHh.jpg"
+            "/images/news/qGGtEoGh.jpg",
+            "/images/news/JHsbnPHh.jpg"
           ],
           "created_at": "2021-01-04",
           "title": "Cegah Varian Baru Covid-19",
@@ -1461,10 +1461,10 @@
         },
         {
           "images": [
-            "https://i.imgur.com/J7IPEJDh.jpg",
-            "https://i.imgur.com/q7BV4Fjh.jpg",
-            "https://i.imgur.com/PobuJn4h.jpg",
-            "https://i.imgur.com/SmMZApGh.jpg"
+            "/images/news/J7IPEJDh.jpg",
+            "/images/news/q7BV4Fjh.jpg",
+            "/images/news/PobuJn4h.jpg",
+            "/images/news/SmMZApGh.jpg"
           ],
           "created_at": "2021-01-01",
           "title": "Care To Action",
@@ -1539,56 +1539,56 @@
       "galerifoto": [
         {
           "url": [
-            "https://i.imgur.com/CsRW6Qzh.jpg"
+            "/images/news/CsRW6Qzh.jpg"
           ],
           "description": "Kegiatan “Penyebaran Informasi Melalui Media Radio (bagian 2)” bersama Radio Prambors FM. Pada kegiatan ini, Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta diwakili oleh Kabid Doklanintalkim beserta staff Humas yang bertugas.",
           "photographer": "Prama Yogi"
         },
         {
           "url": [
-            "https://i.imgur.com/alk8KhGh.jpg"
+            "/images/news/alk8KhGh.jpg"
           ],
           "description": "Tim senam yang mewakili Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta dalam perlombaan Senam Poco-Poco Kanwil DKI Jakarta dalam rangka memperingati Hari Dharma Karya Dhika ke-77",
           "photographer": "Nandiwardhana Dharmmesta"
         },
         {
           "url": [
-            "https://i.imgur.com/Dc11RuNh.jpg"
+            "/images/news/Dc11RuNh.jpg"
           ],
           "description": "Kabid Tikim Ketika menerima penghargaan Silver Winner Media Darling dalam ajang Anugerah Humas Imigrasi Indonesia (AHII).",
           "photographer": "Badarudin Ramdani"
         },
         {
           "url": [
-            "https://i.imgur.com/zOrU3k4h.jpg"
+            "/images/news/zOrU3k4h.jpg"
           ],
           "description": "Pelaksanaan kegiatan “Asesmen Bersama di Bandara Internasional Soekarno-Hatta Terkait Kesiapsiagaan dan Pemulihan Covid-19” yang diadakan atas Kerjasama IOM dengan Direktorat Jenderal Imigrasi.",
           "photographer": "Ai Rahmiyati"
         },
         {
           "url": [
-            "https://i.imgur.com/dvPSJ3Gh.jpg"
+            "/images/news/dvPSJ3Gh.jpg"
           ],
           "description": "Kabid TPI yang hadir mewakili Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta dalam Rapat Koordinasi Komite Fasilitasi (FAL) Bandar Udara Soekarno-Hatta. Dalam kegiatan ini, turut hadir perwakilan dari setiap instansi yang tergabung dalam KOMBATA (Komunitas Bandara Soekarno-Hatta)",
           "photographer": "Elisabet Nur W."
         },
         {
           "url": [
-            "https://i.imgur.com/827JPl9h.jpg"
+            "/images/news/827JPl9h.jpg"
           ],
           "description": "Proses pengibaran bendera merah putih pada Upacara Peringatan Hari Kemerdekaan Indonesia ke-77. Upacara kali ini dilaksanakan di halaman kantor dan dihadiri oleh setiap pegawai Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta.",
           "photographer": "Yoga Aditya"
         },
         {
           "url": [
-            "https://i.imgur.com/9dsSWTUh.jpg"
+            "/images/news/9dsSWTUh.jpg"
           ],
           "description": "Pelaksanaan lomba makan kerupuk dalam rangka memeriahkan peringatan HUT RI ke-77. Lomba ini diikuti oleh perwakilan dari setiap bidang kerja di Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta.",
           "photographer": "Riki Permana"
         },
         {
           "url": [
-            "https://i.imgur.com/h1GvWikh.jpg"
+            "/images/news/h1GvWikh.jpg"
           ],
           "description": "Pelaksanaan lomba memasukkan belut ke dalam botol dalam rangka memeriahkan peringatan HUT RI ke-77. Lomba ini diikuti oleh perwakilan dari setiap bidang kerja di Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta.",
           "photographer": "Riki Permana"

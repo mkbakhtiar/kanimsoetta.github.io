@@ -6,38 +6,38 @@
           "slider": [
             {
               "id": 1,
-              "image_mobile": "https://i.imgur.com/ssRfcjH.jpg",
-              "image_dekstop": "https://i.imgur.com/5sjfnv4.jpg"
+              "image_mobile": "/images/banner/ssRfcjH.jpg",
+              "image_dekstop": "/images/banner/5sjfnv4.jpg"
             },
             {
               "id": 2,
-              "image_mobile": "https://i.imgur.com/mpKRaah.jpg",
-              "image_dekstop": "https://i.imgur.com/oTMaXQL.jpg"
+              "image_mobile": "/images/banner/mpKRaah.jpg",
+              "image_dekstop": "/images/banner/oTMaXQL.jpg"
             },
             {
               "id": 3,
-              "image_mobile": "https://i.imgur.com/fOjD5RI.jpg",
-              "image_dekstop": "https://i.imgur.com/vEnMl9l.jpg"
+              "image_mobile": "/images/banner/fOjD5RI.jpg",
+              "image_dekstop": "/images/banner/vEnMl9l.jpg"
             },
             {
               "id": 4,
-              "image_mobile": "https://i.imgur.com/BnN4tUR.jpg",
-              "image_dekstop": "https://i.imgur.com/lfxHhv2.jpg"
+              "image_mobile": "/images/banner/BnN4tUR.jpg",
+              "image_dekstop": "/images/banner/lfxHhv2.jpg"
             },
             {
               "id": 5,
-              "image_mobile": "https://i.imgur.com/0MD5Ye0.jpg",
-              "image_dekstop": "https://i.imgur.com/4A8akcO.jpg"
+              "image_mobile": "/images/banner/0MD5Ye0.jpg",
+              "image_dekstop": "/images/banner/4A8akcO.jpg"
             },
             {
               "id": 6,
-              "image_mobile": "https://i.imgur.com/fFQlP0z.jpg",
-              "image_dekstop": "https://i.imgur.com/0gEtm6x.jpg"
+              "image_mobile": "/images/banner/fFQlP0z.jpg",
+              "image_dekstop": "/images/banner/0gEtm6x.jpg"
             },
             {
               "id": 7,
-              "image_mobile": "https://i.imgur.com/yKambTK.jpg",
-              "image_dekstop": "https://i.imgur.com/qjxnKxX.jpg"
+              "image_mobile": "/images/banner/yKambTK.jpg",
+              "image_dekstop": "/images/banner/qjxnKxX.jpg"
             }
           ]
         },
@@ -158,49 +158,49 @@
             {
               "title": "M-Paspor",
               "description": "Tautan untuk mengunduh aplikasi pengajuan paspor bagi pengguna telepon genggam berbasis iOS / android",
-              "icon": "https://i.imgur.com/bSABXYS.png",
+              "icon": "/images/apps/bSABXYS.png",
               "appUrl": "",
               "mobileApps": [
                 {
                   "type": "android",
                   "url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
-                  "url_image": "https://i.imgur.com/FHclioE.png"
+                  "url_image": "/images/apps/FHclioE.png"
                 },
                 {
                   "type": "ios",
                   "url": "https://apps.apple.com/id/app/m-paspor/id1576336459",
-                  "url_image": "https://i.imgur.com/J9tDSTK.png"
+                  "url_image": "/images/apps/J9tDSTK.png"
                 }
               ]
             },
             {
               "title": "Visa Online",
               "description": "Tautan yang dapat digunakan oleh WNA yang akan mengajukan visa, bisa berupa visa kunjungan, VITAS, atau lainnya",
-              "icon": "https://imgur.com/mhWWwN7.png",
+              "icon": "/images/apps/mhWWwN7.png",
               "appUrl": "https://visa-online.imigrasi.go.id/"
             },
             {
               "title": "Check Permohonan Paspor",
               "description": "Fitur layanan yang dapat digunakan oleh pemohon untuk mengetahui perkembangan proses pengajuan paspor",
-              "icon": "https://i.imgur.com/Jush5VM.png",
+              "icon": "/images/apps/Jush5VM.png",
               "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/cekpermohonan/"
             },
             {
               "title": "E-Perdim 11",
               "description": "Tautan untuk lampiran pengisian formulir Dokumen Perjalanan Republik Indonesia (DPRI) dalam pengajuan permohonan paspor",
-              "icon": "https://i.imgur.com/nF90pro.png",
+              "icon": "/images/apps/nF90pro.png",
               "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
             },
             {
               "title": "Izin Tinggal Online",
               "description": "Tautan yang dapat digunakan oleh pemohon/WNA untuk mengajukan pengajuan izin tinggal secara online",
-              "icon": "https://i.imgur.com/ZixmWWn.png",
+              "icon": "/images/apps/ZixmWWn.png",
               "appUrl": "https://izintinggal-online.imigrasi.go.id/"
             },
             {
               "title": "Pelaporan Orang Asing",
               "description": "Aplikasi yang dapat digunakan oleh masyarakat untuk pelaporan orang asing yang berada di wilayahnya",
-              "icon": "https://i.imgur.com/dmpFSbr.png",
+              "icon": "/images/apps/dmpFSbr.png",
               "appUrl": "https://apoa.imigrasi.go.id/poa/"
             }
           ]
@@ -251,23 +251,23 @@
                   "content": [
                     {
                       "path": "https://www.instagram.com/imigrasi.soekarnohatta/",
-                      "icon": "https://i.imgur.com/8F3alDw.png"
+                      "icon": "/images/socmed/8F3alDw.png"
                     },
                     {
                       "path": "https://twitter.com/imigrasi_soetta",
-                      "icon": "https://i.imgur.com/AgKMhLz.png"
+                      "icon": "/images/socmed/AgKMhLz.png"
                     },
                     {
                       "path": "https://www.facebook.com/imigrasi.soekarnohatta",
-                      "icon": "https://i.imgur.com/1NC6Xng.png"
+                      "icon": "/images/socmed/1NC6Xng.png"
                     },
                     {
                       "path": "https://www.youtube.com/c/KantorImigrasiSoekarnoHatta",
-                      "icon": "https://i.imgur.com/olr0gAq.png"
+                      "icon": "/images/socmed/olr0gAq.png"
                     },
                     {
                       "path": "https://www.tiktok.com/@imigrasi.soekarnohatta",
-                      "icon": "https://i.imgur.com/ctgI8yj.png"
+                      "icon": "/images/socmed/ctgI8yj.png"
                     }
                   ]
                 }
@@ -349,46 +349,46 @@
               "title": "Kepala Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
               "name": "Muhammad Tito Andrianto, S.H, M.H",
               "nip": "NIP. 19780114 199703 1 001",
-              "photo": "https://imgur.com/R4RtKXc.jpg"
+              "photo": "/images/pejabat/R4RtKXc.jpg"
             },
             "tu": [
               {
                 "title": "Kepala Bagian Tata Usaha",
                 "name": "Nur Raisha Pujiastuti, S.H, M.H",
                 "nip": "NIP. 19690423 199403 2 001",
-                "photo": "https://imgur.com/Eq1OK4t.jpg"
+                "photo": "/images/pejabat/Eq1OK4t.jpg"
               },
               {
                 "title": "Kepala Sub Bagian Kepegawaian dan Umum",
                 "name": "Setyo Pitriyono, S.H",
                 "nip": "NIP. 19670114 198903 1 002",
-                "photo": "https://imgur.com/N8gG92O.jpg"
+                "photo": "/images/pejabat/N8gG92O.jpg"
               },
               {
                 "title": "Kepala Sub Bagian Keuangan",
                 "name": "Edy Sriyatno, S.H",
                 "nip": "NIP. 19680409 200112 1 001",
-                "photo": "https://imgur.com/98buu21.jpg"
+                "photo": "/images/pejabat/98buu21.jpg"
               }
             ],
             "tikim": [
               {
                 "title": "Kepala Bidang Teknologi Informasi dan Komunikasi Keimigrasian",
-                "name": "Habiburrahman A.K.S, S.H, M.H",
+                "name": "Habiburrahman A.K.S, S.H, M.M",
                 "nip": "NIP. 19710730 199603 1 001",
-                "photo": "https://imgur.com/lSqs9pC.jpg"
+                "photo": "/images/pejabat/lSqs9pC.jpg"
               },
               {
                 "title": "Kepala Seksi Teknologi Informasi Keimigrasian",
                 "name": "Oke Yoviana Nurmayanti, S.E, M.M",
                 "nip": "NIP. 19760513 200112 2 001",
-                "photo": "https://imgur.com/8PgVrHT.jpg"
+                "photo": "/images/pejabat/8PgVrHT.jpg"
               },
               {
                 "title": "Kepala Seksi Teknologi Informasi Keimigrasian",
                 "name": "Jongki Ade Situngkir, S.H, M.M",
                 "nip": "NIP. 19840308 200604 1 001",
-                "photo": "https://imgur.com/N7kbWbm.jpg"
+                "photo": "/images/pejabat/N7kbWbm.jpg"
               }
             ],
             "doklan": [
@@ -396,19 +396,19 @@
                 "title": "Kepala Bidang Dokumen Perjalanan dan Izin Tinggal Keimigrasian",
                 "name": "Ika Rahmawati, A.Md, Im., S.I.P",
                 "nip": "NIP. 19810811 200002 2 001",
-                "photo": "https://imgur.com/F5ERmP2.jpg"
+                "photo": "/images/pejabat/F5ERmP2.jpg"
               },
               {
                 "title": "Kepala Seksi Dokumen Perjalanan",
                 "name": "Heldi Khair Raja, A.Md, Im S.H, M.Si",
                 "nip": "NIP. 19821007 200012 2 001",
-                "photo": "https://imgur.com/8Xoi7tx.jpg"
+                "photo": "/images/pejabat/8Xoi7tx.jpg"
               },
               {
                 "title": "Kepala Seksi Izin Tinggal Keimigrasian",
                 "name": "Yohanes Roy Surya Sanjaya, S.Tr, Im",
                 "nip": "NIP. 19940501 201608 1 001",
-                "photo": "https://imgur.com/df10B07.jpg"
+                "photo": "/images/pejabat/df10B07.jpg"
               }
             ],
             "intel": [
@@ -416,51 +416,51 @@
                 "title": "Kepala Bidang Intelijen dan Penindakan Keimigrasian",
                 "name": "Andhika Pandu Kurniawan, A.Md,Im., S.H",
                 "nip": "NIP. 19820505 200212 1 001",
-                "photo": "https://imgur.com/jnd0vWf.jpg"
+                "photo": "/images/pejabat/jnd0vWf.jpg"
               },
               {
                 "title": "Kepala Seksi Intelijen Keimigrasian",
                 "name": "Yogi Saputra Pribadi K, A.Md,Im, S.H",
                 "nip": "NIP. 19881024 200701 1 002",
-                "photo": "https://imgur.com/uinaTcB.jpg"
+                "photo": "/images/pejabat/uinaTcB.jpg"
               },
               {
                 "title": "Kepala Seksi Penindakan Keimigrasian",
                 "name": "Bismo Surono, A.Md, Im., S.H",
                 "nip": "NIP. 19890421 200801 1 005",
-                "photo": "https://imgur.com/NH9dNwe.jpg"
+                "photo": "/images/pejabat/NH9dNwe.jpg"
               }
             ],
             "tpi": [
               {
-                "title": "Kepala Bidang Tempat Pemeriksaan Imgrasi",
+                "title": "Kepala Bidang Tempat Pemeriksaan Imigrasi",
                 "name": "Verico Sandi, A.Md. Im., S.H., M.Si",
                 "nip": "NIP. 19820326 200012 1 001",
-                "photo": "https://imgur.com/3QYD823.jpg"
+                "photo": "/images/pejabat/3QYD823.jpg"
               },
               {
                 "title": "Kepala Seksi Pemeriksaan I",
                 "name": "Maximilianus Kolbe Kristanto Lake, S.T, M.H",
                 "nip": "NIP. 1984082 200912 1 005",
-                "photo": "https://imgur.com/MtJQPCE.jpg"
+                "photo": "/images/pejabat/MtJQPCE.jpg"
               },
               {
                 "title": "Kepala Seksi Pemeriksaan II",
                 "name": "Nanang Saiful Isra Rusli, S.H",
                 "nip": "NIP. 19910212 201012 1 003",
-                "photo": "https://imgur.com/UBLxclz.jpg"
+                "photo": "/images/pejabat/UBLxclz.jpg"
               },
               {
                 "title": "Kepala Seksi Pemeriksaan III",
                 "name": "Afif Nur Anshari, S.H",
                 "nip": "NIP. 19890426 200801 1 001",
-                "photo": "https://imgur.com/RnPwdOe.jpg"
+                "photo": "/images/pejabat/RnPwdOe.jpg"
               },
               {
                 "title": "Kepala Seksi Pemeriksaan IV",
                 "name": "Widhi Deniartomo Arisona, S.H",
                 "nip": "NIP. 19901211 201012 1 001",
-                "photo": "https://imgur.com/DpWrdUp.jpg"
+                "photo": "/images/pejabat/DpWrdUp.jpg"
               }
             ]
           }
