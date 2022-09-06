@@ -10277,13 +10277,16 @@
                       "title": "Prosedur Permohonan dan Persyaratan",
                       "content": [
                         {
+                          "type":"p",
+                          "content":"BERGABUNG DENGAN SUAMI/ ISTRI WARGA NEGARA INDONESIA",
+                          "className": "italic-p"
+                        },
+                        {
                           "type": "p-link",
-                          "className": "italic-p",
                           "content": [
                             {
                               "type":"p",
-                              "content":"BERGABUNG DENGAN SUAMI/ ISTRI WARGA NEGARA INDONESIA Visa Tinggal Terbatas dapat diajukan melalui aplikasi",
-                              "className": "italic-p"
+                              "content":"Visa Tinggal Terbatas dapat diajukan melalui aplikasi",
                             },
                             {
                               "type":"a",
