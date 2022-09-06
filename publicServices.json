@@ -9429,7 +9429,22 @@
                             {
                               "type": "li",
                               "className": "list-c list-number",
-                              "content": "surat rekomendasi dari instansi berwenang di bidang penanaman modal. (Kementerian Investasi/Badan Koordinasi Penanaman Modal)"
+                              "extraContent": [
+                                {
+                                  "type": "p-link",
+                                  "content": [
+                                    {
+                                      "type":"p",
+                                      "content":"surat rekomendasi dari instansi berwenang di bidang penanaman modal. "
+                                    },
+                                    {
+                                      "type":"a",
+                                      "content":"(Kementerian Investasi/Badan Koordinasi Penanaman Modal)",
+                                      "link":"https://www.bkpm.go.id/en/home"
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
