@@ -10252,11 +10252,12 @@
                           "content": [
                             {
                               "type":"p",
-                              "content":"BERGABUNG DENGAN SUAMI/ ISTRI WARGA NEGARA INDONESIA Visa Tinggal Terbatas dapat diajukan melalui aplikasi"
+                              "content":"BERGABUNG DENGAN SUAMI/ ISTRI WARGA NEGARA INDONESIA Visa Tinggal Terbatas dapat diajukan melalui aplikasi",
+                              "className": "italic-p"
                             },
                             {
                               "type":"a",
-                              "content":"Persetujuan Visa Online.",
+                              "content":"Persetujuan Visa Online",
                               "link":"https://visa-online.imigrasi.go.id"
                             },
                             {
