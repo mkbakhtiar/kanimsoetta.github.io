@@ -8167,17 +8167,22 @@
                       "title": "Proses Pengajuan dan Pemberian Visa",
                       "content": [
                         {
-                          "type":"p",
-                          "content":"Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi"
-                        },
-                        {
-                          "type":"a",
-                          "content":" www.imigrasi.go.id",
-                          "link":"https://imigrasi.go.id"
-                        },
-                        {
-                          "type":"p",
-                          "content":"atau langsung di aplikasi"
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":" www.imigrasi.go.id",
+                              "link":"https://imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":"atau langsung di aplikasi"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
