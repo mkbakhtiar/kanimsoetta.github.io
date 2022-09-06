@@ -8123,12 +8123,6 @@
                             {
                               "type": "li",
                               "className": "list-c list-number",
-                              "value": "2",
-                              "content": "Tiket kembali atau tiket terusan untuk melanjutkan perjalanan ke negara lain."
-                            },
-                            {
-                              "type": "li",
-                              "className": "list-c list-number",
                               "content": "Surat penjaminan dari Penjamin, kecuali untuk kunjungan dalam rangka wisata, atau bukti setor jaminan Keimigrasian bagi Orang Asing dalam rangka pra-investasi."
                             },
                             {
