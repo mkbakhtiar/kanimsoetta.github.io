@@ -8316,8 +8316,18 @@
                       "title": "Prosedur Permohonan dan Persyaratan",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Visa Kunjungan Satu Kali perjalanan untuk 60 hari dan 180 hari dapat diajukan melalui aplikasi Persetujuan Visa Online."
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Visa Kunjungan Satu Kali perjalanan untuk 60 hari dan 180 hari dapat diajukan melalui aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -8371,8 +8381,22 @@
                       "title": "Proses Pengajuan dan Pemberian Visa",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi Persetujuan Visa Online. Pemberian Visa kunjungan 1 (satu) kali perjalanan yang diajukan oleh Orang Asing dilaksanakan melalui tahapan:"
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":"Pemberian Visa kunjungan 1 (satu) kali perjalanan yang diajukan oleh Orang Asing dilaksanakan melalui tahapan:"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -8515,8 +8539,22 @@
                       "title": "Prosedur Permohonan dan Persyaratan",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Visa Kunjungan Satu Kali perjalanan untuk 60 hari dan 180 hari hanya dapat diajukan melalui aplikasi Persetujuan Visa Online. Persyaratan:"
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Visa Kunjungan Satu Kali perjalanan untuk 60 hari dan 180 hari hanya dapat diajukan melalui aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":"Persetujuan Visa Online. Persyaratan:"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -8570,8 +8608,22 @@
                       "title": "Proses Pengajuan dan Pemberian Visa",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi Persetujuan Visa Online. Pemberian Visa kunjungan 1 (satu) kali perjalanan yang diajukan oleh Orang Asing dilaksanakan melalui tahapan:"
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":"Pemberian Visa kunjungan 1 (satu) kali perjalanan yang diajukan oleh Orang Asing dilaksanakan melalui tahapan:"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -9067,8 +9119,22 @@
                       "title": "Prosedur Permohonan dan Persyaratan",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Visa Tinggal Terbatas dapat diajukan melalui aplikasi Persetujuan Visa Online, dengan melampirkan:"
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Visa Tinggal Terbatas dapat diajukan melalui aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":"Persetujuan Visa Online, dengan melampirkan:"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -9127,8 +9193,22 @@
                       "title": "Proses Pengajuan dan Pemberian Visa",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi Persetujuan Visa Online. Pemberian Visa kunjungan 1 (satu) kali perjalanan yang diajukan oleh Orang Asing dilaksanakan melalui tahapan:"
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":"Pemberian Visa kunjungan 1 (satu) kali perjalanan yang diajukan oleh Orang Asing dilaksanakan melalui tahapan:"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -9265,8 +9345,22 @@
                       "title": "Prosedur Permohonan dan Persyaratan",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Visa Tinggal Terbatas dapat diajukan melalui aplikasi Persetujuan Visa Online, dengan melampirkan:"
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Visa Tinggal Terbatas dapat diajukan melalui aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":"dengan melampirkan:"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -9304,8 +9398,18 @@
                       "title": "Proses Pengajuan dan Pemberian Visa",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi Persetujuan Visa Online."
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -9432,8 +9536,26 @@
                       "title": "Prosedur Permohonan dan Persyaratan",
                       "content": [
                         {
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Visa Tinggal Terbatas dapat diajukan melalui aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":"dengan melampirkan:"
+                            }
+                          ]
+                        },
+                        {
                           "type": "p",
-                          "content": "Visa Tinggal Terbatas dapat diajukan melalui aplikasi Persetujuan Visa Online, dengan melampirkan:"
+                          "content": " Persetujuan Visa Online, "
                         },
                         {
                           "type": "ol",
@@ -9471,8 +9593,18 @@
                       "title": "Proses Pengajuan dan Pemberian Visa",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi Persetujuan Visa Online."
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Penjamin atau Orang Asing dapat mengajukan Visa di situs web resmi Direktorat Jenderal Imigrasi www.imigrasi.go.id atau langsung di aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
@@ -9599,8 +9731,22 @@
                       "title": "Prosedur Permohonan dan Persyaratan",
                       "content": [
                         {
-                          "type": "p",
-                          "content": "Visa Tinggal Terbatas dapat diajukan melalui aplikasi Persetujuan Visa Online, dengan melampirkan:"
+                          "type": "p-link",
+                          "content": [
+                            {
+                              "type":"p",
+                              "content":"Visa Tinggal Terbatas dapat diajukan melalui aplikasi"
+                            },
+                            {
+                              "type":"a",
+                              "content":"Persetujuan Visa Online.",
+                              "link":"https://visa-online.imigrasi.go.id"
+                            },
+                            {
+                              "type":"p",
+                              "content":", dengan melampirkan:"
+                            }
+                          ]
                         },
                         {
                           "type": "ol",
