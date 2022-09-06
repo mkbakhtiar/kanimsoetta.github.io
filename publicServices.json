@@ -10279,7 +10279,7 @@
                         {
                           "type":"p",
                           "content":"BERGABUNG DENGAN SUAMI/ ISTRI WARGA NEGARA INDONESIA",
-                          "className": "italic-p"
+                          "className": "italic-p not-indent-5"
                         },
                         {
                           "type": "p-link",
@@ -10353,7 +10353,7 @@
                         {
                           "type": "p",
                           "content": "BERGABUNG DENGAN SUAMI/ISTRI PEMEGANG IZIN TINGGAL TERBATAS (ITAS)/IZIN TINGGAL TETAP (ITAP)",
-                          "className": "italic-p"
+                          "className": "italic-p not-indent-5"
                         },
                         {
                           "type": "p-link",
@@ -10427,7 +10427,7 @@
                         {
                           "type": "p",
                           "content": "BERGABUNG DENGAN ORANG TUA BAGI ANAK HASIL PERKAWINAN YANG SAH ANTARA ORANG ASING DENGAN WARGA NEGARA INDONESIA ATAU BERGABUNG DENGAN AYAH/IBU WARGA NEGARA INDONESIA",
-                          "className": "italic-p"
+                          "className": "italic-p not-indent-5"
                         },
                         {
                           "type": "p-link",
@@ -10516,7 +10516,7 @@
                         {
                           "type": "p",
                           "content": "BERGABUNG DENGAN ORANG TUA BAGI ANAK BERKEWARGANEGARAAN ASING YANG MEMILIKI HUBUNGAN HUKUM KEKELUARGAAN DENGAN AYAH DAN/ATAU IBU WARGA NEGARA INDONESIA",
-                          "className": "italic-p"
+                          "className": "italic-p not-indent-5"
                         },
                         {
                           "type": "p-link",
@@ -10605,7 +10605,7 @@
                         {
                           "type": "p",
                           "content": "BERGABUNG DENGAN ORANG TUA BAGI ANAK DI BAWAH 18 TAHUN DAN BELUM MENIKAH DARI ORANG ASING YANG MENIKAH DENGAN SEORANG WARGA NEGARA INDONESIA",
-                          "className": "italic-p"
+                          "className": "italic-p not-indent-5"
                         },
                         {
                           "type": "p-link",
@@ -10694,7 +10694,7 @@
                         {
                           "type": "p",
                           "content": "BERGABUNG DENGAN ORANG TUA BAGI ANAK DI BAWAH 18 TAHUN DAN BELUM MENIKAH DARI ORANG ASING PEMEGANG IZIN TINGGAL TERBATAS (ITAS)/IZIN TINGGAL TETAP (ITAP)",
-                          "className": "italic-p"
+                          "className": "italic-p not-indent-5"
                         },
                         {
                           "type": "p-link",
