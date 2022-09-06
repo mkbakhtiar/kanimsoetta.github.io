@@ -8108,17 +8108,17 @@
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Paspor yang sah dan masih berlaku paling singkat 12 bulan untuk permohonan Visa Kunjungan Satu Kali Perjalanan masa berlaku 180 hari."
+                              "content": "Paspor yang sah dan masih berlaku paling singkat 12 bulan untuk permohonan Visa Kunjungan Satu Kali Perjalanan masa berlaku 180 hari."
                             },
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Paspor yang sah dan masih berlaku paling singkat 6 bulan untuk permohonan Visa Kunjungan Satu Kali Perjalanan masa berlaku 60 hari."
+                              "content": "Paspor yang sah dan masih berlaku paling singkat 6 bulan untuk permohonan Visa Kunjungan Satu Kali Perjalanan masa berlaku 60 hari."
                             },
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Dokumen perjalanan yang sah dan masih berlaku paling singkat 12 bulan bagi Orang Asing tanpa kewarganegaraan."
+                              "content": "Dokumen perjalanan yang sah dan masih berlaku paling singkat 12 bulan bagi Orang Asing tanpa kewarganegaraan."
                             },
                             {
                               "type": "li",
@@ -8326,17 +8326,17 @@
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Paspor yang sah dan masih berlaku paling singkat 12 bulan untuk permohonan Visa Kunjungan Satu Kali Perjalanan masa berlaku 180 hari."
+                              "content": "Paspor yang sah dan masih berlaku paling singkat 12 bulan untuk permohonan Visa Kunjungan Satu Kali Perjalanan masa berlaku 180 hari."
                             },
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Paspor yang sah dan masih berlaku paling singkat 6 bulan untuk permohonan Visa Kunjungan Satu Kali Perjalanan masa berlaku 60 hari."
+                              "content": "Paspor yang sah dan masih berlaku paling singkat 6 bulan untuk permohonan Visa Kunjungan Satu Kali Perjalanan masa berlaku 60 hari."
                             },
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Dokumen perjalanan yang sah dan masih berlaku paling singkat 12 bulan bagi Orang Asing tanpa kewarganegaraan."
+                              "content": "Dokumen perjalanan yang sah dan masih berlaku paling singkat 12 bulan bagi Orang Asing tanpa kewarganegaraan."
                             },
                             {
                               "type": "li",
@@ -8833,12 +8833,12 @@
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Penyerahan dokumen persyaratan ke Kantor Imigrasi"
+                              "content": "Penyerahan dokumen persyaratan ke Kantor Imigrasi"
                             },
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Pembayaran PNBP (ATM atau Transfer Bank)"
+                              "content": "Pembayaran PNBP (ATM atau Transfer Bank)"
                             }
                           ]
                         },
@@ -8852,12 +8852,12 @@
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Entri Data dan Pemindaian Dokumen"
+                              "content": "Entri Data dan Pemindaian Dokumen"
                             },
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Pengambilan Data Biometrik (3 hari kerja setelah pembayaran)"
+                              "content": "Pengambilan Data Biometrik (3 hari kerja setelah pembayaran)"
                             }
                           ]
                         },
@@ -8871,17 +8871,17 @@
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Registrasi Nomor Izin Tinggal "
+                              "content": "Registrasi Nomor Izin Tinggal "
                             },
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Pemindaian Dokumen"
+                              "content": "Pemindaian Dokumen"
                             },
                             {
                               "type": "li",
                               "className": "sub-list",
-                              "content": "– Penyerahan Dokumen (3 hari kerja setelah foto)"
+                              "content": "Penyerahan Dokumen (3 hari kerja setelah foto)"
                             }
                           ]
                         }
