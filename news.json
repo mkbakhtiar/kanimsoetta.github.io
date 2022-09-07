@@ -795,22 +795,27 @@
               "content": [
                 {
                   "type": "li",
+                  "className":"list-number",
                   "content": "Pastikan pemberitahuan status paspor anda terkonfirmasi selesai lewat sms/wa/web;"
                 },
                 {
                   "type": "li",
+                  "className":"list-number",
                   "content": "Arahkan barcode Nomor Permohonan pada barcode scanner mesin pengambilan paspor Drive Thru;"
                 },
                 {
                   "type": "li",
+                  "className":"list-number",
                   "content": "Jika terdapat keterangan `Masih dalam Proses` maka paspor anda belum selesai dan diminta untuk menghubungi petugas informasi;"
                 },
                 {
                   "type": "li",
+                  "className":"list-number",
                   "content": "Jika paspor telah selesai dapat langsung menuju loket pengambilan paspor Drive Thru dan serahkan persyaratan pengambilan paspor kepada petugas;"
                 },
                 {
                   "type": "li",
+                  "className":"list-number",
                   "content": "Tanda tangani form perdim dan paspor dapat anda terima."
                 }
               ]
