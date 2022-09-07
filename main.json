@@ -6,8 +6,8 @@
           "slider": [
             {
               "id": 1,
-              "image_mobile": "/images/banner/DRIVE-THRU-HP.webp",
-              "image_dekstop": "/images/banner/DRIVE-THRU.webp"
+              "image_mobile": "/images/banner/DRIVE-THRU-HP.jpg",
+              "image_dekstop": "/images/banner/DRIVE-THRU.jpg"
             },
             {
               "id": 2,
