@@ -772,6 +772,63 @@
             "/images/news/HywApmX.png"
           ],
           "created_at": "2022-08-24",
+          "title": "Layanan Drive Thru",
+          "content": [
+            {
+              "type": "p",
+              "content": "Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta telah meresmikan layanan SI PELURU (Inovasi Pengambilan Layanan Drive Thru).  Dengan layanan baru ini, pemohon dapat melakukan pengambilan paspor tanpa turun dari kendaraannya."
+            },
+            {
+              "type": "p",
+              "content": "Pemohon telah disediakan lajur khusus untuk pengambilan paspor, proses pengambilan paspor akan berlangsung secara singkat dimana pemohon hanya perlu melakukan scan barcode di konter pertama, lalu maju dan mengambil paspor di pos loket selanjutnya. "
+            },
+            {
+              "type": "p",
+              "content": "Layanan Drive Thru ini beroperasi mengikuti jam operasional kantor yaitu pukul 08.00-16.00 WIB."
+            },
+            {
+              "type": "h4",
+              "content": "Tahap-tahap dalam layanan Drive Thru:"
+            },
+            {
+              "type": "ol",
+              "content": [
+                {
+                  "type": "li",
+                  "content": "Pastikan pemberitahuan status paspor anda terkonfirmasi selesai lewat sms/wa/web;"
+                },
+                {
+                  "type": "li",
+                  "content": "Arahkan barcode Nomor Permohonan pada barcode scanner mesin pengambilan paspor Drive Thru;"
+                },
+                {
+                  "type": "li",
+                  "content": "Jika terdapat keterangan `Masih dalam Proses` maka paspor anda belum selesai dan diminta untuk menghubungi petugas informasi;"
+                },
+                {
+                  "type": "li",
+                  "content": "Jika paspor telah selesai dapat langsung menuju loket pengambilan paspor Drive Thru dan serahkan persyaratan pengambilan paspor kepada petugas;"
+                },
+                {
+                  "type": "li",
+                  "content": "Tanda tangani form perdim dan paspor dapat anda terima."
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": "Sahabat Mido.. Yuk, cobain layanan baru ini yaaa…"
+            }
+          ],
+          "attachmentUrl": [],
+          "tags": "",
+          "show_beranda": true
+        },
+        {
+          "images": [
+            "/images/news/HywApmX.png"
+          ],
+          "created_at": "2022-08-24",
           "title": "Jam Pelayanan",
           "content": [
             {
