@@ -4,6 +4,52 @@
       "berita": [
         {
           "cover": {
+            "url": "/images/news/sipeluru-img-1.jpg",
+            "photoDescription": "Peresmian layanan ‘Si Peluru’ oleh Kepala Kantor Wilayah Kementerian Hukum dan HAM DKI Jakarta"
+          },
+          "category": "Serba-Serbi",
+          "title": "Si Peluru – Layanan Ambil Paspor Drive Thru",
+          "content": [
+            {
+              "type": "p",
+              "content": "Sahabat Mido, apa yang muncul di benak kalian Ketika mendengar frasa ‘drive thru’? Pasti, hal pertama yang terbayang adalah beragam restoran cepat saji. Eits, ternyata, di Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta juga ada layanan drive thru, lho!"
+            },
+            {
+              "type": "p",
+              "content": "Inovasi Pengambilan Layanan Drive Thru, atau disingkat ‘Si Peluru’, merupakan terobosan terbaru yang digagas oleh Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta. Mengutip pernyataan Muhammad Tito Andrianto selaku Kepala Kantor, “Tercetusnya ide layanan drive thru ini adalah untuk meningkatkan kualitas pelayanan publik, mengingat terbatasnya lahan parkir. Dengan inovasi ini masyarakat dapat dengan mudah mengambil paspor yang sudah selesai diproses lewat konter khusus tanpa harus turun dan memarkirkan kendaraannya”."
+            },
+            {
+              "type": "g",
+              "content": {
+                "url": "/images/news/sipeluru-img-2.jpg",
+                "photoDescription": "Prosesi pemotongan pita pada acara peresmian layanan ‘Si Peluru’"
+              }
+            },
+            {
+              "type": "p",
+              "content": "Pada 7 September 2022, layanan ‘Si Peluru’ diresmikan secara simbolis oleh Ibnu Chuldun selaku Kepala Kantor Wilayah Kementerian Hukum dan HAM DKI Jakarta. Dalam kesempatan ini, beliau menyampaikan apresiasi atas inovasi ini, “Hadirnya layanan ini adalah bentuk komitmen untuk mewujudkan Zona Integritas yang outcome-nya dapat dirasakan langsung oleh masyarakat”. Lebih lanjut, Ibnu juga berharap layanan Si Peluru ini dapat meningkatkan Indeks Kepuasan Masyarakat (IPK) yang menjadi salah satu indikator evaluasi tingkat keberhasilan sebuah layanan publik."
+            },
+            {
+              "type": "g",
+              "content": {
+                "url": "/images/news/sipeluru-img-3.jpg",
+                "photoDescription": "Jajaran struktural berfoto bersama Kakanwil DKI Jakarta pada acara peresmian layanan ‘Si Peluru’"
+              }
+            },
+            {
+              "type": "p",
+              "content": "Pada acara peresmian ‘Si Peluru’, turut hadir juga perwakilan dari beragam instansi yang tergabung dalam Komunitas Bandara Soekarno-Hatta (KOMBATA); sebut saja Otoritas Bandar Udara, Bea Cukai, Kantor Kesehatan Pelabuhan, Balai Besar Karantina Ikan, Polres Kota Bandara Soekarno-Hatta, dll."
+            },
+            {
+              "type": "p",
+              "content": "	Jadi, bagaimana Sahabat Mido, proses mengambil paspor kini makin mudah, bukan? "
+            }
+          ],
+          "created_at": "2022-04-25",
+          "tags": ""
+        },
+        {
+          "cover": {
             "url": "/images/news/L7uU1lF.jpg",
             "photoDescription": "Kepala Kantor Imigrasi Soetta, Muhammad Tito Andrianto bersama dengan Menteri Perhubungan, Budi Karya Sumadi dan Jajaran Kepala Instansi Sekitar Bandara (Sumber Foto: Internal Kanim Soetta)"
           },
