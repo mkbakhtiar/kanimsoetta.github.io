@@ -13,7 +13,7 @@
               "id": 2,
               "image_mobile": "/images/banner/DRIVE-THRU-HP.jpg",
               "image_dekstop": "/images/banner/DRIVE-THRU.jpg"
-            },            
+            },
             {
               "id": 3,
               "image_mobile": "/images/banner/mpKRaah.jpg",
@@ -647,6 +647,41 @@
                 "content": [
                   {
                     "data": [
+                      {
+                        "tanggal": "2022/08/25",
+                        "jam": "06: 00",
+                        "judul": "Perayaan HUT RI ke-77 Komunitas Bandara Soekarno-Hatta",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Polresta Bandara Soekarno-Hatta & Gedung Angkasa Pura 2"
+                      },
+                      {
+                        "tanggal": "2022/08/25",
+                        "jam": "09: 00",
+                        "judul": "Talkshow `Ke Luar Negeri? Siapa Takut!` Radio Dangdut Indonesia",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : MNC Tower - Kebon Sirih Jakarta Pusat"
+                      },
+                      {
+                        "tanggal": "2022/08/19",
+                        "jam": "07: 30",
+                        "judul": "Upacara Peringatan HUT Kemenkumham HDKD 2022",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Lapangan Upacara Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/08/18",
+                        "jam": "14: 00",
+                        "judul": "Konferensi Pers - Kasus Penggunaan Visa Palsu oleh 3 WN Pakistan",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Aula Lantai 2 Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/08/17",
+                        "jam": "08: 00",
+                        "judul": "Upacara Peringatan Hari Ulang Tahun ke-77 Kemerdekaan Republik Indonesia Tahun 2022",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Lapangan Upacara Kanim Soetta"
+                      },
                       {
                         "tanggal": "2022/08/04",
                         "jam": "22: 30",
