@@ -6,14 +6,14 @@
           "slider": [
             {
               "id": 1,
-              "image_mobile": "/images/banner/DRIVE-THRU-HP.jpg",
-              "image_dekstop": "/images/banner/DRIVE-THRU.jpg"
-            },
-            {
-              "id": 2,
               "image_mobile": "/images/banner/ssRfcjH.jpg",
               "image_dekstop": "/images/banner/5sjfnv4.jpg"
             },
+            {
+              "id": 2,
+              "image_mobile": "/images/banner/DRIVE-THRU-HP.jpg",
+              "image_dekstop": "/images/banner/DRIVE-THRU.jpg"
+            },            
             {
               "id": 3,
               "image_mobile": "/images/banner/mpKRaah.jpg",
