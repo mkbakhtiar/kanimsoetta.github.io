@@ -801,27 +801,27 @@
               "content": [
                 {
                   "type": "li",
-                  "className":"list-number",
+                  "className":"list-c list-number",
                   "content": "Pastikan pemberitahuan status paspor anda terkonfirmasi selesai lewat sms/wa/web;"
                 },
                 {
                   "type": "li",
-                  "className":"list-number",
+                  "className":"list-c list-number",
                   "content": "Arahkan barcode Nomor Permohonan pada barcode scanner mesin pengambilan paspor Drive Thru;"
                 },
                 {
                   "type": "li",
-                  "className":"list-number",
+                  "className":"list-c list-number",
                   "content": "Jika terdapat keterangan `Masih dalam Proses` maka paspor anda belum selesai dan diminta untuk menghubungi petugas informasi;"
                 },
                 {
                   "type": "li",
-                  "className":"list-number",
+                  "className":"list-c list-number",
                   "content": "Jika paspor telah selesai dapat langsung menuju loket pengambilan paspor Drive Thru dan serahkan persyaratan pengambilan paspor kepada petugas;"
                 },
                 {
                   "type": "li",
-                  "className":"list-number",
+                  "className":"list-c list-number",
                   "content": "Tanda tangani form perdim dan paspor dapat anda terima."
                 }
               ]
@@ -892,377 +892,377 @@
               "content": [
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Afrika Selatan,"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Amerika Serikat,"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Arab Saudi"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Argentina"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Australia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Austria"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Bahrain"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Belanda"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Belarus"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Belgia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Bosnia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Brazil"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Brunei Darussalam"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Bulgaria"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Ceko"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Denmark"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Estonia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Filipina"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Finlandia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Hongkong"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Hungaria"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "India"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Inggris"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Irlandia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Italia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Jepang"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Jerman"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Kamboja"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Kanada"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Korea Selatan"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Kroasia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Kuwait"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Laos"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Latvia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Lithuania"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Luksemburg"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Malaysia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Malta"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Maroko"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Meksiko"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Mesir"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Myanmar"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Norwegia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Oman"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Prancis"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Peru"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Polandia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Portugal"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Qatar"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Rumania"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Rusia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Selandia Baru"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Serbia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Seychelles"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Singapura"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Siprus"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Slovakia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Slovenia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Spanyol"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Swedia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Swiss"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Taiwan"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Thailand"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Timor Leste"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Tiongkok"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Tunisia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Turki"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Uni Emirat Arab"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Ukraina"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Vietnam"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Yordania"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Yunani"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Kolombia"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Maladewa"
                 },
                 {
                   "type": "li",
-                  "className": "list-number",
+                  "className": "list-c list-number",
                   "content": "Monako"
                 }
               ]
