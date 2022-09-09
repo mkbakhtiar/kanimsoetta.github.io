@@ -4,7 +4,7 @@
       "berita": [
         {
           "cover": {
-            "url": "/images/news/sipeluru-img-1.jpg",
+            "url": "/images/news/sipeluru-img-3.jpg",
             "photoDescription": "Peresmian layanan ‘Si Peluru’ oleh Kepala Kantor Wilayah Kementerian Hukum dan HAM DKI Jakarta"
           },
           "category": "Serba-Serbi",
@@ -32,7 +32,7 @@
             {
               "type": "g",
               "content": {
-                "url": "/images/news/sipeluru-img-3.jpg",
+                "url": "/images/news/sipeluru-img-1.jpg",
                 "photoDescription": "Jajaran struktural berfoto bersama Kakanwil DKI Jakarta pada acara peresmian layanan ‘Si Peluru’"
               }
             },
