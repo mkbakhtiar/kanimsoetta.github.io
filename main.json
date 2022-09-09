@@ -1115,7 +1115,7 @@
                             "Mei": 222163,
                             "Jun": 194242,
                             "Jul": 219980,
-                            "Ags": 0,
+                            "Ags": 213165,
                             "Sep": 0,
                             "Okt": 0,
                             "Nov": 0,
@@ -1138,7 +1138,7 @@
                             "Mei": 81816,
                             "Jun": 95727,
                             "Jul": 136821,
-                            "Ags": 0,
+                            "Ags": 138604,
                             "Sep": 0,
                             "Okt": 0,
                             "Nov": 0,
@@ -1180,14 +1180,14 @@
                             {
                               "type": "wna",
                               "title": "WNA Masuk",
-                              "total_jiwa": "439.519 Jiwa",
-                              "desc": "Data Januari sd Juli 2022"
+                              "total_jiwa": "578.123 Jiwa",
+                              "desc": "Data Januari sd Agustus 2022"
                             },
                             {
                               "type": "wni",
                               "title": "WNI Masuk",
-                              "total_jiwa": "1.089.309 Jiwa",
-                              "desc": "Data Januari sd Juli 2022"
+                              "total_jiwa": "1.302.474 Jiwa",
+                              "desc": "Data Januari sd Agustus 2022"
                             }
                           ]
                         }
@@ -1216,7 +1216,7 @@
                             "Mei": 252636,
                             "Jun": 224135,
                             "Jul": 193521,
-                            "Ags": 0,
+                            "Ags": 265981,
                             "Sep": 0,
                             "Okt": 0,
                             "Nov": 0,
@@ -1239,7 +1239,7 @@
                             "Mei": 67933,
                             "Jun": 92112,
                             "Jul": 120761,
-                            "Ags": 0,
+                            "Ags": 143066,
                             "Sep": 0,
                             "Okt": 0,
                             "Nov": 0,
@@ -1281,14 +1281,14 @@
                             {
                               "type": "wna",
                               "title": "WNA Keluar",
-                              "total_jiwa": "395.657 Jiwa",
-                              "desc": "Data Januari sd Juli 2022"
+                              "total_jiwa": "538.723 Jiwa",
+                              "desc": "Data Januari sd Agustus 2022"
                             },
                             {
                               "type": "wni",
                               "title": "WNI Keluar",
-                              "total_jiwa": "1.158.127 Jiwa",
-                              "desc": "Data Januari sd Juli 2022"
+                              "total_jiwa": "1.424.108 Jiwa",
+                              "desc": "Data Januari sd Agustus 2022"
                             }
                           ]
                         }
