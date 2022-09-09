@@ -161,52 +161,57 @@
         {
           "servicesApp": [
             {
-              "title": "M-Paspor",
-              "description": "Tautan untuk mengunduh aplikasi pengajuan paspor bagi pengguna telepon genggam berbasis iOS / android",
-              "icon": "/images/apps/bSABXYS.png",
-              "appUrl": "",
-              "mobileApps": [
+              "title":"Berikut adalah daftar aplikasi pelayanan Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
+              "content": [
                 {
-                  "type": "android",
-                  "url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
-                  "url_image": "/images/apps/FHclioE.png"
+                  "title": "M-Paspor",
+                  "description": "Tautan untuk mengunduh aplikasi pengajuan paspor bagi pengguna telepon genggam berbasis iOS / android",
+                  "icon": "/images/apps/bSABXYS.png",
+                  "appUrl": "",
+                  "mobileApps": [
+                    {
+                      "type": "android",
+                      "url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
+                      "url_image": "/images/apps/FHclioE.png"
+                    },
+                    {
+                      "type": "ios",
+                      "url": "https://apps.apple.com/id/app/m-paspor/id1576336459",
+                      "url_image": "/images/apps/J9tDSTK.png"
+                    }
+                  ]
                 },
                 {
-                  "type": "ios",
-                  "url": "https://apps.apple.com/id/app/m-paspor/id1576336459",
-                  "url_image": "/images/apps/J9tDSTK.png"
+                  "title": "Visa Online",
+                  "description": "Tautan yang dapat digunakan oleh WNA yang akan mengajukan visa, bisa berupa visa kunjungan, VITAS, atau lainnya",
+                  "icon": "/images/apps/mhWWwN7.png",
+                  "appUrl": "https://visa-online.imigrasi.go.id/"
+                },
+                {
+                  "title": "Check Permohonan Paspor",
+                  "description": "Fitur layanan yang dapat digunakan oleh pemohon untuk mengetahui perkembangan proses pengajuan paspor",
+                  "icon": "/images/apps/Jush5VM.png",
+                  "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/cekpermohonan/"
+                },
+                {
+                  "title": "E-Perdim 11",
+                  "description": "Tautan untuk lampiran pengisian formulir Dokumen Perjalanan Republik Indonesia (DPRI) dalam pengajuan permohonan paspor",
+                  "icon": "/images/apps/nF90pro.png",
+                  "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
+                },
+                {
+                  "title": "Izin Tinggal Online",
+                  "description": "Tautan yang dapat digunakan oleh pemohon/WNA untuk mengajukan pengajuan izin tinggal secara online",
+                  "icon": "/images/apps/ZixmWWn.png",
+                  "appUrl": "https://izintinggal-online.imigrasi.go.id/"
+                },
+                {
+                  "title": "Pelaporan Orang Asing",
+                  "description": "Aplikasi yang dapat digunakan oleh masyarakat untuk pelaporan orang asing yang berada di wilayahnya",
+                  "icon": "/images/apps/dmpFSbr.png",
+                  "appUrl": "https://apoa.imigrasi.go.id/poa/"
                 }
               ]
-            },
-            {
-              "title": "Visa Online",
-              "description": "Tautan yang dapat digunakan oleh WNA yang akan mengajukan visa, bisa berupa visa kunjungan, VITAS, atau lainnya",
-              "icon": "/images/apps/mhWWwN7.png",
-              "appUrl": "https://visa-online.imigrasi.go.id/"
-            },
-            {
-              "title": "Check Permohonan Paspor",
-              "description": "Fitur layanan yang dapat digunakan oleh pemohon untuk mengetahui perkembangan proses pengajuan paspor",
-              "icon": "/images/apps/Jush5VM.png",
-              "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/cekpermohonan/"
-            },
-            {
-              "title": "E-Perdim 11",
-              "description": "Tautan untuk lampiran pengisian formulir Dokumen Perjalanan Republik Indonesia (DPRI) dalam pengajuan permohonan paspor",
-              "icon": "/images/apps/nF90pro.png",
-              "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
-            },
-            {
-              "title": "Izin Tinggal Online",
-              "description": "Tautan yang dapat digunakan oleh pemohon/WNA untuk mengajukan pengajuan izin tinggal secara online",
-              "icon": "/images/apps/ZixmWWn.png",
-              "appUrl": "https://izintinggal-online.imigrasi.go.id/"
-            },
-            {
-              "title": "Pelaporan Orang Asing",
-              "description": "Aplikasi yang dapat digunakan oleh masyarakat untuk pelaporan orang asing yang berada di wilayahnya",
-              "icon": "/images/apps/dmpFSbr.png",
-              "appUrl": "https://apoa.imigrasi.go.id/poa/"
             }
           ]
         }
