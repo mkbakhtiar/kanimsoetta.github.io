@@ -11,6 +11,13 @@
           "title": "Si Peluru – Layanan Ambil Paspor Drive Thru",
           "content": [
             {
+              "type": "g",
+              "content": {
+                "url": "/images/news/sipeluru-img-1.jpg",
+                "photoDescription": "Peresmian layanan ‘Si Peluru’ oleh Kepala Kantor Wilayah Kementerian Hukum dan HAM DKI Jakarta"
+              }
+            },
+            {
               "type": "p",
               "content": "Sahabat Mido, apa yang muncul di benak kalian Ketika mendengar frasa ‘drive thru’? Pasti, hal pertama yang terbayang adalah beragam restoran cepat saji. Eits, ternyata, di Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta juga ada layanan drive thru, lho!"
             },
@@ -32,7 +39,7 @@
             {
               "type": "g",
               "content": {
-                "url": "/images/news/sipeluru-img-1.jpg",
+                "url": "/images/news/sipeluru-img-3.jpg",
                 "photoDescription": "Jajaran struktural berfoto bersama Kakanwil DKI Jakarta pada acara peresmian layanan ‘Si Peluru’"
               }
             },
