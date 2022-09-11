@@ -5080,7 +5080,7 @@
                   "type": "ac",
                   "content": [
                     {
-                      "firstExpand": false,
+                      "firstExpand": true,
                       "content": [
                         {
                           "title": "Subjek Izin Tinggal Terbatas",
@@ -6680,7 +6680,7 @@
                   "type": "ac",
                   "content": [
                     {
-                      "firstExpand": false,
+                      "firstExpand": true,
                       "content": [
                         {
                           "title": "Syarat Perpanjangan KITAP Pemimpin Tertinggi di Perusahaan",
