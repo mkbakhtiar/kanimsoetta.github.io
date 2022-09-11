@@ -159,7 +159,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Umum",
@@ -326,7 +326,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Umum",
@@ -487,7 +487,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Umum",
@@ -652,7 +652,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Umum",
@@ -813,7 +813,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Umum",
@@ -960,7 +960,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Umum",
@@ -1108,7 +1108,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Umum",
@@ -1252,7 +1252,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Umum",
@@ -1358,7 +1358,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Syarat Pengajuan Alih Jabatan ITAS TKA Menjadi PMA",
@@ -1739,7 +1739,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Syarat Permohonan Alih Penjamin ITAS TKA",
@@ -2212,7 +2212,7 @@
                   "type": "ac",
                   "content": [
                     {
-                      "firstExpand": false,
+                      "firstExpand": true,
                       "content": [
                         {
                           "title": "Syarat Alih Status ITK ke ITAS Keluarga TKA",
@@ -3008,7 +3008,7 @@
                   "type": "ac",
                   "content": [
                     {
-                      "firstExpand": false,
+                      "firstExpand": true,
                       "content": [
                         {
                           "title": "Alih Status ITAS ke ITAP Bukan Pemimpin Tertinggi Perusahaan (Menikah dengan WNI Lebih dari 2 Tahun)",
@@ -3792,7 +3792,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Subjek Anak Berkewarganegaraan Ganda",
@@ -4309,7 +4309,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Kegiatan",
@@ -4437,7 +4437,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Syarat Pengajuan Exit Permit Only (EPO) dan Exit Reentry Permit (ERP)",
@@ -4876,7 +4876,7 @@
                   "type": "ac",
                   "content": [
                     {
-                      "firstExpand": false,
+                      "firstExpand": true,
                       "content": [
                         {
                           "title": "Subjek Izin Tinggal Kunjungan",
@@ -7488,7 +7488,7 @@
             "pageTitle": "SURAT KETERANGAN KEIMIGRASIAN",
             "contents": [
               {
-                "firstExpand": false,
+                "firstExpand": true,
                 "content": [
                   {
                     "type": "ac",
@@ -7801,7 +7801,7 @@
                 "type": "ac",
                 "content": [
                   {
-                    "firstExpand": false,
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Syarat Permohonan Lapor Lahir",
@@ -7991,7 +7991,7 @@
             "pageTitle": "PENCABUTAN DOKUMEN KEIMIGRASIAN",
             "contents": [
               {
-                "firstExpand": false,
+                "firstExpand": true,
                 "content": [
                   {
                     "type": "h4",
@@ -8008,7 +8008,7 @@
               "pageTitle": "VISA KUNJUNGAN SATU KALI PERJALANAN (SINGLE ENTRY)",
               "contents": [
                 {
-                  "firstExpand": false,
+                  "firstExpand": true,
                   "content": [
                     {
                       "type": "h4",
