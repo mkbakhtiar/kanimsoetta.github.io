@@ -7488,10 +7488,10 @@
             "pageTitle": "SURAT KETERANGAN KEIMIGRASIAN",
             "contents": [
               {
-                "firstExpand": true,
+                "type": "ac",
                 "content": [
                   {
-                    "type": "ac",
+                    "firstExpand": true,
                     "content": [
                       {
                         "title": "Permohonan Surat Keterangan Keimigrasian Perkawinan Campur",
@@ -8008,14 +8008,14 @@
               "pageTitle": "VISA KUNJUNGAN SATU KALI PERJALANAN (SINGLE ENTRY)",
               "contents": [
                 {
-                  "firstExpand": true,
+                  "type": "h4",
+                  "content": "Visa Kunjungan Satu Kali Perjalanan Indeks B211A"
+                },
+                {
+                  "type": "ac",
                   "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Kunjungan Satu Kali Perjalanan Indeks B211A"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": true,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -8374,13 +8374,18 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Visa Kunjungan Satu Kali Perjalanan Indeks B211B"
+                },
+                {
+                  "type": "ac",
+                  "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Kunjungan Satu Kali Perjalanan Indeks B211B"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": false,
                       "content": [
                         {
                           "title": "Kunjungan",
@@ -8606,13 +8611,18 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Visa Kunjungan Satu Kali Perjalanan Indeks B211C"
+                },
+                {
+                  "type": "ac",
+                  "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Kunjungan Satu Kali Perjalanan Indeks B211C"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": false,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -8840,10 +8850,10 @@
               "pageTitle": "VISA KUNJUNGAN SAAT KEDATANGAN",
               "contents": [
                 {
-                  "firstExpand": false,
+                  "type": "ac",
                   "content": [
                     {
-                      "type": "ac",
+                      "firstExpand": true,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -9145,14 +9155,14 @@
               "pageTitle": "VISA TINGGAL TERBATAS",
               "contents": [
                 {
-                  "firstExpand": false,
+                  "type": "h4",
+                  "content": "Visa Tinggal Terbatas untuk Bekerja Indeks C312"
+                },
+                {
+                  "type": "ac",
                   "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Tinggal Terbatas untuk Bekerja Indeks C312"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": true,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -9461,13 +9471,18 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Visa Tinggal Terbatas Penanaman Modal Asing Satu Tahun (Indeks C313)"
+                },
+                {
+                  "type": "ac",
+                  "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Tinggal Terbatas Penanaman Modal Asing Satu Tahun (Indeks C313)"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": false,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -9676,13 +9691,18 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Visa Tinggal Terbatas Penanaman Modal Asing Dua Tahun Indeks 314"
+                },
+                {
+                  "type": "ac",
+                  "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Tinggal Terbatas Penanaman Modal Asing Dua Tahun Indeks 314"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": false,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -9895,13 +9915,18 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Visa Tinggal Terbatas Pelatihan atau Penelitian Ilmiah (Indeks C315)"
+                },
+                {
+                  "type": "ac",
+                  "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Tinggal Terbatas Pelatihan atau Penelitian Ilmiah (Indeks C315)"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": false,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -10121,13 +10146,18 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Visa Tinggal Terbatas Mengikuti Pendidikan (Indeks C316)"
+                },
+                {
+                  "type": "ac",
+                  "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Tinggal Terbatas Mengikuti Pendidikan (Indeks C316)"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": false,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -10352,13 +10382,18 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Visa Tinggal Terbatas Penyatuan Keluarga Indeks C317"
+                },
+                {
+                  "type": "ac",
+                  "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Tinggal Terbatas Penyatuan Keluarga Indeks C317"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": false,
                       "content": [
                         {
                           "title": "Kegiatan",
@@ -11012,13 +11047,18 @@
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Visa Tinggal Terbatas Bagi Ex-WNI/ Repatriasi Indeks C318"
+                },
+                {
+                  "type": "ac",
+                  "content": [
                     {
-                      "type": "h4",
-                      "content": "Visa Tinggal Terbatas Bagi Ex-WNI/ Repatriasi Indeks C318"
-                    },
-                    {
-                      "type": "ac",
+                      "firstExpand": false,
                       "content": [
                         {
                           "title": "Kegiatan",
