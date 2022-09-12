@@ -877,15 +877,15 @@
                 "content": [
                   {
                     "hari": "Senin - Kamis",
-                    "operasional": "07: 30 - 16: 00 WIB - Operasional",
-                    "istirahat": "12: 00 - 13: 00 WIB - Istirahat",
-                    "pelayanan": "08: 00 - 15: 00 WIB - Pelayanan Paspor dan Izin Tinggal"
+                    "operasional": "07:30 - 16:00 WIB - Operasional",
+                    "istirahat": "12:00 - 13:00 WIB - Istirahat",
+                    "pelayanan": "08:00 - 15:00 WIB - Pelayanan Paspor dan Izin Tinggal"
                   },
                   {
                     "hari": "Jumat",
-                    "operasional": "07: 30 - 16: 00 WIB - Operasional",
-                    "istirahat": "12: 00 - 13: 00 WIB - Istirahat",
-                    "pelayanan": "08: 00 - 15: 00 WIB - Pelayanan Paspor dan Izin Tinggal"
+                    "operasional": "07:30 - 16:30 WIB - Operasional",
+                    "istirahat": "11:30 - 13:00 WIB - Istirahat",
+                    "pelayanan": "08:00 - 15:00 WIB - Pelayanan Paspor dan Izin Tinggal"
                   }
                 ]
               }
