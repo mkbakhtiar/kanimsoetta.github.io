@@ -161,7 +161,7 @@
         {
           "servicesApp": [
             {
-              "title":"Berikut adalah daftar aplikasi pelayanan Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
+              "title": "Berikut adalah daftar aplikasi pelayanan Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
               "content": [
                 {
                   "title": "M-Paspor",
@@ -1044,6 +1044,16 @@
                             15.41,
                             33.24
                           ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            74.05,
+                            20.79,
+                            60.55,
+                            19.79,
+                            40.01
+                          ]
                         }
                       ],
                       "label": [
@@ -1061,6 +1071,10 @@
                         {
                           "label": "Juli 2022",
                           "value": "Juli 2022"
+                        },
+                        {
+                          "label": "Agustus 2022",
+                          "value": "Agustus 2022"
                         }
                       ],
                       "colors": [
@@ -1383,6 +1397,16 @@
                             8363,
                             8080
                           ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            14390,
+                            9833,
+                            9768,
+                            9565,
+                            9480
+                          ]
                         }
                       ],
                       "label": [
@@ -1455,6 +1479,16 @@
                             "Jepang",
                             "Amerika Serikat"
                           ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            "Malaysia",
+                            "Korea Selatan",
+                            "Singapura",
+                            "Jepang",
+                            "Tiongkok"
+                          ]
                         }
                       ],
                       "filter": [
@@ -1485,6 +1519,10 @@
                         {
                           "label": "Juli 2022",
                           "value": "Juli 2022"
+                        },
+                        {
+                          "label": "Agustus 2022",
+                          "value": "Agustus 2022"
                         }
                       ],
                       "colors": "#11375C"
@@ -1582,6 +1620,16 @@
                             8943,
                             8341
                           ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            13868,
+                            11856,
+                            9154,
+                            8896,
+                            8788
+                          ]
                         }
                       ],
                       "label": [
@@ -1654,6 +1702,16 @@
                             "Arab Saudi ",
                             "Jepang"
                           ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            "Malaysia",
+                            "Tiongkok",
+                            "Singapura",
+                            "Korea Selatan",
+                            "Jepang"
+                          ]
                         }
                       ],
                       "filter": [
@@ -1684,6 +1742,10 @@
                         {
                           "label": "Juli 2022",
                           "value": "Juli 2022"
+                        },
+                        {
+                          "label": "Agustus 2022",
+                          "value": "Agustus 2022"
                         }
                       ],
                       "colors": "#FBAF17"
