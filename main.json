@@ -224,15 +224,18 @@
             {
               "type": "Instagram",
               "link": "/ruang-berita/galeri-foto",
-              "igUrl": "https://www.instagram.com/imigrasi.soekarnohatta/"
+              "igUrl": "https://www.instagram.com/imigrasi.soekarnohatta/",
+              "url_logo": ""
             },
             {
               "type": "Twitter",
-              "link": "https://twitter.com/imigrasi_soetta"
+              "link": "https://twitter.com/imigrasi_soetta",
+              "url_logo": ""
             },
             {
               "type": "Facebook",
-              "link": "https://www.facebook.com/imigrasi.soekarnohatta/"
+              "link": "https://www.facebook.com/imigrasi.soekarnohatta/",
+              "url_logo": "https://scontent.fcgk29-1.fna.fbcdn.net/v/t1.6435-9/135767233_3711361735608573_8516821874556832313_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFgTCVdtcyoe1khfeIwu6oQRf6DFogL9eVF_oMWiAv15WxApLT18Au1dpMJmz9NDPsvlAd1vMsXEfTozoRSjwGp&_nc_ohc=HfXnP_MsJxwAX-OKPkr&_nc_ht=scontent.fcgk29-1.fna&oh=00_AT_17gDNRSi4sp3CAY3aWkWKBtkGgZVa4c507Tnlj4Vl7Q&oe=63451478"
             }
           ]
         },
