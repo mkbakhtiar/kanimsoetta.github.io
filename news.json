@@ -4,7 +4,7 @@
       "berita": [
         {
           "cover": {
-            "url": "https://drive.google.com/uc?export=view&id=15LeD_3ZdmxdjNWYCEKL3c6p40jgFIkEg",
+            "url": "/images/news/sipeluru-img-header.jpg",
             "photoDescription": "Peresmian layanan ‘Si Peluru’ oleh Kepala Kantor Wilayah Kementerian Hukum dan HAM DKI Jakarta"
           },
           "category": "Pelayanan Keimigrasian",
@@ -787,37 +787,37 @@
     {
       "majalahGezit": [
         {
-          "coverUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/09/cover-768x1088.png",
+          "coverUrl": "/images/news/majalah-gezit-edisi-iv-2022.jpg",
           "title": "Buletin GEZIT Edisi IV 2022",
           "downloadUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/09/MAJALAH-GEZIT-IV2-2.pdf",
           "year": "2022"
         },
         {
-          "coverUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/05/Halaman-I-Sampul-depan-fix-768x1086.png",
+          "coverUrl": "/images/news/majalah-gezit-edisi-iii-2022.jpg",
           "title": "Buletin GEZIT Edisi III 2022",
           "downloadUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/05/MAJALAH-GEZIT-EDISI-3.pdf",
           "year": "2022"
         },
         {
-          "coverUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/04/BULETIN-EDISI-2.jpg",
+          "coverUrl": "/images/news/majalah-gezit-edisi-ii-2022.jpgg",
           "title": "Buletin GEZIT Edisi II 2022",
           "downloadUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/04/BULETIN-EDISI-2.pdf",
           "year": "2022"
         },
         {
-          "coverUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/03/COVER.jpg",
+          "coverUrl": "/images/news/majalah-gezit-edisi-i-2022.jpg",
           "title": "Buletin GEZIT Edisi I 2022",
           "downloadUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/03/MAJALAH-GEZIT-INDO.pdf",
           "year": "2022"
         },
         {
-          "coverUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2021/05/0001-768x1086.jpg",
+          "coverUrl": "/images/news/majalah-gezit-edisi-i-2021.jpg",
           "title": "Buletin GEZIT Edisi I 2021",
           "downloadUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2021/05/BULETIN-2.pdf",
           "year": "2021"
         },
         {
-          "coverUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2021/06/Cover.jpg",
+          "coverUrl": "/images/news/majalah-gezit-edisi-ii-2021.jpg",
           "title": "Buletin GEZIT Edisi II 2021",
           "downloadUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2021/06/Buletin-Gezit-Edisi-2.pdf",
           "year": "2021"
