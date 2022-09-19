@@ -29,15 +29,11 @@
                   },
                   {
                     "type": "p",
-                    "content": ""
+                    "content": "Beberapa poin saran kebijakan lalu lintas WNA ke Indonesia itu antara lain:"
                   },
                   {
                     "type": "ol",
                     "content": [
-                      {
-                        "type": "li",
-                        "content": "Beberapa poin saran kebijakan lalu lintas WNA ke Indonesia itu antara lain:"
-                      },
                       {
                         "type": "li",
                         "className": "sub-list",
