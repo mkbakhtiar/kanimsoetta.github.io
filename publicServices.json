@@ -7745,36 +7745,6 @@
                         ]
                       },
                       {
-                        "title": "Alur Proses Pengembalian Dokumen Keimigrasian",
-                        "content": [
-                          {
-                            "type": "ol",
-                            "content": [
-                              {
-                                "type": "li",
-                                "className": "list-c list-number",
-                                "content": "Penyerahan dokumen persyaratan ke Kantor Imigrasi;"
-                              },
-                              {
-                                "type": "li",
-                                "className": "list-c list-number",
-                                "content": "Entri data pada Sistem Keimigrasian;"
-                              },
-                              {
-                                "type": "li",
-                                "className": "list-c list-number",
-                                "content": "Proses persetujuan permohonan oleh pejabat yang berwenang; dan"
-                              },
-                              {
-                                "type": "li",
-                                "className": "list-c list-number",
-                                "content": "Penyerahan dokumen (2 hari kerja setelah penyerahan dokumen persyaratan)."
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
                         "title": "Download Dokumen",
                         "content": [
                           {
