@@ -873,6 +873,12 @@
       },
       {
         "majalahGezit": [
+           {
+             "coverUrl": "/images/news/majalah-gezit-edisi-v-2022.jpg",
+             "title": "Buletin GEZIT Edisi V 2022",
+             "downloadUrl": "https://soekarnohatta.imigrasi.go.id/wp-content/uploads/2022/09/MAJALAH-GEZIT-V2.pdf",
+             "year": "2022"
+          },
           {
             "coverUrl": "/images/news/majalah-gezit-edisi-iv-2022.jpg",
             "title": "Buletin GEZIT Edisi IV 2022",
