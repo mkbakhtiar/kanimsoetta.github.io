@@ -210,6 +210,12 @@
                   "description": "Aplikasi yang dapat digunakan oleh masyarakat untuk pelaporan orang asing yang berada di wilayahnya",
                   "icon": "/images/apps/dmpFSbr.png",
                   "appUrl": "https://apoa.imigrasi.go.id/poa/"
+                },
+                {
+                  "title": "SI KI-BE LACAK",
+                  "description": "Si Ki-Be Lacak Aplikasi Izin Tinggal Keimigrasian",
+                  "icon": "/images/apps/ZixmWWn.png",
+                  "appUrl": "http://kanwilkumhamdki.ddns.net:58880/intreport/device/license/"
                 }
               ]
             }
