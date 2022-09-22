@@ -199,23 +199,29 @@
                   "icon": "/images/apps/nF90pro.png",
                   "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
                 },
-                {
+               {
                   "title": "Izin Tinggal Online",
-                  "description": "Tautan yang dapat digunakan oleh pemohon/WNA untuk mengajukan pengajuan izin tinggal secara online",
+                  "description": "Tautan yang dapat digunakan oleh pemohon/WNA untuk mengajukan dan melacak pengajuan izin tinggal secara online",
                   "icon": "/images/apps/ZixmWWn.png",
-                  "appUrl": "https://izintinggal-online.imigrasi.go.id/"
+                  "appUrl": "",
+                  "mobileApps": [
+                    {
+                      "type": "android",
+                      "url": "https://izintinggal-online.imigrasi.go.id/",
+                      "url_image": "/images/apps/ZixmWWn.png"
+                    },
+                    {
+                      "type": "ios",
+                      "url": "http://kanwilkumhamdki.ddns.net:58880/intreport/device/license/",
+                      "url_image": "/images/apps/J9tDSTK.png"
+                    }
+                  ]
                 },
                 {
                   "title": "Pelaporan Orang Asing",
                   "description": "Aplikasi yang dapat digunakan oleh masyarakat untuk pelaporan orang asing yang berada di wilayahnya",
                   "icon": "/images/apps/dmpFSbr.png",
                   "appUrl": "https://apoa.imigrasi.go.id/poa/"
-                },
-                {
-                  "title": "SI KI-BE LACAK",
-                  "description": "Si Ki-Be Lacak Aplikasi Izin Tinggal Keimigrasian",
-                  "icon": "/images/apps/ZixmWWn.png",
-                  "appUrl": "http://kanwilkumhamdki.ddns.net:58880/intreport/device/license/"
                 }
               ]
             }
