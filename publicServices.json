@@ -7956,21 +7956,123 @@
             ]
           }
         },
-        {
-          "pencabutan": {
-            "pageTitle": "PENCABUTAN DOKUMEN KEIMIGRASIAN",
-            "contents": [
-              {
-                "firstExpand": true,
-                "content": [
+        {         
+              "pencabutan": {
+                "pageTitle": "PENCABUTAN DOKUMEN KEIMIGRASIAN",
+                "contents": [
                   {
-                    "type": "h4",
-                    "content": ""
+                    "type": "ac",
+                    "content": [
+                      {
+                        "firstExpand": true,
+                        "content": [
+                          {
+                            "title": "Persyaratan Pencabutan Dokumen Keimigrasian (WNA menjadi WNI)",
+                            "content": [
+                              {
+                                "type": "p",
+                                "content": "Syarat melakukan pencabutan Dokumen Keimigrasian:"
+                              },
+                              {
+                                "type": "ol",
+                                "content": [
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Surat Permohonan Pencabutan Dokumen Keimigrasian;"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Surat Pernyataan dan Jaminan;"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Mengisi formulir Perdim 27 (dapat diambil di Kantor Imigrasi);"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Surat Keputusan Menteri Hukum dan HAM RI (berdasarkan pasal 19/6 UU No.12 tahun 2006) dan SUrat Penyampaian Keputusan dari AHU;"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Surat Keterangan/ Pencabutan WNA dari Kedubes/ perwakilan Negara lama yang bersangkutan;"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Fotocopy KTP dan KK sponsor/ keluarga;"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Fotocopy akta nikah;"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Fotocopy paspor; dan"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Dokumen Keimigrasian/ Surat Keterangan ABG/ Faskim."
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "title": "Alur Proses Pencabutan Dokumen Keimigrasian",
+                            "content": [
+                              {
+                                "type": "ol",
+                                "content": [
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Penyerahan dokumen persyaratan ke Kantor Imigrasi;"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Entri data pada Sistem Keimigrasian;"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Proses persetujuan permohonan oleh pejabat yang berwenang; dan"
+                                  },
+                                  {
+                                    "type": "li",
+                                    "className": "list-c list-number",
+                                    "content": "Penyerahan dokumen."
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "title": "Download Dokumen",
+                            "content": [
+                              {
+                                "type": "a",
+                                "content": {
+                                  "title": "Contoh Permohonan Pengembalian Dokumen Keimigrasian Karena Menjadi WNI",
+                                  "url": "/documents/Contoh Permohonan Pengembalian Dokim Karena Menjadi WNI.docx"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               }
-            ]
-          }
         },
         {
           "visa": {
