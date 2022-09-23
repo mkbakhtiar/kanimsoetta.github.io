@@ -903,18 +903,36 @@
             "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/2022/03/MAJALAH-GEZIT-INDO.pdf",
             "year": "2022"
           },
-          {
-            "coverUrl": "/images/news/majalah-gezit-edisi-i-2021.jpg",
-            "title": "Buletin GEZIT Edisi I 2021",
-            "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/2021/05/BULETIN-2.pdf",
-            "year": "2021"
-          },
-          {
-            "coverUrl": "/images/news/majalah-gezit-edisi-ii-2021.jpg",
-            "title": "Buletin GEZIT Edisi II 2021",
-            "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/2021/06/Buletin-Gezit-Edisi-2.pdf",
-            "year": "2021"
-          }
+            {
+                "coverUrl": "/images/news/majalah-gezit-edisi-v-2021.jpg",
+                "title": "Buletin GEZIT Edisi V 2021",
+                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/docs/gezit/EDISI-5-GEZIT-Tahun-2021",
+                "year": "2021"
+            },
+            {
+                "coverUrl": "/images/news/majalah-gezit-edisi-iv-2021.jpg",
+                "title": "Buletin GEZIT Edisi IV 2021",
+                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/docs/gezit/EDISI-4-GEZIT-Tahun-2021",
+                "year": "2021"
+            },
+            {
+                "coverUrl": "/images/news/majalah-gezit-edisi-iii-2021.jpg",
+                "title": "Buletin GEZIT Edisi III 2021",
+                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/docs/gezit/EDISI-3-GEZIT-Tahun-2021",
+                "year": "2021"
+            },
+            {
+                "coverUrl": "/images/news/majalah-gezit-edisi-ii-2021.jpg",
+                "title": "Buletin GEZIT Edisi II 2021",
+                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/2021/06/Buletin-Gezit-Edisi-2.pdf",
+                "year": "2021"
+            },
+            {
+                "coverUrl": "/images/news/majalah-gezit-edisi-i-2021.jpg",
+                "title": "Buletin GEZIT Edisi I 2021",
+                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/2021/05/BULETIN-2.pdf",
+                "year": "2021"
+            }
         ]
       },
       {
@@ -1417,7 +1435,7 @@
                 "type": "a",
                 "content": {
                   "title": "Link PDF terkait penambahan Subjek VOA",
-                  "link": "https://drive.google.com/file/d/1xqafL4r27wiepm8rJr7g6dqukVaP0Qp9/view?usp=sharing"
+                  "link": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/docs/SE_DITJENIM_NOMOR-IMI-0650.GR.01.01_TAHUN_2022.pdf"
                 }
               }
             ],
