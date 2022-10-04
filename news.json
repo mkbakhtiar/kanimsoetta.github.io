@@ -4,6 +4,55 @@
         "berita": [
             {
                 "cover": {
+                  "url": "/images/news/Header-Hari-Kesaktian-Pancasila.jpg",
+                  "photoDescription": "Pelaksanaan Upacara Memperingati Hari Kesaktian Pancasila Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta "
+                },
+                "category": "Serba-Serbi",
+                "title": "Imigrasi Soekarno-Hatta Memperingati Hari Kesaktian Pancasila",
+                "content": [
+                  {
+                    "type": "p",
+                    "content": "Sahabat Mido, kita semua tentu sudah tahu bahwa 1 Oktober diperingati sebagai Hari Kesaktian Pancasila. Bukan tanpa alasan, Hari Kesaktian Pancasila diperingati setiap warga Indonesia sebagai salah satu bentuk penghormatan terhadap para pahlawan revolusi; tujuh anggota TNI AD yang tewas dalam peristiwa kelam G30S/PKI."
+                  },
+                  {
+                    "type": "g",
+                    "content": {
+                      "url": "/images/news/Hari-Kesaktian-Pancasila-Gambar 1.jpg",
+                      "photoDescription": "Segenap pegawai Kantor Imigrasi Kelas I Khusus TPI Soekarnoi-Hatta memngikuti pelaksanaan upacara Hari Kesaktian Pancasila"
+                    }
+                  },
+                  {
+                    "type": "p",
+                    "content": "Beranjak dari niat untuk mengenang jasa pahlawan revolusi inilah, segenap pegawai Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta lantas menggelar upacara peringatan Hari Kesaktian Pancasila yang dilaksanakan di lapangan parkir kantor pada tanggal 1 Oktober 2022."
+                  },
+                  {
+                    "type": "g",
+                    "content": {
+                      "url": "/images/news/Hari-Kesaktian-Pancasila-Gambar2.jpg",
+                      "photoDescription": "Kepala Kantor Wilayah Kemenkumham DKI Jakarta, Ibnu Chuldun, memimpin jalannya upacara"
+                    }
+                  },
+                  {
+                    "type": "p",
+                    "content": "Pada upacara ini turut hadir Kepala Kantor Wilayah Kemenkumham DKI Jakarta, Ibnu Chuldun, yang turut memimpin jalannya upacara. Selaku inspektur upacara, Ibnu Chuldun mengingatkan segenap pegawai untuk tidak pernah melupakan jasa pahlawan yang telah mengorbankan jiwa dan raga demi kesatuan negara dan bangsa Indonesia. Selain itu, ia juga mengajak segenap insan imigrasi untuk lebih meningkatkan semangat dalam menjaga gerbang negara."
+                  },
+                  {
+                    "type": "g",
+                    "content": {
+                      "url": "/images/news/Hari-Kesaktian-Pancasila-Gambar3.jpg",
+                      "photoDescription": "Jajaran struktural Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta turut mengikuti pelaksanaan upacara Hari Kesaktian Pancasila"
+                    }
+                  },
+                  {
+                    "type": "p",
+                    "content": "Bukan tanpa alasan, menurut Ibnu Chuldun peningkatan kesiapan dan kesiagaan dalam mengawasi lalu lintas orang yang keluar dan/atau masuk wilayah Indonesia dianggap krusial mengingat Indonesia kini tengah memasuki fase ‘recovery’ pasca diterjang pandemi Covid-19."
+                  }
+                ],
+                "created_at": "2022-10-01",
+                "tags": ""
+            },
+            {
+                "cover": {
                   "url": "/images/news/web-ombudsman-RI-1024x682.jpg",
                   "photoDescription": "Kemenkumham Telah Laksanakan Seluruh Saran terhadap Kebijakan Lalu Lintas WNA"
                 },
