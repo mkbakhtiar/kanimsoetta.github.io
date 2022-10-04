@@ -1072,7 +1072,7 @@
                             19.79,
                             40.01
                           ]
-                        }
+                        }                      
                       ],
                       "label": [
                         "Bidang TU",
@@ -1148,7 +1148,7 @@
                             "Jun": 194242,
                             "Jul": 219980,
                             "Ags": 213165,
-                            "Sep": 0,
+                            "Sep": 280945,
                             "Okt": 0,
                             "Nov": 0,
                             "Des": 0
@@ -1171,7 +1171,7 @@
                             "Jun": 95727,
                             "Jul": 136821,
                             "Ags": 138604,
-                            "Sep": 0,
+                            "Sep": 128067,
                             "Okt": 0,
                             "Nov": 0,
                             "Des": 0
@@ -1212,14 +1212,14 @@
                             {
                               "type": "wna",
                               "title": "WNA Masuk",
-                              "total_jiwa": "578.123 Jiwa",
-                              "desc": "Data Januari sd Agustus 2022"
+                              "total_jiwa": "706.190 Jiwa",
+                              "desc": "Data Januari sd September 2022"
                             },
                             {
                               "type": "wni",
                               "title": "WNI Masuk",
-                              "total_jiwa": "1.302.474 Jiwa",
-                              "desc": "Data Januari sd Agustus 2022"
+                              "total_jiwa": "1.583.419 Jiwa",
+                              "desc": "Data Januari sd September 2022"
                             }
                           ]
                         }
@@ -1249,7 +1249,7 @@
                             "Jun": 224135,
                             "Jul": 193521,
                             "Ags": 265981,
-                            "Sep": 0,
+                            "Sep": 329994,
                             "Okt": 0,
                             "Nov": 0,
                             "Des": 0
@@ -1272,7 +1272,7 @@
                             "Jun": 92112,
                             "Jul": 120761,
                             "Ags": 143066,
-                            "Sep": 0,
+                            "Sep": 125254,
                             "Okt": 0,
                             "Nov": 0,
                             "Des": 0
@@ -1313,14 +1313,14 @@
                             {
                               "type": "wna",
                               "title": "WNA Keluar",
-                              "total_jiwa": "538.723 Jiwa",
-                              "desc": "Data Januari sd Agustus 2022"
+                              "total_jiwa": "663.977 Jiwa",
+                              "desc": "Data Januari sd September 2022"
                             },
                             {
                               "type": "wni",
                               "title": "WNI Keluar",
-                              "total_jiwa": "1.424.108 Jiwa",
-                              "desc": "Data Januari sd Agustus 2022"
+                              "total_jiwa": "1.754.102 Jiwa",
+                              "desc": "Data Januari sd September 2022"
                             }
                           ]
                         }
@@ -1425,7 +1425,17 @@
                             9565,
                             9480
                           ]
-                        }
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            16363,
+                            10458,
+                            10089,
+                            8838,
+                            8385
+                          ]
+                        }                        
                       ],
                       "label": [
                         {
@@ -1507,7 +1517,17 @@
                             "Jepang",
                             "Tiongkok"
                           ]
-                        }
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            "Malaysia",
+                            "Singapura",
+                            "Tiongkok",
+                            "Jepang",
+                            "Korea Selatan"
+                          ]
+                        }                        
                       ],
                       "filter": [
                         {
@@ -1541,7 +1561,11 @@
                         {
                           "label": "Agustus 2022",
                           "value": "Agustus 2022"
-                        }
+                        },
+                        {
+                          "label": "September 2022",
+                          "value": "September 2022"
+                        }                        
                       ],
                       "colors": "#11375C"
                     }
@@ -1648,7 +1672,17 @@
                             8896,
                             8788
                           ]
-                        }
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            16416,
+                            10620,
+                            10323,
+                            8994,
+                            8562
+                          ]
+                        }                        
                       ],
                       "label": [
                         {
@@ -1730,7 +1764,17 @@
                             "Korea Selatan",
                             "Jepang"
                           ]
-                        }
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            "Malaysia",
+                            "Singapura",
+                            "Tiongkok",
+                            "Jepang",
+                            "Korea Selatan"
+                          ]
+                        }                        
                       ],
                       "filter": [
                         {
@@ -1764,7 +1808,11 @@
                         {
                           "label": "Agustus 2022",
                           "value": "Agustus 2022"
-                        }
+                        },
+                        {
+                          "label": "September 2022",
+                          "value": "September 2022"
+                        }                        
                       ],
                       "colors": "#FBAF17"
                     }
