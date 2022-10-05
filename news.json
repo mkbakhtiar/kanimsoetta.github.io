@@ -1000,19 +1000,19 @@
             {
                 "coverUrl": "/images/news/majalah-gezit-edisi-v-2021.jpg",
                 "title": "Buletin GEZIT Edisi V 2021",
-                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/docs/gezit/EDISI-5-GEZIT-Tahun-2021",
+                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/docs/gezit/EDISI-5-GEZIT-Tahun-2021.pdf",
                 "year": "2021"
             },
             {
                 "coverUrl": "/images/news/majalah-gezit-edisi-iv-2021.jpg",
                 "title": "Buletin GEZIT Edisi IV 2021",
-                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/docs/gezit/EDISI-4-GEZIT-Tahun-2021",
+                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/docs/gezit/EDISI-4-GEZIT-Tahun-2021.pdf",
                 "year": "2021"
             },
             {
                 "coverUrl": "/images/news/majalah-gezit-edisi-iii-2021.jpg",
                 "title": "Buletin GEZIT Edisi III 2021",
-                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/docs/gezit/EDISI-3-GEZIT-Tahun-2021",
+                "downloadUrl": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/docs/gezit/EDISI-3-GEZIT-Tahun-2021.pdf",
                 "year": "2021"
             },
             {
@@ -1584,7 +1584,7 @@
                 "type": "a",
                 "content": {
                   "title": "Link PDF terkait penambahan Subjek VOA",
-                  "link": "https://soekarnohatta.imigrasi.go.id:8001/wp-content/uploads/docs/SE_DITJENIM_NOMOR-IMI-0650.GR.01.01_TAHUN_2022.pdf"
+                  "link": "https://soekarnohatta.imigrasi.go.id:8001/web-content/uploads/docs/SE_DITJENIM_NOMOR-IMI-0650.GR.01.01_TAHUN_2022.pdf"
                 }
               }
             ],
