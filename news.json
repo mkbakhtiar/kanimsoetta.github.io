@@ -2,6 +2,55 @@
     "data": [
       {
         "berita": [
+	{
+	    "cover": {
+	      "url": "/images/news/header-Terminal2F.jpg",
+	      "photoDescription": "Terminal 2F Telah Dibuka Kembali"
+	    },
+	    "category": "Serba-Serbi",
+	    "title": "No Worry Be Happy! Terminal 2F Telah Dibuka Kembali",
+	    "content": [
+	      {
+		"type": "p",
+		"content": "Pasca diterjang badai pandemi Covid-19 sejak awal tahun 2020 lalu, Indonesia yang kini tengah memasuki fase ‘recovery’ mulai menggenjot kembali beragam sektor yang menyokong perekonomian negara. Salah satu sektor yang dimaksud adalah sektor aviasi atau penerbangan. Tidak percaya? Sahabat Mido bisa lho langsung berkunjung ke Bandar Udara Internasional Soekarno-Hatta. Akan terlihat bahwa kini arus lalu lintas penerbangan, khususnya rute internasional, kembali ramai dan padat."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/gambar1-Terminal2F.jpg",
+		  "photoDescription": "Telihat petugas imigrasi siap sedia di konter-konter pemeriksaan yang ada di terminal 2F"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Untuk mengakomodasi ramainya rute penerbangan internasional ini, Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta bekerja sama dengan Angkasa Pura II kembali membuka terminal 2F yang sebelumnya vakum karena pandemi Covid-19."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/Gambar2-Terminal2F.jpg",
+		  "photoDescription": "Pengoperasian kembali Tempat Pemeriksaan Imigrasi di Terminal 2F Bandara Internasional Soekarno-Hatta"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Per tanggal 1 Oktober 2022, terminal 2F akhirnya resmi dioperasikan kembali. Untuk tahap awal, terminal 2F ini diperuntukkan sebagai clearence bagi jemaah umroh saja. Khusus pada bagian Tempat Pemeriksaan Imigrasi, Sahabat Mido bisa melihat bahwa sudah tersedia 6 konter pemeriksaan yang bisa diisi oleh 12 orang petugas. Sebagai kick-start pada 1 Oktober lalu, petugas yang bertugas di terminal 2F telah memeriksa 970 penumpang jemaah umroh yang berangkat ke tanah suci dengan menggunakan maskapai Lion Group."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/Gambar3-Terminal2F.jpg",
+		  "photoDescription": "Terlihat jemaah umroh mulai mengantri di depan konter pemeriksaan"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Lalu, apakah terminal 2F selamanya akan diperuntukkan bagi jemaah umroh saja? Eits, don’t worry be happy! Mengingat makin ramainya lalu lintas penerbangan internasional dari dan ke wilayah Indonesia, tidak menutup kemungkinan jika di waktu dekat terminal 2F juga akan melayani proses clearence bagi penumpang dengan ragam tujuan kunjungan."
+	      }
+	    ],
+	    "created_at": "2022-10-04",
+	    "tags": ""
+	},
         {
 	    "cover": {
 	      "url": "/images/news/Imigrasi-Soekarno-Hatta-Bersinar-Header.jpg",
