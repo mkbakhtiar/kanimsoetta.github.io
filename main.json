@@ -46,8 +46,8 @@
             },
             {
               "id": 9,
-              "image_mobile": "/images/banner/G20.jpg",
-              "image_dekstop": "/images/banner/G20-HP.jpg"
+              "image_mobile": "/images/banner/G20-HP.jpg",
+              "image_dekstop": "/images/banner/G20.jpg"
             }
           ]
         },
