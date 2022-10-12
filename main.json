@@ -6,6 +6,11 @@
           "slider": [
             {
               "id": 1,
+              "image_mobile": "/images/banner/G20.jpg",
+              "image_dekstop": "/images/banner/G20-HP.jpg"
+            },
+            {
+              "id": 1,
               "image_mobile": "/images/banner/ssRfcjH.jpg",
               "image_dekstop": "/images/banner/5sjfnv4.jpg"
             },
