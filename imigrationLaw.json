@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "ketentuanUmum": {
+            "bab1": {
                 "pageTitle": "Bab 1 - Ketentuan Umum",
                 "content": [
                     {
@@ -176,13 +176,8 @@
                                         "title": "Pasal 2",
                                         "content": [
                                             {
-                                                "type": "ol",
-                                                "content": [
-                                                    {
-                                                        "type": "li",
-                                                        "content": "Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilayah Indonesia."
-                                                    }
-                                                ]
+                                                "type": "p",
+                                                "content": "Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilayah Indonesia."
                                             }
                                         ]
                                     }
@@ -192,7 +187,7 @@
                     }
                 ]
             },
-            "fungsiKeimigrasian": {
+            "bab2": {
                 "pageTitle": "Bagian Kedua - Sistem Informasi Manajemen Keimigrasian",
                 "content": [
                     {
@@ -261,13 +256,8 @@
                                         "title": "Pasal 5",
                                         "content": [
                                             {
-                                                "type": "ol",
-                                                "content": [
-                                                    {
-                                                        "type": "li",
-                                                        "content": "Fungsi Keimigrasian di setiap Perwakilan Republik Indonesia atau tempat lain di luar negeri dilaksanakan oleh Pejabat Imigrasi dan/atau pejabat dinas luar negeri yang ditunjuk."
-                                                    }
-                                                ]
+                                                "type": "p",
+                                                "content": "Fungsi Keimigrasian di setiap Perwakilan Republik Indonesia atau tempat lain di luar negeri dilaksanakan oleh Pejabat Imigrasi dan/atau pejabat dinas luar negeri yang ditunjuk."
                                             }
                                         ]
                                     },
@@ -275,13 +265,8 @@
                                         "title": "Pasal 6",
                                         "content": [
                                             {
-                                                "type": "ol",
-                                                "content": [
-                                                    {
-                                                        "type": "li",
-                                                        "content": "Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian dengan negara lain dan/atau dengan badan atau organisasi internasional berdasarkan ketentuan peraturan perundang-undangan."
-                                                    }
-                                                ]
+                                                "type": "p",
+                                                "content": "Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian dengan negara lain dan/atau dengan badan atau organisasi internasional berdasarkan ketentuan peraturan perundang-undangan."
                                             }
                                         ]
                                     }
@@ -314,6 +299,115 @@
                                                         "content": "Sistem Informasi Manajemen Keimigrasian dapat diakses oleh instansi dan/atau lembaga pemerintahan terkait sesuai dengan tugas dan fungsinya."
                                                     }
                                                 ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bab3": {
+                "pageTitle": "Bab 3 - Masuk dan Keluar Wilayah Indonesia",
+                "content": [
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kesatu - Umum"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 8",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap orang yang masuk atau keluar Wilayah Indonesia wajib memiliki Dokumen Perjalanan yang sah dan masih berlaku."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap Orang Asing yang masuk Wilayah Indonesia wajib memiliki Visa yang sah dan masih berlaku, kecuali ditentukan lain berdasarkan Undang-Undang ini dan perjanjian internasional."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 9",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap orang yang masuk atau keluar Wilayah Indonesia wajib melalui pemeriksaan yang dilakukan oleh Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemeriksaan sebagaimana dimaksud pada ayat (1) meliputi pemeriksaan Dokumen Perjalanan dan/atau identitas diri yang sah."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal terdapat keraguan atas keabsahan Dokumen Perjalanan dan/atau identitas diri seseorang, Pejabat Imigrasi berwenang untuk melakukan penggeledahan terhadap badan dan barang bawaan dan dapat dilanjutkan dengan proses penyelidikan Keimigrasian."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kedua - Masuk Wilayah Indonesia"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": false,
+                                "content": [
+                                    {
+                                        "title": "Pasal 10",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Orang Asing yang telah memenuhi persyaratan dapat masuk Wilayah Indonesia setelah mendapatkan Tanda Masuk."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 11",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam keadaan darurat Pejabat Imigrasi dapat memberikan Tanda Masuk yang bersifat darurat kepada Orang Asing."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Tanda Masuk sebagaimana dimaksud pada ayat (1) berlaku sebagai Izin Tinggal kunjungan dalam jangka waktu tertentu."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 12",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Menteri berwenang melarang Orang Asing berada di daerah tertentu di Wilayah Indonesia."
                                             }
                                         ]
                                     }
