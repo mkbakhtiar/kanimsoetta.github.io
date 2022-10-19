@@ -22,27 +22,7 @@
                         "content": [
                             {
                                 "type": "li",
-                                "content": {
-                                    "type": "ol",
-                                    "content": [
-                                        {
-                                            "type": "li",
-                                            "content": "a.Penyusunan Tim Kerja"
-                                        },
-                                        {
-                                            "type": "li",
-                                            "content": "b.Rencana Pembangunan Zona Integritas"
-                                        },
-                                        {
-                                            "type": "li",
-                                            "content": "c.Pemantauan Dan Evaluasi Pembangunan WBK/WBBM"
-                                        },
-                                        {
-                                            "type": "li",
-                                            "content": "d.Perubahan Pola Pikir dan Budaya Kerja"
-                                        }
-                                    ]
-                                }
+                                "content": "Manajemen Perubahan \n a.Penyusunan Tim Kerja \n b.Rencana Pembangunan Zona Integritas \n c.Pemantauan Dan Evaluasi Pembangunan WBK/WBBM \n d.Perubahan Pola Pikir dan Budaya Kerja2. Penataan Tata Laksana"
                             },
                             {
                                 "type": "li",
