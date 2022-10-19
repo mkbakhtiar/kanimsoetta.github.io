@@ -410,6 +410,87 @@
                                                 "content": "Menteri berwenang melarang Orang Asing berada di daerah tertentu di Wilayah Indonesia."
                                             }
                                         ]
+                                    },
+                                    {
+                                        "title": "Pasal 13",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi menolak Orang Asing masuk Wilayah Indonesia dalam hal orang asing tersebut: \n a. namanya tercantum dalam daftar Penangkalan \n b. tidak memiliki Dokumen Perjalanan yang sah dan berlaku \n c. memiliki dokumen Keimigrasian yang palsu; \n d. tidak memiliki Visa, kecuali yang dibebaskan dari kewajiban memiliki Visa; \n e. telah memberi keterangan yang tidak benar dalam memperoleh Visa; \n f. menderita penyakit menular yang membahayakan kesehatan umum; \ng. terlibat kejahatan internasional dan tindak pidana transnasional yang terorganisasi; \n h. termasuk dalam daftar pencarian orang untuk ditangkap dari suatu negara asing"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing yang ditolak masuk sebagaimana dimaksud pada ayat (1) ditempatkan dalam pengawasan sementara menunggu proses pemulangan yang bersangkutan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 14",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap warga negara Indonesia tidak dapat ditolak masuk Wilayah Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal terdapat keraguan terhadap Dokumen Perjalanan seorang warga negara Indonesia dan/atau status kewarganegaraannya, yang bersangkutan harus memberikan bukti lain yang sah dan meyakinkan yang menunjukkan bahwa yang bersangkutan adalah warga negara Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam rangka melengkapi bukti sebagaimana dimaksud pada ayat (2), yang bersangkutan dapat ditempatkan dalam Rumah Detensi Imigrasi atau Ruang Detensi Imigrasi."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "content": "Bagian Ketiga - Keluar Wilayah Indonesia"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": false,
+                                "content": [
+                                    {
+                                        "title": "Pasal 15",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap orang dapat keluar Wilayah Indonesia setelah memenuhi persyaratan dan mendapat Tanda Keluar dari Pejabat Imigrasi."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 16",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi menolak orang untuk keluar Wilayah Indonesia dalam hal orang tersebut: \n a. tidak memiliki Dokumen Perjalanan yang sah dan masih berlaku; \n b. diperlukan untuk kepentingan penyelidikan dan penyidikan atas permintaan pejabat yang berwenang; atau \n c. namanya tercantum dalam daftar Pencegahan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi juga berwenang menolak Orang Asing untuk keluar Wilayah Indonesia dalam hal Orang Asing tersebut masih mempunyai kewajiban di Indonesia yang harus diselesaikan sesuai dengan ketentuan peraturan perundang-undangan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             }
