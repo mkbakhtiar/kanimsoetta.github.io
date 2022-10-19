@@ -193,7 +193,7 @@
                 ]
             },
             "fungsiKeimigrasian": {
-                "pageTitle": "Bab 2 - Pelaksanaan Ketentuan Umum",
+                "pageTitle": "Bagian Kedua - Sistem Informasi Manajemen Keimigrasian",
                 "content": [
                     {
                         "type": "h4",
@@ -252,6 +252,80 @@
                                                     {
                                                         "type": "li",
                                                         "content": "Kantor Imigrasi dan Rumah Detensi Imigrasi merupakan unit pelaksana teknis yang berada di bawah Direktorat Jenderal Imigrasi."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 5",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Fungsi Keimigrasian di setiap Perwakilan Republik Indonesia atau tempat lain di luar negeri dilaksanakan oleh Pejabat Imigrasi dan/atau pejabat dinas luar negeri yang ditunjuk."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 6",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian dengan negara lain dan/atau dengan badan atau organisasi internasional berdasarkan ketentuan peraturan perundang-undangan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 7",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian dengan negara lain dan/atau dengan badan atau organisasi internasional berdasarkan ketentuan peraturan perundang-undangan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kedua - Sistem Informasi Manajemen Keimigrasian"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 7",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Direktur Jenderal bertanggung jawab menyusun dan mengelola Sistem Informasi Manajemen Keimigrasian sebagai sarana pelaksanaan Fungsi Keimigrasian di dalam atau di luar Wilayah Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Sistem Informasi Manajemen Keimigrasian dapat diakses oleh instansi dan/atau lembaga pemerintahan terkait sesuai dengan tugas dan fungsinya."
                                                     }
                                                 ]
                                             }
