@@ -176,13 +176,8 @@
                                         "title": "Pasal 2",
                                         "content": [
                                             {
-                                                "type": "ol",
-                                                "content": [
-                                                    {
-                                                        "type": "li",
-                                                        "content": "Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilayah Indonesia."
-                                                    }
-                                                ]
+                                                "type": "p",
+                                                "content": "Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilayah Indonesia."
                                             }
                                         ]
                                     }
@@ -261,13 +256,8 @@
                                         "title": "Pasal 5",
                                         "content": [
                                             {
-                                                "type": "ol",
-                                                "content": [
-                                                    {
-                                                        "type": "li",
-                                                        "content": "Fungsi Keimigrasian di setiap Perwakilan Republik Indonesia atau tempat lain di luar negeri dilaksanakan oleh Pejabat Imigrasi dan/atau pejabat dinas luar negeri yang ditunjuk."
-                                                    }
-                                                ]
+                                                "type": "p",
+                                                "content": "Fungsi Keimigrasian di setiap Perwakilan Republik Indonesia atau tempat lain di luar negeri dilaksanakan oleh Pejabat Imigrasi dan/atau pejabat dinas luar negeri yang ditunjuk."
                                             }
                                         ]
                                     },
@@ -275,13 +265,8 @@
                                         "title": "Pasal 6",
                                         "content": [
                                             {
-                                                "type": "ol",
-                                                "content": [
-                                                    {
-                                                        "type": "li",
-                                                        "content": "Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian dengan negara lain dan/atau dengan badan atau organisasi internasional berdasarkan ketentuan peraturan perundang-undangan."
-                                                    }
-                                                ]
+                                                "type": "p",
+                                                "content": "Pemerintah dapat melakukan kerja sama internasional di bidang Keimigrasian dengan negara lain dan/atau dengan badan atau organisasi internasional berdasarkan ketentuan peraturan perundang-undangan."
                                             }
                                         ]
                                     }
@@ -394,13 +379,8 @@
                                         "title": "Pasal 10",
                                         "content": [
                                             {
-                                                "type": "ol",
-                                                "content": [
-                                                    {
-                                                        "type": "li",
-                                                        "content": "Orang Asing yang telah memenuhi persyaratan dapat masuk Wilayah Indonesia setelah mendapatkan Tanda Masuk."
-                                                    }
-                                                ]
+                                                "type": "p",
+                                                "content": "Orang Asing yang telah memenuhi persyaratan dapat masuk Wilayah Indonesia setelah mendapatkan Tanda Masuk."
                                             }
                                         ]
                                     },
@@ -426,13 +406,8 @@
                                         "title": "Pasal 12",
                                         "content": [
                                             {
-                                                "type": "ol",
-                                                "content": [
-                                                    {
-                                                        "type": "li",
-                                                        "content": "Menteri berwenang melarang Orang Asing berada di daerah tertentu di Wilayah Indonesia."
-                                                    }
-                                                ]
+                                                "type": "p",
+                                                "content": "Menteri berwenang melarang Orang Asing berada di daerah tertentu di Wilayah Indonesia."
                                             }
                                         ]
                                     }
