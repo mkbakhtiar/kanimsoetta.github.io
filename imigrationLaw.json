@@ -171,6 +171,91 @@
                                                 ]
                                             }
                                         ]
+                                    },
+                                    {
+                                        "title": "Pasal 2",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilayah Indonesia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "fungsiKeimigrasian": {
+                "pageTitle": "Bab 2 - Pelaksanaan Ketentuan Umum",
+                "content": [
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kesatu - Umum"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 3",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Untuk melaksanakan Fungsi Keimigrasian, Pemerintah menetapkan kebijakan Keimigrasian."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Kebijakan Keimigrasian dilaksanakan oleh Menteri."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Fungsi Keimigrasian di sepanjang garis perbatasan Wilayah Indonesia dilaksanakan oleh Pejabat Imigrasi yang meliputi Tempat Pemeriksaan Imigrasi dan pos lintas batas."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 4",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Untuk melaksanakan Fungsi Keimigrasian sebagaimana dimaksud dalam Pasal 3, dapat dibentuk Kantor Imigrasi di kabupaten, kota, atau kecamatan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Di setiap wilayah kerja Kantor Imigrasi dapat dibentuk Tempat Pemeriksaan Imigrasi."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pembentukan Tempat Pemeriksaan Imigrasi sebagaimana dimaksud pada ayat (2) ditetapkan berdasarkan Keputusan Menteri."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Selain Kantor Imigrasi sebagaimana dimaksud pada ayat (1), dapat dibentuk Rumah Detensi Imigrasi di ibu kota negara, provinsi, kabupaten, atau kota."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Kantor Imigrasi dan Rumah Detensi Imigrasi merupakan unit pelaksana teknis yang berada di bawah Direktorat Jenderal Imigrasi."
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             }
