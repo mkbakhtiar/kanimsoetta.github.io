@@ -22,11 +22,31 @@
                         "content": [
                             {
                                 "type": "li",
-                                "content": "1. Manajemen Perubahan \n a.Penyusunan Tim Kerja \n b.Rencana Pembangunan Zona Integritas \n c.Pemantauan Dan Evaluasi Pembangunan WBK/WBBM \n d.Perubahan Pola Pikir dan Budaya Kerja2. Penataan Tata Laksana"
+                                "content": {
+                                    "type": "ol",
+                                    "content": [
+                                        {
+                                            "type": "li",
+                                            "content": "a.Penyusunan Tim Kerja"
+                                        },
+                                        {
+                                            "type": "li",
+                                            "content": "b.Rencana Pembangunan Zona Integritas"
+                                        },
+                                        {
+                                            "type": "li",
+                                            "content": "c.Pemantauan Dan Evaluasi Pembangunan WBK/WBBM"
+                                        },
+                                        {
+                                            "type": "li",
+                                            "content": "d.Perubahan Pola Pikir dan Budaya Kerja"
+                                        }
+                                    ]
+                                }
                             },
                             {
                                 "type": "li",
-                                "content": "2. Penataan Tata Laksana \n a.Prosedur Operasional Tetap (SOP) \n b.E-Office \n c.Keterbukaan Informasi Publik"
+                                "content": "Penataan Tata Laksana \n a.Prosedur Operasional Tetap (SOP) \n b.E-Office \n c.Keterbukaan Informasi Publik"
                             }
                         ]
                     }
