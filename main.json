@@ -1077,7 +1077,17 @@
                             19.79,
                             40.01
                           ]
-                        }                      
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            80.43,
+                            28.36,
+                            74.12,
+                            29.85,
+                            46.70
+                          ]
+                        }                          
                       ],
                       "label": [
                         "Bidang TU",
@@ -1098,7 +1108,11 @@
                         {
                           "label": "Agustus 2022",
                           "value": "Agustus 2022"
-                        }
+                        },
+                        {
+                          "label": "September 2022",
+                          "value": "September 2022"
+                        }                        
                       ],
                       "colors": [
                         "#030D26",
