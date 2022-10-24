@@ -1640,19 +1640,12 @@
                                                         "content": "Penjamin wajib membayar biaya yang timbul untuk memulangkan atau mengeluarkan Orang Asing yang dijaminnya dari Wilayah Indonesia apabila Orang Asing yang bersangkutan:"
                                                     },
                                                     {
-                                                        "type": "ol",
-                                                        "content": [
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "telah habis masa berlaku Izin Tinggalnya; dan/atau"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "dikenai Tindakan Administratif Keimigrasian berupa Deportasi."
-                                                            }
-                                                        ]
+                                                        "type": "p",
+                                                        "content": "a. telah habis masa berlaku Izin Tinggalnya; dan/atau"
+                                                    },
+                                                    {
+                                                        "type": "p",
+                                                        "content": "b. dikenai Tindakan Administratif Keimigrasian berupa Deportasi."
                                                     },
                                                     {
                                                         "type": "li",
