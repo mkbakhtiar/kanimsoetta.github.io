@@ -1701,7 +1701,7 @@
                 ]
             },
             "bab6": {
-                "pageTitle": "Bab 5 - Visa Tanda Masuk dan Izin Tinggal",
+                "pageTitle": "Bab 6 - Pengawasan Keimigrasian",
                 "content": [
                     {
                         "type": "h4",
@@ -1726,6 +1726,11 @@
                                                     {
                                                         "type": "li",
                                                         "content": "Pengawasan Keimigrasian meliputi:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list list-c list-alpha",
+                                                        "content": "pengawasan terhadap warga negara Indonesia yang memohon dokumen perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
                                                     }
                                                 ]
                                             }
