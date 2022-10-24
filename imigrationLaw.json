@@ -1725,12 +1725,21 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "content": "Pengawasan Keimigrasian meliputi:"
-                                                    },
-                                                    {
-                                                        "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
-                                                        "content": "pengawasan terhadap warga negara Indonesia yang memohon dokumen perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
+                                                        "content": "Pengawasan Keimigrasian meliputi:",
+                                                        "extraContent": [
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "pengawasan terhadap warga negara Indonesia yang memohon dokumen perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "content": "Semua data pada dokumen yang dipersyaratkan harus sama."
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "content": "Dokumen asli harus dibawa dan difotokopi di kertas A4 (tidak dipotong)."
+                                                            }
+                                                        ]
                                                     }
                                                 ]
                                             }
