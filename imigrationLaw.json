@@ -2166,7 +2166,7 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "content": "TRumah Detensi Imigrasi dipimpin oleh seorang kepala."
+                                                        "content": "Rumah Detensi Imigrasi dipimpin oleh seorang kepala."
                                                     }
                                                 ]
                                             }
@@ -2378,31 +2378,29 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className":"sub-list ",
+                                                        "className": "sub-list ",
                                                         "content": "pertukaran informasi dengan negara lain dan instansi terkait di dalam negeri, meliputi modus operandi, pengawasan dan pengamananDokumen Perjalanan, serta legitimasi dan validitas dokumen;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className":"sub-list ",
+                                                        "className": "sub-list ",
                                                         "content": "kerja sama teknis dan pelatihan dengan negara lain meliputi perlakuan yang berdasarkan perikemanusiaan terhadap korban, pengamanan dan kualitas Dokumen Perjalanan, deteksi dokumen palsu, pertukaran informasi, serta pemantauandan deteksi Penyelundupan Manusia dengan cara konvensional dan nonkonvensional;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className":"sub-list ",
+                                                        "className": "sub-list ",
                                                         "content": "memberikan penyuluhan hukum kepadamasyarakat bahwa perbuatan perdaganganorang dan Penyelundupan Manusia merupakan tindak pidana agar orang tidak menjadi korban;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className":"sub-list ",
+                                                        "className": "sub-list ",
                                                         "content": "menjamin bahwa Dokumen Perjalanan atau identitas yang dikeluarkan berkualitas sehingga dokumen tersebut tidak mudah disalahgunakan, dipalsukan, diubah, ditiru, atau diterbitkan secara melawan hukum; dan"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className":"sub-list ",
+                                                        "className": "sub-list ",
                                                         "content": "memastikan bahwa integritas dan pengamanan Dokumen Perjalanan yang dikeluarkan atauditerbitkan oleh atau atas nama negara untuk mencegah pembuatan dokumen tersebut secara melawan hukum dalam hal penerbitan dan penggunaannya."
                                                     },
-                                                    
-
                                                     {
                                                         "type": "li",
                                                         "value": 3,
@@ -2410,17 +2408,17 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className":"sub-list ",
+                                                        "className": "sub-list ",
                                                         "content": "penyidikan Keimigrasian terhadap pelaku tindak pidana perdagangan orang dan Penyelundupan Manusia;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className":"sub-list ",
+                                                        "className": "sub-list ",
                                                         "content": "Tindakan Administratif Keimigrasian terhadap pelaku tindak pidana perdagangan orang dan Penyelundupan Manusia; dan"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className":"sub-list ",
+                                                        "className": "sub-list ",
                                                         "content": "kerja sama dalam bidang penyidikan dengan instansi penegak hukum lainnya."
                                                     }
                                                 ]
@@ -2433,6 +2431,334 @@
                                             {
                                                 "type": "p",
                                                 "content": "Ketentuan lebih lanjut mengenai pengawasan Keimigrasian, Intelijen Keimigrasian, Rumah Detensi Imigrasi dan Ruang Detensi Imigrasi, serta penanganan terhadap korban perdagangan orang dan Penyelundupan Manusia diatur dengan Peraturan Pemerintah."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bab9": {
+                "pageTitle": "Bab 9 - Pencegahan dan Penangkalan",
+                "content": [
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kesatu - Pencegahan"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 91",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri berwenang dan bertanggung jawab melakukan Pencegahan yang menyangkut bidang Keimigrasian."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri melaksanakan Pencegahan berdasarkan:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "hasil pengawasan Keimigrasian dan keputusan Tindakan Administratif Keimigrasian;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "Keputusan Menteri Keuangan dan Jaksa Agung sesuai dengan bidang tugasnya masing-masing dan ketentuan peraturan perundang-undangan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "permintaan Kepala Kepolisian Negara Republik Indonesia sesuai dengan ketentuan peraturan perundang-undangan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "perintah Ketua Komisi Pemberantasan Korupsi sesuai dengan ketentuan peraturan perundang-undangan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "permintaan Kepala Badan Narkotika Nasional sesuai dengan ketentuan peraturan perundang-undangan; dan/atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "keputusan, perintah, atau permintaan pimpinan kementerian/lembaga lain yang berdasarkan undang-undang memiliki kewenangan Pencegahan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 3,
+                                                        "content": "Menteri Keuangan, Jaksa Agung, Kepala Kepolisian Negara Republik Indonesia, Ketua Komisi Pemberantasan Korupsi, Kepala Badan Narkotika Nasional, atau pimpinan kementerian/lembaga yang memiliki kewenangan Pencegahan sebagaimana dimaksud pada ayat (2) huruf f bertanggung jawab atas keputusan, permintaan, dan perintah Pencegahan yang dibuatnya."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 92",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Dalam keadaan yang mendesak pejabat sebagaimana dimaksud dalam Pasal 91 ayat (2) dapat meminta secara langsung kepada Pejabat Imigrasi tertentu untuk melakukan Pencegahan."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 93",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pelaksanaan atas keputusan Pencegahan sebagaimana dimaksud dalam Pasal 91 dilakukan oleh Menteri atau Pejabat Imigrasi yang ditunjuk."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 94",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pencegahan sebagaimana dimaksud dalam Pasal 91 ditetapkan dengan keputusan tertulis oleh pejabat yang berwenang."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Keputusan sebagaimana dimaksud pada ayat (1) memuat sekurang-kurangnya:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "nama, jenis kelamin, tempat dan tanggal lahir atau umur, serta foto yang dikenai Pencegahan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "alasan Pencegahan; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "jangka waktu Pencegahan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 3,
+                                                        "content": "Keputusan Pencegahan disampaikan kepada orang yang dikenai Pencegahan paling lambat 7 (tujuh) hari sejak tanggal keputusan ditetapkan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal keputusan Pencegahan dikeluarkan oleh pejabat sebagaimana dimaksud dalam Pasal 91 ayat (2), keputusan tersebut juga disampaikan kepada Menteri paling lambat 3 (tiga) hari sejak tanggal keputusan ditetapkan dengan permintaan untuk dilaksanakan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri dapat menolak permintaan pelaksanaan Pencegahan apabila keputusan Pencegahan tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (2)."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemberitahuan penolakan pelaksanaan Pencegahan sebagaimana dimaksud pada ayat (5) harus disampaikan kepada pejabat sebagaimana dimaksud dalam Pasal 91 ayat (2) paling lambat 7 (tujuh) hari sejak tanggal permohonan Pencegahan diterima disertai dengan alasan penolakan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk memasukkan identitas orang yang dikenai keputusan Pencegahan ke dalam daftar Pencegahan melalui Sistem Informasi Manajemen Keimigrasian."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 95",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Berdasarkan daftar Pencegahan sebagaimana dimaksud dalam Pasal 94 ayat (7), Pejabat Imigrasi wajib menolak orang yang dikenai Pencegahan keluar Wilayah Indonesia."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 96",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap orang yang dikenai Pencegahan dapat mengajukan keberatan kepada pejabat yang mengeluarkan keputusan Pencegahan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengajuan keberatan sebagaimana dimaksud pada ayat (1) dilakukan secara tertulis disertai dengan alasan dan disampaikan dalam jangka waktu berlakunya masa Pencegahan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengajuan keberatan tidak menunda pelaksanaan Pencegahan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 97",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Jangka waktu Pencegahan berlaku paling lama 6 (enam) bulan dan setiap kali dapat diperpanjang paling lama 6 (enam) bulan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal tidak ada keputusan perpanjangan masa Pencegahan, Pencegahan berakhir demi hukum."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal terdapat putusan pengadilan yang berkekuatan hukum tetap yang menyatakan bebas atas perkara yang menjadi alasan Pencegahan, Pencegahan berakhir demi hukum."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kedua - Penangkalan"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 98",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri berwenang melakukan Penangkalan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat yang berwenang dapat meminta kepada Menteri untuk melakukan Penangkalan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 99",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pelaksanaan Penangkalan sebagaimana dimaksud dalam Pasal 98 dilakukan oleh Menteri atau Pejabat Imigrasi yang ditunjuk."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 100",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Penangkalan sebagaimana dimaksud dalam Pasal 98 ditetapkan dengan keputusan tertulis."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Keputusan Penangkalan atas permintaan pejabat sebagaimana dimaksud dalam Pasal 98 ayat (2) dikeluarkan oleh Menteri paling lambat 3 (tiga) hari sejak tanggal permintaan Penangkalan tersebut diajukan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Permintaan Penangkalan sebagaimana dimaksud pada ayat (2) memuat sekurang-kurangnya:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "nama, jenis kelamin, tempat dan tanggal lahir atau umur, serta foto yang dikenai Penangkalan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "alasan Penangkalan; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "jangka waktu Penangkalan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 4,
+                                                        "content": "Menteri dapat menolak permintaan Penangkalan apabila permintaan Penangkalan tidak memenuhi ketentuan sebagaimana dimaksud pada ayat (3)."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemberitahuan penolakan permintaan Penangkalan sebagaimana dimaksud pada ayat (4) harus disampaikan kepada pejabat sebagaimana dimaksud dalam Pasal 98 ayat (2) paling lambat 7 (tujuh) hari sejak tanggal permintaan Penangkalan diterima disertai alasan penolakan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk memasukkan identitas orang yang dikenai keputusan Penangkalan ke dalam daftar Penangkalan melalui Sistem Informasi Manajemen Keimigrasian."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 101",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Berdasarkan daftar Penangkalan sebagaimana dimaksud dalam Pasal 100 ayat (6), Pejabat Imigrasi wajib menolak Orang Asing yang dikenai Penangkalan masuk Wilayah Indonesia."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 102",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Jangka waktu Penangkalan berlaku paling lama 6 (enam) bulan dan setiap kali dapat diperpanjang paling lama 6 (enam) bulan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal tidak ada keputusan perpanjangan masa Penangkalan, Penangkalan berakhir demi hukum."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Keputusan Penangkalan seumur hidup dapat dikenakan terhadap Orang Asing yang dianggap dapat mengganggu keamanan dan ketertiban umum."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 103",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan lebih lanjut mengenai pelaksanaan Pencegahan dan Penangkalan diatur dengan Peraturan Pemerintah."
                                             }
                                         ]
                                     }
