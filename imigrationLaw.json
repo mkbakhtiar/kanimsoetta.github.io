@@ -419,10 +419,51 @@
                                                 "content": [
                                                     {
                                                         "type": "li",
-                                                        "content": "Pejabat Imigrasi menolak Orang Asing masuk Wilayah Indonesia dalam hal orang asing tersebut: \n a. namanya tercantum dalam daftar Penangkalan \n b. tidak memiliki Dokumen Perjalanan yang sah dan berlaku \n c. memiliki dokumen Keimigrasian yang palsu; \n d. tidak memiliki Visa, kecuali yang dibebaskan dari kewajiban memiliki Visa; \n e. telah memberi keterangan yang tidak benar dalam memperoleh Visa; \n f. menderita penyakit menular yang membahayakan kesehatan umum; \ng. terlibat kejahatan internasional dan tindak pidana transnasional yang terorganisasi; \n h. termasuk dalam daftar pencarian orang untuk ditangkap dari suatu negara asing"
+                                                        "content": "Pejabat Imigrasi menolak Orang Asing masuk Wilayah Indonesia dalam hal orang asing tersebut:"
                                                     },
                                                     {
                                                         "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "namanya tercantum dalam daftar Penangkalan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "tidak memiliki Dokumen Perjalanan yang sah dan berlaku;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "memiliki dokumen Keimigrasian yang palsu;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "tidak memiliki Visa, kecuali yang dibebaskan dari kewajiban memiliki Visa;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "telah memberi keterangan yang tidak benar dalam memperoleh Visa;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "menderita penyakit menular yang membahayakan kesehatan umum;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "terlibat kejahatan internasional dan tindak pidana transnasional yang terorganisasi;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "termasuk dalam daftar pencarian orang untuk ditangkap dari suatu negara asing"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 2,
                                                         "content": "Orang Asing yang ditolak masuk sebagaimana dimaksud pada ayat (1) ditempatkan dalam pengawasan sementara menunggu proses pemulangan yang bersangkutan."
                                                     }
                                                 ]
@@ -482,10 +523,26 @@
                                                 "content": [
                                                     {
                                                         "type": "li",
-                                                        "content": "Pejabat Imigrasi menolak orang untuk keluar Wilayah Indonesia dalam hal orang tersebut: \n a. tidak memiliki Dokumen Perjalanan yang sah dan masih berlaku; \n b. diperlukan untuk kepentingan penyelidikan dan penyidikan atas permintaan pejabat yang berwenang; atau \n c. namanya tercantum dalam daftar Pencegahan."
+                                                        "content": "Pejabat Imigrasi menolak orang untuk keluar Wilayah Indonesia dalam hal orang tersebut: "
                                                     },
                                                     {
                                                         "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "tidak memiliki Dokumen Perjalanan yang sah dan masih berlaku;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "diperlukan untuk kepentingan penyelidikan dan penyidikan atas permintaan pejabat yang berwenang; atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "namanya tercantum dalam daftar Pencegahan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 2,
                                                         "content": "Pejabat Imigrasi juga berwenang menolak Orang Asing untuk keluar Wilayah Indonesia dalam hal Orang Asing tersebut masih mempunyai kewajiban di Indonesia yang harus diselesaikan sesuai dengan ketentuan peraturan perundang-undangan."
                                                     }
                                                 ]
@@ -658,15 +715,57 @@
                                                 "content": [
                                                     {
                                                         "type": "li",
-                                                        "content": "Dokumen Perjalanan Republik Indonesia terdiri atas: \n a. Paspor; dan \n b. Surat Perjalanan Laksana Paspor."
+                                                        "content": "Dokumen Perjalanan Republik Indonesia terdiri atas:"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "content": "Paspor terdiri atas: \n a. Paspor diplomatik; \n b. Paspor dinas; dan \n c. Paspor biasa."
+                                                        "className": "sub-list",
+                                                        "content": "Paspor; dan"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "content": "Surat Perjalanan Laksana Paspor terdiri atas: \n a. Surat Perjalanan Laksana Paspor untuk warga negara Indonesia; \n b. Surat Perjalanan Laksana Paspor untuk Orang Asing; dan \n c. surat perjalanan lintas batas atau pas lintas batas;"
+                                                        "className": "sub-list",
+                                                        "content": "Surat Perjalanan Laksana Paspor."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 2,
+                                                        "content": "Paspor terdiri atas:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "Paspor diplomatik;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "Paspor dinas;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "Paspor biasa."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 3,
+                                                        "content": "Surat Perjalanan Laksana Paspor terdiri atas:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "Surat Perjalanan Laksana Paspor untuk warga negara Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "Surat Perjalanan Laksana Paspor untuk Orang Asing; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "surat perjalanan lintas batas atau pas lintas batas;"
                                                     }
                                                 ]
                                             }
@@ -1015,32 +1114,32 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "warga negara dari negara tertentu yang ditetapkan berdasarkan Peraturan Presiden dengan memperhatikan asas timbal balik dan asas manfaat;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "warga negara asing pemegang Izin Tinggal yang memiliki Izin Masuk Kembali yang masih berlaku;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "nakhoda, kapten pilot, atau awak yang sedang bertugas di alat angkut;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "nakhoda, awak kapal, atau tenaga ahli asing di atas kapal laut atau alat apung yang datang langsung dengan alat angkutnya untuk beroperasi di perairan Nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia."
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "terlibat tindak pidana transnasional yang terorganisasi atau membahayakan keutuhan wilayah Negara Kesatuan Republik Indonesia; dan/atau"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "termasuk dalam jaringan praktik atau kegiatan prostitusi, perdagangan orang, dan penyelundupan manusia."
                                                     }
                                                 ]
@@ -1162,31 +1261,32 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Izin Tinggal diplomatik;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Izin Tinggal dinas;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Izin Tinggal kunjungan;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Izin Tinggal terbatas; dan"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Izin Tinggal Tetap."
                                                     },
                                                     {
                                                         "type": "li",
+                                                        "value": 4,
                                                         "content": "Menteri berwenang melarang Orang Asing yang telah diberi Izin Tinggal berada di daerah tertentu di Wilayah Indonesia."
                                                     },
                                                     {
@@ -1231,16 +1331,17 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Orang Asing yang masuk Wilayah Indonesia dengan Visa kunjungan; atau"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "anak yang baru lahir di Wilayah Indonesia dan pada saat lahir ayah dan/atau ibunya pemegang Izin Tinggal kunjungan."
                                                     },
                                                     {
                                                         "type": "li",
+                                                        "value": 2,
                                                         "content": "Izin Tinggal kunjungan sebagaimana dimaksud pada ayat (1) huruf b diberikan sesuai dengan Izin Tinggal kunjungan ayah dan/atau ibunya."
                                                     }
                                                 ]
@@ -1259,32 +1360,32 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "kembali ke negara asalnya;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "izinnya telah habis masa berlaku;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "izinnya beralih status menjadi Izin Tinggal terbatas;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "izinnya dibatalkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "dikenai Deportasi; atau"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "meninggal dunia."
                                                     }
                                                 ]
@@ -1303,32 +1404,26 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "Orang Asing yang masuk Wilayah Indonesia dengan Visa tinggal terbatas;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "anak yang pada saat lahir di Wilayah Indonesia ayah dan/atau ibunya pemegang Izin Tinggal terbatas;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "Orang Asing yang diberikan alih status dari Izin Tinggal kunjungan;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "nakhoda, awak kapal, atau tenaga ahli asing di atas kapal laut, alat apung, atau instalasi yang beroperasi di wilayah perairan dan wilayah yurisdiksi Indonesia sesuai dengan ketentuan peraturan perundang-undangan;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "Orang Asing yang kawin secara sah dengan warga negara Indonesia; atau"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "anak dari Orang Asing yang kawin secara sah dengan warga negara Indonesia."
                                                     }
                                                 ]
@@ -1347,42 +1442,34 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "kembali ke negara asalnya dan tidak bermaksud masuk lagi ke Wilayah Indonesia;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "kembali ke negara asalnya dan tidak kembali lagi melebihi masa berlaku Izin Masuk Kembali yang dimilikinya;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "memperoleh kewarganegaraan Republik Indonesia;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "izinnya telah habis masa berlaku;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "izinnya beralih status menjadi Izin Tinggal Tetap;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "izinnya dibatalkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "dikenai Deportasi; atau"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
                                                         "content": "meninggal dunia."
                                                     }
                                                 ]
@@ -1401,26 +1488,27 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Orang Asing pemegang Izin Tinggal terbatas sebagai rohaniwan, pekerja, investor, dan lanjut usia;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "keluarga karena perkawinan campuran;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "suami, istri, dan/atau anak dari Orang Asing pemegang Izin Tinggal Tetap; dan"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Orang Asing eks warga negara Indonesia dan eks subjek anak berkewarganegaraan ganda Republik Indonesia."
                                                     },
                                                     {
                                                         "type": "li",
+                                                        "value": 2,
                                                         "content": "Izin Tinggal Tetap sebagaimana dimaksud pada ayat (1) tidak diberikan kepada Orang Asing yang tidak memiliki paspor kebangsaan."
                                                     },
                                                     {
@@ -1550,71 +1638,72 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "meninggalkan Wilayah Indonesia lebih dari 1 (satu) tahun atau tidak bermaksud masuk lagi ke Wilayah Indonesia;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "tidak melakukan perpanjangan Izin Tinggal Tetap setelah 5 (lima) tahun;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "memperoleh kewarganegaraan Republik Indonesia;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "izinnya dibatalkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "dikenai tindakan Deportasi; atau"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "meninggal dunia."
                                                     },
                                                     {
                                                         "type": "li",
+                                                        "value": 2,
                                                         "content": "Izin Tinggal Tetap dibatalkan karena pemegang Izin Tinggal Tetap:"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "terbukti melakukan tindak pidana terhadap negara sebagaimana diatur dalam peraturan perundang-undangan;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "melakukan kegiatan yang membahayakan keamanan negara;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "melanggar Pernyataan Integrasi;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "mempekerjakan tenaga kerja asing tanpa izin kerja;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "memberikan informasi yang tidak benar dalam pengajuan permohonan Izin Tinggal Tetap;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "Orang Asing yang bersangkutan dikenai Tindakan Administratif Keimigrasian; atau"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "putus hubungan perkawinan Orang Asing yang kawin secara sah dengan warga negara Indonesia karena perceraian dan/atau atas putusan pengadilan, kecuali perkawinan yang telah berusia 10 (sepuluh) tahun atau lebih."
                                                     }
                                                 ]
