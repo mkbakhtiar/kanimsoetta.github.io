@@ -1729,17 +1729,193 @@
                                                         "extraContent": [
                                                             {
                                                                 "className": "list-c list-alpha",
-                                                                "content": "pengawasan terhadap warga negara Indonesia yang memohon dokumen perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
+                                                                "content": "a. pengawasan terhadap warga negara Indonesia yang memohon dokumen perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
                                                             },
                                                             {
                                                                 "className": "list-c list-alpha",
-                                                                "content": "pengawasan terhadap lalu lintas Orang Asing yang masuk atau keluar Wilayah Indonesia serta pengawasan terhadap keberadaan dan kegiatan Orang Asing di Wilayah Indonesia."
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "content": "Dokumen asli harus dibawa dan difotokopi di kertas A4 (tidak dipotong)."
+                                                                "content": "b. pengawasan terhadap lalu lintas Orang Asing yang masuk atau keluar Wilayah Indonesia serta pengawasan terhadap keberadaan dan kegiatan Orang Asing di Wilayah Indonesia."
                                                             }
                                                         ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 67",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengawasan Keimigrasian terhadap warga negara Indonesia dilaksanakan pada saat permohonan Dokumen Perjalanan, keluar atau masuk, atau berada di luar Wilayah Indonesia dilakukan dengan:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengawasan Keimigrasian meliputi:",
+                                                        "extraContent": [
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "a. pengumpulan, pengolahan, serta penyajian data dan informasi;"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "b. penyusunan daftar nama warga negara Indonesia yang dikenai Pencegahan keluar Wilayah Indonesia;"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "c. pemantauan terhadap setiap warga negara Indonesia yang memohon Dokumen Perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "d. pengambilan foto dan sidik jari."
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Hasil pengawasan Keimigrasian sebagaimana dimaksud pada ayat (1) merupakan data Keimigrasian yang dapat ditentukan sebagai data yang bersifat rahasia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 68",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengawasan Keimigrasian terhadap Orang Asing dilaksanakan pada saat permohonan Visa, masuk atau keluar, dan pemberian Izin Tinggal dilakukan dengan:",
+                                                        "extraContent": [
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "a. pengumpulan, pengolahan, serta penyajian data dan informasi;"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "b. penyusunan daftar nama Orang Asing yang dikenai Penangkalan atau Pencegahan;"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "c. pengawasan terhadap keberadaan dan kegiatan Orang Asing di Wilayah Indonesia;"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "d. pengambilan foto dan sidik jari; dan"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "d. kegiatan lain yang dapat dipertanggungjawabkan secara hukum."
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Hasil pengawasan Keimigrasian sebagaimana dimaksud pada ayat (1) merupakan data Keimigrasian yang dapat ditentukan sebagai data yang bersifat rahasia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 69",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Untuk melakukan pengawasan Keimigrasian terhadap kegiatan Orang Asing di Wilayah Indonesia, Menteri membentuk tim pengawasan Orang Asing yang anggotanya terdiri atas badan atau instansi pemerintah terkait, baik di pusat maupun di daerah."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk bertindak selaku ketua tim pengawasan Orang Asing."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 70",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi atau yang ditunjuk dalam rangka pengawasan Keimigrasian sebagaimana dimaksud dalam Pasal 67 dan Pasal 68 wajib melakukan:",
+                                                        "extraContent": [
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "a. pengumpulan data pelayanan Keimigrasian, baik warga negara Indonesia maupun warga negara asing;"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "b. pengumpulan data lalu lintas, baik warga negara Indonesia maupun warga negara asing yang masuk atau keluar Wilayah Indonesia;"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "c. pengumpulan data warga negara asing yang telah mendapatkan keputusan pendetensian, baik di Ruang Detensi Imigrasi di Kantor Imigrasi maupun di Rumah Detensi Imigrasi; dan"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "d. pengumpulan data warga negara asing yang dalam proses penindakan Keimigrasian."
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengumpulan data sebagaimana dimaksud pada ayat (1) dilaksanakan dengan memasukkan data pada Sistem Informasi Manajemen Keimigrasian yang dibangun dan dikembangkan oleh Direktorat Jenderal."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 71",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "p",
+                                                        "content": "Setiap Orang Asing yang berada di Wilayah Indonesia wajib:",
+                                                        "extraContent": [
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "a. memberikan segala keterangan yang diperlukan mengenai identitas diri dan/atau keluarganya serta melaporkan setiap perubahan status sipil, kewarganegaraan, pekerjaan, Penjamin, atau perubahan alamatnya kepada Kantor Imigrasi setempat; atau"
+                                                            },
+                                                            {
+                                                                "className": "list-c list-alpha",
+                                                                "content": "b. memperlihatkan dan menyerahkan Dokumen Perjalanan atau Izin Tinggal yang dimilikinya apabila diminta oleh Pejabat Imigrasi yang bertugas dalam rangka pengawasan Keimigrasian."
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengumpulan data sebagaimana dimaksud pada ayat (1) dilaksanakan dengan memasukkan data pada Sistem Informasi Manajemen Keimigrasian yang dibangun dan dikembangkan oleh Direktorat Jenderal."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 72",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi yang bertugas dapat meminta keterangan dari setiap orang yang memberi kesempatan menginap kepada Orang Asing mengenai data Orang Asing yang bersangkutan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemilik atau pengurus tempat penginapan wajib memberikan data mengenai Orang Asing yang menginap di tempat penginapannya jika diminta oleh Pejabat Imigrasi yang bertugas."
                                                     }
                                                 ]
                                             }
