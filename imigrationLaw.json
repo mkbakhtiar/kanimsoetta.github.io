@@ -1777,7 +1777,7 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "value": 2,
+                                                        "value": 3,
                                                         "content": "Hasil pengawasan Keimigrasian sebagaimana dimaksud pada ayat (1) merupakan data Keimigrasian yang dapat ditentukan sebagai data yang bersifat rahasia."
                                                     }
                                                 ]
@@ -1794,7 +1794,7 @@
                                                         "type": "li",
                                                         "content": "Pengawasan Keimigrasian terhadap Orang Asing dilaksanakan pada saat permohonan Visa, masuk atau keluar, dan pemberian Izin Tinggal dilakukan dengan:"
                                                     },
-                                                    {   
+                                                    {
                                                         "type": "li",
                                                         "className": "sub-list",
                                                         "content": "pengumpulan, pengolahan, serta penyajian data dan informasi;"
@@ -1873,11 +1873,11 @@
                                                     },
                                                     {
                                                         "className": "li",
+                                                        "value": 2,
                                                         "content": "pengumpulan data warga negara asing yang dalam proses penindakan Keimigrasian."
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "value": 2,
                                                         "content": "Pengumpulan data sebagaimana dimaksud pada ayat (1) dilaksanakan dengan memasukkan data pada Sistem Informasi Manajemen Keimigrasian yang dibangun dan dikembangkan oleh Direktorat Jenderal."
                                                     }
                                                 ]
@@ -1926,6 +1926,67 @@
                                                     {
                                                         "type": "li",
                                                         "content": "Pemilik atau pengurus tempat penginapan wajib memberikan data mengenai Orang Asing yang menginap di tempat penginapannya jika diminta oleh Pejabat Imigrasi yang bertugas."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 73",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan mengenai pengawasan terhadap Orang Asing sebagaimana dimaksud dalam Pasal 68 ayat (1) huruf b, huruf c, huruf d, dan huruf e tidak diberlakukan terhadap Orang Asing yang berada di Wilayah Indonesia dalam rangka tugas diplomatik."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kedua - Intelijen Keimigrasian"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 74",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi melakukan fungsi Intelijen Keimigrasian."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam rangka melaksanakan fungsi Intelijen Keimigrasian, Pejabat Imigrasi melakukan penyelidikan Keimigrasian dan pengamanan Keimigrasian serta berwenang:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "mendapatkan keterangan dari masyarakat atau instansi pemerintah;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "Dalam rangka melaksanakan fungsi Intelijen Keimigrasian, Pejabat Imigrasi melakukan penyelidikan Keimigrasian dan pengamanan Keimigrasian serta berwenang:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "Dalam rangka melaksanakan fungsi Intelijen Keimigrasian, Pejabat Imigrasi melakukan penyelidikan Keimigrasian dan pengamanan Keimigrasian serta berwenang:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "Dalam rangka melaksanakan fungsi Intelijen Keimigrasian, Pejabat Imigrasi melakukan penyelidikan Keimigrasian dan pengamanan Keimigrasian serta berwenang:"
                                                     }
                                                 ]
                                             }
