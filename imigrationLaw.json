@@ -1729,12 +1729,12 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "pengawasan terhadap warga negara Indonesia yang memohon dokumen perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "pengawasan terhadap lalu lintas Orang Asing yang masuk atau keluar Wilayah Indonesia serta pengawasan terhadap keberadaan dan kegiatan Orang Asing di Wilayah Indonesia."
                                                     }
                                                 ]
@@ -1757,22 +1757,22 @@
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list  list-c list-alpha",
+                                                        "className": "sub-list ",
                                                         "content": "pengumpulan, pengolahan, serta penyajian data dan informasi;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list  list-c list-alpha",
+                                                        "className": "sub-list ",
                                                         "content": "penyusunan daftar nama warga negara Indonesia yang dikenai Pencegahan keluar Wilayah Indonesia;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list  list-c list-alpha",
+                                                        "className": "sub-list ",
                                                         "content": "pemantauan terhadap setiap warga negara Indonesia yang memohon Dokumen Perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "pengambilan foto dan sidik jari."
                                                     },
                                                     {
@@ -1796,27 +1796,27 @@
                                                     },
                                                     {   
                                                         "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "pengumpulan, pengolahan, serta penyajian data dan informasi;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "penyusunan daftar nama Orang Asing yang dikenai Penangkalan atau Pencegahan;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "pengawasan terhadap keberadaan dan kegiatan Orang Asing di Wilayah Indonesia;"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "pengambilan foto dan sidik jari; dan"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "sub-list",
                                                         "content": "kegiatan lain yang dapat dipertanggungjawabkan secara hukum."
                                                     },
                                                     {
@@ -1857,22 +1857,22 @@
                                                         "content": "Pejabat Imigrasi atau yang ditunjuk dalam rangka pengawasan Keimigrasian sebagaimana dimaksud dalam Pasal 67 dan Pasal 68 wajib melakukan:"
                                                     },
                                                     {
-                                                        "type": "sub-list list-c list-alpha",
-                                                        "className": "list-c list-alpha",
+                                                        "type": "li",
+                                                        "className": "sub-list",
                                                         "content": " pengumpulan data pelayanan Keimigrasian, baik warga negara Indonesia maupun warga negara asing;"
                                                     },
                                                     {
-                                                        "type": "sub-list list-c list-alpha",
-                                                        "className": "list-c list-alpha",
+                                                        "type": "li",
+                                                        "className": "sub-list",
                                                         "content": "pengumpulan data lalu lintas, baik warga negara Indonesia maupun warga negara asing yang masuk atau keluar Wilayah Indonesia;"
                                                     },
                                                     {
-                                                        "type": "sub-list list-c list-alpha",
-                                                        "className": "list-c list-alpha",
+                                                        "type": "li",
+                                                        "className": "sub-list",
                                                         "content": "pengumpulan data warga negara asing yang telah mendapatkan keputusan pendetensian, baik di Ruang Detensi Imigrasi di Kantor Imigrasi maupun di Rumah Detensi Imigrasi; dan"
                                                     },
                                                     {
-                                                        "className": "sub-list list-c list-alpha",
+                                                        "className": "li",
                                                         "content": "pengumpulan data warga negara asing yang dalam proses penindakan Keimigrasian."
                                                     },
                                                     {
