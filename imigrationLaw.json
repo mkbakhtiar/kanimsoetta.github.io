@@ -1732,8 +1732,8 @@
                                                                 "content": "pengawasan terhadap warga negara Indonesia yang memohon dokumen perjalanan, keluar atau masuk Wilayah Indonesia, dan yang berada di luar Wilayah Indonesia; dan"
                                                             },
                                                             {
-                                                                "type": "li",
-                                                                "content": "Semua data pada dokumen yang dipersyaratkan harus sama."
+                                                                "className": "list-c list-alpha",
+                                                                "content": "pengawasan terhadap lalu lintas Orang Asing yang masuk atau keluar Wilayah Indonesia serta pengawasan terhadap keberadaan dan kegiatan Orang Asing di Wilayah Indonesia."
                                                             },
                                                             {
                                                                 "type": "li",
