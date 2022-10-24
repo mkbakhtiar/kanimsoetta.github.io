@@ -2799,12 +2799,12 @@
                                         "title": "Pasal 106",
                                         "content": [
                                             {
+                                                "type": "p",
+                                                "content": "PPNS Keimigrasian berwenang:"
+                                            },
+                                            {
                                                 "type": "ol",
                                                 "content": [
-                                                    {
-                                                        "type": "p",
-                                                        "content": "PPNS Keimigrasian berwenang:"
-                                                    },
                                                     {
                                                         "type": "li",
                                                         "content": "menerima laporan tentang adanya tindak pidana Keimigrasian;"
@@ -2955,6 +2955,405 @@
                                             {
                                                 "type": "p",
                                                 "content": "Ketentuan lebih lanjut mengenai persyaratan, tata cara pengangkatan PPNS Keimigrasian, dan administrasi penyidikan diatur dengan Peraturan Pemerintah."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bab11": {
+                "pageTitle": "Bab 10 - Ketentuan Pidana",
+                "content": [
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 113",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap orang yang dengan sengaja masuk atau keluar Wilayah Indonesia yang tidak melalui pemeriksaan oleh Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi sebagaimana dimaksud dalam Pasal 9 ayat (1) dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 114",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Penanggung Jawab Alat Angkut yang masuk atau keluar Wilayah Indonesia dengan alat angkutnya yang tidak melalui Tempat Pemeriksaan Imigrasi sebagaimana dimaksud dalam Pasal 17 ayat (1) dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah)."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Penanggung Jawab Alat Angkut yang sengaja menurunkan atau menaikkan penumpang yang tidak melalui pemeriksaan Pejabat Imigrasi atau petugas pemeriksa pendaratan di Tempat Pemeriksaan Imigrasi sebagaimana dimaksud dalam Pasal 17 ayat (2) dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/atau pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 115",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap Penanggung Jawab Alat Angkut yang tidak membayar biaya beban sebagaimana dimaksud dalam Pasal 19 ayat (4) dan Pasal 79 dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 116",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap Orang Asing yang tidak melakukan kewajibannya sebagaimana dimaksud dalam Pasal 71 dipidana dengan pidana kurungan paling lama 3 (tiga) bulan atau pidana denda paling banyak Rp25.000.000,00 (dua puluh lima juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 117",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pemilik atau pengurus tempat penginapan yang tidak memberikan keterangan atau tidak memberikan data Orang Asing yang menginap di rumah atau di tempat penginapannya setelah diminta oleh Pejabat Imigrasi yang bertugas sebagaimana dimaksud dalam Pasal 72 ayat (2) dipidana dengan pidana kurungan paling lama 3 (tiga) bulan atau pidana denda paling banyak Rp25.000.000,00 (dua puluh lima juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 118",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap Penjamin yang dengan sengaja memberikan keterangan tidak benar atau tidak memenuhi jaminan yang diberikannya sebagaimana dimaksud dalam Pasal 63 ayat (2) dan ayat (3) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 119",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap Orang Asing yang masuk dan/atau berada di Wilayah Indonesia yang tidak memiliki Dokumen Perjalanan dan Visa yang sah dan masih berlaku sebagaimana dimaksud dalam Pasal 8 dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah)."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap Orang Asing yang dengan sengaja menggunakan Dokumen Perjalanan, tetapi diketahui atau patut diduga bahwa Dokumen Perjalanan itu palsu atau dipalsukan dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 120",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap orang yang melakukan perbuatan yang bertujuan mencari keuntungan, baik secara langsung maupun tidak langsung, untuk diri sendiri atau untuk orang lain dengan membawa seseorang ataukelompok orang, baik secara terorganisasi maupun tidak terorganisasi, atau memerintahkan orang lainuntuk membawa seseorang atau kelompok orang, baik secara terorganisasi maupun tidak terorganisasi, yang tidak memiliki hak secara sah untuk memasuki Wilayah Indonesia atau keluar dari Wilayah Indonesia dan/atau masuk wilayah negara lain, yang orang tersebut tidak memiliki hak untuk memasuki wilayah tersebut secara sah, baik dengan menggunakan dokumen sah maupun dokumen palsu, atau tanpa menggunakan Dokumen Perjalanan, baik melalui pemeriksaan imigrasi maupun tidak, dipidana karena Penyelundupan Manusia dengan pidana penjara paling singkat 5 (lima) tahun dan paling lama 15 (lima belas) tahun dan pidana denda paling sedikit Rp500.000.000,00 (lima ratus juta rupiah) dan paling banyak Rp1.500.000.000,00 (satu miliar lima ratus juta rupiah)."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Percobaan untuk melakukan tindak pidana Penyelundupan Manusia dipidana dengan pidana yang sama sebagaimana dimaksud pada ayat (1)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 121",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah):"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "setiap orang yang dengan sengaja membuat palsu atau memalsukan Visa atau Tanda Masuk atau Izin Tinggal dengan maksud untuk digunakan bagi dirinya sendiri atau orang lain untuk masuk atau keluar atau berada di Wilayah Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "setiap Orang Asing yang dengan sengaja menggunakan Visa atau Tanda Masuk atau Izin Tinggal palsu atau yang dipalsukan untuk masuk atau keluar atau berada di Wilayah Indonesia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 122",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah):"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "setiap Orang Asing yang dengan sengaja menyalahgunakan atau melakukan kegiatan yang tidak sesuai dengan maksud dan tujuan pemberian Izin Tinggal yang diberikan kepadanya;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "setiap orang yang menyuruh atau memberikan kesempatan kepada Orang Asing menyalahgunakan atau melakukan kegiatan yang tidak sesuai dengan maksud atau tujuan pemberian Izin Tinggal yang diberikan kepadanya."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 123",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling paling banyak Rp500.000.000,00 (lima ratus juta rupiah):"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "setiap orang yang dengan sengaja memberikan surat atau data palsu atau yang dipalsukan atau keterangan tidak benar dengan maksud untuk memperoleh Visa atau Izin Tinggal bagi dirinya sendiri atau orang lain;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "setiap Orang Asing yang dengan sengaja menggunakan Visa atau Izin Tinggal sebagaimana dimaksud dalam huruf a untuk masuk dan/atau berada di Wilayah Indonesia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 124",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap orang yang dengan sengaja menyembunyikan atau melindungi atau memberi pemondokan atau memberikan penghidupan atau memberikan pekerjaan kepada Orang Asing yang diketahui atau patut diduga:"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "berada di Wilayah Indonesia secara tidak sah dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/atau pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah);"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggalnya habis berlaku dipidana dengan pidana kurungan paling lama 3 (tiga) bulan atau pidana denda paling banyak Rp25.000.000,00 (dua puluh lima juta rupiah)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 125",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap Orang Asing yang tanpa izin berada di daerah tertentu yang telah dinyatakan terlarang bagi Orang Asing sebagaimana dimaksud dalam Pasal 48 ayat (4) dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/atau pidana denda Rp300.000.000,00 (tiga ratus juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 126",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap orang yang dengan sengaja:"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "menggunakan Dokumen Perjalanan Republik Indonesia untuk masuk atau keluar Wilayah Indonesia, tetapi diketahui atau patut diduga bahwa Dokumen Perjalanan Republik Indonesia itu palsu atau dipalsukan dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah);"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "menggunakan Dokumen Perjalanan Republik Indonesia orang lain atau yang sudah dicabut atau yang dinyatakan batal untuk masuk atau keluar Wilayah Indonesia atau menyerahkan kepada orang lain Dokumen Perjalanan Republik Indonesia yang diberikan kepadanya atau milik orang lain dengan maksud digunakan secara tanpa hak dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah);"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "memberikan data yang tidak sah atau keterangan yang tidak benar untuk memperoleh Dokumen Perjalanan Republik Indonesia bagi dirinya sendiri atau orang lain dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah);"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "memiliki atau menggunakan secara melawan hukum 2 (dua) atau lebih Dokumen Perjalanan Republik Indonesia yang sejenis dan semuanya masih berlaku dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah);"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "memalsukan Dokumen Perjalanan Republik Indonesia atau membuat Dokumen Perjalanan Republik Indonesia palsu dengan maksud untuk digunakan bagi dirinya sendiri atau orang lain dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 127",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap orang yang dengan sengaja dan melawan hukum menyimpan Dokumen Perjalanan Republik Indonesia palsu atau dipalsukan dengan maksud untuk digunakan bagi dirinya sendiri atau orang lain dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 128",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah):"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "setiap orang yang dengan sengaja dan melawan hukum mencetak, mempunyai, menyimpan, atau memperdagangkan blanko Dokumen Perjalanan Republik Indonesia atau blanko Dokumen Keimigrasian lainnya;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "setiap orang yang dengan sengaja dan melawanhukum membuat, mempunyai, menyimpan, atau memperdagangkan cap atau alat lain yang digunakan untuk mengesahkan Dokumen Perjalanan Republik Indonesia atau Dokumen Keimigrasian lainnya."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 129",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap orang yang dengan sengaja dan melawan hukum untuk kepentingan diri sendiri atau orang lain merusak, mengubah, menambah, mengurangi, atau menghilangkan, baik sebagian maupun seluruhnya, keterangan atau cap yang terdapat dalam Dokumen Perjalanan Republik Indonesia atau Dokumen Keimigrasian lainnya dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 130",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap orang yang dengan sengaja dan melawan hukum menguasai Dokumen Perjalanan atau Dokumen Keimigrasian lainnya milik orang lain dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/atau pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 131",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap orang yang dengan sengaja tanpa hak dan melawan hukum memiliki, menyimpan, merusak, menghilangkan, mengubah, menggandakan, menggunakan dan atau mengakses data Keimigrasian, baik secara manual maupun elektronik, untuk kepentingan diri sendiri atau orang lain dipidana dengan pidana penjara paling lama 5 (lima) tahun dan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah)."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 132",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pejabat Imigrasi atau pejabat lain yang ditunjuk yang dengan sengaja dan melawan hukum memberikan Dokumen Perjalanan Republik Indonesia dan/atau memberikan atau memperpanjang Dokumen Keimigrasian kepada seseorang yang diketahuinya tidak berhak dipidana dengan pidana penjara paling lama 7 (tujuh) tahun."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 133",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pejabat Imigrasi atau pejabat lain:"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "membiarkan seseorang melakukan tindak pidana Keimigrasian sebagaimana dimaksud Pasal 118, Pasal 119, Pasal 120, Pasal 121, Pasal 122, Pasal 123, Pasal 126, Pasal 127, Pasal 128, Pasal 129, Pasal 131, Pasal 132, Pasal 133 huruf b, Pasal 134 huruf b, dan Pasal 135 yang patut diketahui olehnya dipidana dengan pidana penjara paling lama 5 (lima) tahun;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "dengan sengaja membocorkan data Keimigrasian yang bersifat rahasia kepada pihak yang tidak berhak sebagaimana dimaksud dalam Pasal 67 ayat (2) dan Pasal 68 ayat (2) dipidana dengan pidana penjara paling lama 5 (lima) tahun;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "dengan sengaja tidak menjalankan prosedur operasi standar yang berlaku dalam proses pemeriksaan pemberangkatan atau kedatangan di Tempat Pemeriksaan Imigrasi yang mengakibatkan masuknya Orang Asing ke Wilayah Indonesia sebagaimana dimaksud dalam Pasal 13 ayat (1) atau keluarnya orang dari Wilayah Indonesia sebagaimana dimaksud dalam Pasal 16 ayat (1) dipidana dengan pidana penjara paling lama 2 (dua) tahun;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "dengan sengaja dan melawan hukum tidak menjalankan prosedur operasi standar penjagaan Deteni di Rumah Detensi Imigrasi atau Ruang Detensi Imigrasi yang mengakibatkan Deteni melarikan diri dipidana dengan pidana penjara paling lama 2 (dua) tahun;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "dengan sengaja dan melawan hukum tidak memasukkan data ke dalam Sistem Informasi Manajemen Keimigrasian sebagaimana dimaksud dalam Pasal 70 dipidana dengan pidana kurungan paling lama 6 (enam) bulan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 134",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap Deteni yang dengan sengaja:"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "membuat, memiliki, menggunakan, dan/atau mendistribusikan senjata dipidana dengan pidana penjara paling lama 3 (tiga) tahun;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "melarikan diri dari Rumah Detensi Imigrasi atau Ruang Detensi Imigrasi dipidana dengan pidana penjara paling lama 5 (lima) tahun."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 135",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pejabat Imigrasi atau pejabat lain yang ditunjuk yang dengan sengaja dan melawan hukum memberikan Dokumen Perjalanan Republik Indonesia dan/atau memberikan atau memperpanjang Dokumen Keimigrasian kepada seseorang yang diketahuinya tidak berhak dipidana dengan pidana penjara paling lama 7 (tujuh) tahun."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 136",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal tindak pidana sebagaimana dimaksud dalam Pasal 114, Pasal 116, Pasal 117, Pasal 118, Pasal 120, Pasal 124, Pasal 128, dan Pasal 129 dilakukan oleh Korporasi, pidana dijatuhkan kepada pengurus dan korporasinya."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Penjatuhan pidana terhadap Korporasi hanya pidana denda dengan ketentuan besarnya pidana denda tersebut 3 (tiga) kali lipat dari setiap pidana denda sebagaimana dimaksud pada ayat (1)."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Ketentuan pidana sebagaimana dimaksud dalam Pasal 113, Pasal 119, Pasal 121 huruf b, Pasal 123 huruf b, dan Pasal 126 huruf a dan huruf b tidak diberlakukan terhadap korban perdagangan orang dan Penyelundupan Manusia."
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }
