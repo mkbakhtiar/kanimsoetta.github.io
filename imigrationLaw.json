@@ -1997,6 +1997,450 @@
                         ]
                     }
                 ]
+            },
+            "bab7": {
+                "pageTitle": "Bab 7 - Tindakan Administratif Keimigrasian",
+                "content": [
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 75",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi berwenang melakukan Tindakan Administratif Keimigrasian terhadap Orang Asing yang berada di Wilayah Indonesia yang melakukan kegiatan berbahaya dan patut diduga membahayakan keamanan dan ketertiban umum atau tidak menghormati atau tidak menaati peraturan perundang-undangan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Tindakan Administratif Keimigrasian sebagaimana dimaksud pada ayat (1) dapat berupa:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "pencantuman dalam daftar Pencegahan atau Penangkalan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "pembatasan, perubahan, atau pembatalan Izin Tinggal;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "larangan untuk berada di satu atau beberapa tempat tertentu di Wilayah Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "keharusan untuk bertempat tinggal di suatu tempat tertentu di Wilayah Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "pengenaan biaya beban; dan/atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list",
+                                                        "content": "Deportasi dari Wilayah Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 3,
+                                                        "content": "Tindakan Administratif Keimigrasian berupa Deportasi dapat juga dilakukan terhadap Orang Asing yang berada di Wilayah Indonesia karena berusaha menghindarkan diri dari ancaman dan pelaksanaan hukuman di negara asalnya."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 76",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Keputusan mengenai Tindakan Administratif Keimigrasian sebagaimana dimaksud dalam Pasal 75 ayat (1) dan ayat (3) dilakukan secara tertulis dan harus disertai dengan alasan."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 77",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing yang dikenai Tindakan Administratif Keimigrasian dapat mengajukan keberatan kepada Menteri."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri dapat mengabulkan atau menolak keberatan yang diajukan Orang Asing sebagaimana dimaksud pada ayat (1) dengan Keputusan Menteri."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Keputusan Menteri sebagaimana dimaksud pada ayat (2) bersifat final."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengajuan keberatan yang diajukan oleh Orang Asing tidak menunda pelaksanaan Tindakan Administratif Keimigrasian terhadap yang bersangkutan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 78",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing pemegang Izin Tinggal yang telah berakhir masa berlakunya dan masih berada dalam Wilayah Indonesia kurang dari 60 (enam puluh) hari dari batas waktu Izin Tinggal dikenai biaya beban sesuai dengan ketentuan peraturan perundang-undangan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing yang tidak membayar biaya beban sebagaimana dimaksud pada ayat (1) dikenai Tindakan Administratif Keimigrasian berupa Deportasi dan Penangkalan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing pemegang Izin Tinggal yang telah berakhir masa berlakunya dan masih berada dalam Wilayah Indonesia lebih dari 60 (enam puluh) hari dari batas waktu Izin Tinggal dikenai Tindakan Administratif Keimigrasian berupa Deportasi dan Penangkalan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 79",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Penanggung Jawab Alat Angkut yang tidak memenuhi kewajiban sebagaimana dimaksud dalam Pasal 18 ayat (1) dikenai biaya beban."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 80",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Biaya beban sebagaimana dimaksud dalam Pasal 19 ayat (4) dan Pasal 79 merupakan salah satu Penerimaan Negara Bukan Pajak di bidang Keimigrasian."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bab8": {
+                "pageTitle": "Bab 8 - Ruma Detensi Imigrasi dan Ruang Detensi Imigrasi",
+                "content": [
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kesatu - Umum"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 81",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Rumah Detensi Imigrasi dapat dibentuk di ibu kota negara, provinsi, kabupaten, atau kota."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "TRumah Detensi Imigrasi dipimpin oleh seorang kepala."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 82",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ruang Detensi Imigrasi berbentuk suatu ruangan tertentu dan merupakan bagian dari kantor Direktorat Jenderal, Kantor Imigrasi, atau Tempat Pemeriksaan Imigrasi."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kedua - Pelaksanaan Detensi"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 83",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi berwenang menempatkan Orang Asing dalam Rumah Detensi Imigrasi atau Ruang Detensi Imigrasi jika Orang Asing tersebut:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "berada di Wilayah Indonesia tanpa memiliki Izin Tinggal yang sah atau memiliki Izin Tinggal yang tidak berlaku lagi;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "berada di Wilayah Indonesia tanpa memiliki Dokumen Perjalanan yang sah;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "dikenai Tindakan Administratif Keimigrasian berupa pembatalan Izin Tinggal karena melakukan perbuatan yang bertentangan dengan peraturan perundang-undangan atau mengganggu keamanan dan ketertiban umum;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "menunggu pelaksanaan Deportasi; atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "menunggu keberangkatan keluar Wilayah Indonesia karena ditolak pemberian Tanda Masuk."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "value": 2,
+                                                        "content": "Pejabat Imigrasi dapat menempatkan Orang Asing sebagaimana dimaksud pada ayat (1) di tempat lain apabila Orang Asing tersebut sakit, akan melahirkan, atau masih anak-anak."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 84",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pelaksanaan detensi Orang Asing dilakukan dengan keputusan tertulis dari Menteri atau Pejabat Imigrasi yang ditunjuk."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Keputusan sebagaimana dimaksud pada ayat (1) paling sedikit memuat:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "data orang asing yang dikenai detensi;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "alasan melakukan detensi; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "sub-list ",
+                                                        "content": "tempat detensi."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "content": "Bagian Ketiga - Jangka Waktu Detensi"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 85",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Detensi terhadap Orang Asing dilakukan sampai Deteni dideportasi."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal Deportasi sebagaimana dimaksud pada ayat (1) belum dapat dilaksanakan, detensi dapat dilakukan dalam jangka waktu paling lama 10 (sepuluh) tahun."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk dapat mengeluarkan Deteni dari Rumah Detensi Imigrasi apabila jangka waktu sebagaimana dimaksud pada ayat (2) terlampaui dan memberikan izin kepada Deteni untuk berada di luar Rumah Detensi Imigrasi dengan menetapkan kewajiban melapor secara periodik."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk mengawasi dan mengupayakan agar Deteni sebagaimana dimaksud pada ayat (3) dideportasi."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h4",
+                        "content": "Bagian Keempat - Penanganan terhadap Korban Perdagangan Orang dan Penyelundupan Manusia"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 86",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan Tindakan Administratif Keimigrasian tidak diberlakukan terhadap korban perdagangan orang dan Penyelundupan Manusia."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 87",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Korban perdagangan orang dan Penyelundupan Manusia yang berada di Wilayah Indonesia ditempatkan di dalam Rumah Detensi Imigrasi atau di tempat lain yang ditentukan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Korban perdagangan orang dan Penyelundupan Manusia sebagaimana dimaksud pada ayat (1) mendapatkan perlakuan khusus yang berbeda dengan Deteni pada umumnya."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 88",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Menteri atau Pejabat Imigrasi yang ditunjuk mengupayakan agar korban perdagangan orang danPenyelundupan Manusia yang berkewarganegaraan asing segera dikembalikan ke negara asal mereka dan diberikan surat perjalanan apabila mereka tidak memilikinya."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 89",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk melakukan upaya preventif dan represif dalam rangka mencegah terjadinya tindak pidana perdagangan orang dan Penyelundupan Manusia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Upaya preventif sebagaimana dimaksud pada ayat (1) dilakukan dengan:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className":"sub-list ",
+                                                        "content": "pertukaran informasi dengan negara lain dan instansi terkait di dalam negeri, meliputi modus operandi, pengawasan dan pengamananDokumen Perjalanan, serta legitimasi dan validitas dokumen;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className":"sub-list ",
+                                                        "content": "kerja sama teknis dan pelatihan dengan negara lain meliputi perlakuan yang berdasarkan perikemanusiaan terhadap korban, pengamanan dan kualitas Dokumen Perjalanan, deteksi dokumen palsu, pertukaran informasi, serta pemantauandan deteksi Penyelundupan Manusia dengan cara konvensional dan nonkonvensional;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className":"sub-list ",
+                                                        "content": "memberikan penyuluhan hukum kepadamasyarakat bahwa perbuatan perdaganganorang dan Penyelundupan Manusia merupakan tindak pidana agar orang tidak menjadi korban;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className":"sub-list ",
+                                                        "content": "menjamin bahwa Dokumen Perjalanan atau identitas yang dikeluarkan berkualitas sehingga dokumen tersebut tidak mudah disalahgunakan, dipalsukan, diubah, ditiru, atau diterbitkan secara melawan hukum; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className":"sub-list ",
+                                                        "content": "memastikan bahwa integritas dan pengamanan Dokumen Perjalanan yang dikeluarkan atauditerbitkan oleh atau atas nama negara untuk mencegah pembuatan dokumen tersebut secara melawan hukum dalam hal penerbitan dan penggunaannya."
+                                                    },
+                                                    
+
+                                                    {
+                                                        "type": "li",
+                                                        "value": 3,
+                                                        "content": "Upaya represif sebagaimana dimaksud pada ayat (1) dilakukan dengan:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className":"sub-list ",
+                                                        "content": "penyidikan Keimigrasian terhadap pelaku tindak pidana perdagangan orang dan Penyelundupan Manusia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className":"sub-list ",
+                                                        "content": "Tindakan Administratif Keimigrasian terhadap pelaku tindak pidana perdagangan orang dan Penyelundupan Manusia; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className":"sub-list ",
+                                                        "content": "kerja sama dalam bidang penyidikan dengan instansi penegak hukum lainnya."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 90",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan lebih lanjut mengenai pengawasan Keimigrasian, Intelijen Keimigrasian, Rumah Detensi Imigrasi dan Ruang Detensi Imigrasi, serta penanganan terhadap korban perdagangan orang dan Penyelundupan Manusia diatur dengan Peraturan Pemerintah."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         }
     ]
