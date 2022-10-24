@@ -1010,12 +1010,12 @@
                                                         "content": "Dalam hal tertentu Orang Asing dapat dibebaskan dari kewajiban memiliki Visa."
                                                     },
                                                     {
+                                                        "type": "li",
+                                                        "content": "Orang Asing yang dibebaskan dari kewajiban memiliki Visa sebagaimana dimaksud pada ayat (1) adalah:"
+                                                    },
+                                                    {
                                                         "type": "ol",
                                                         "content": [
-                                                            {
-                                                                "type": "li",
-                                                                "content": "Orang Asing yang dibebaskan dari kewajiban memiliki Visa sebagaimana dimaksud pada ayat (1) adalah:"
-                                                            },
                                                             {
                                                                 "type": "li",
                                                                 "className": "list-c list-alpha",
