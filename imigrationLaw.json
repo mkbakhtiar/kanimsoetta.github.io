@@ -1014,39 +1014,34 @@
                                                         "content": "Orang Asing yang dibebaskan dari kewajiban memiliki Visa sebagaimana dimaksud pada ayat (1) adalah:"
                                                     },
                                                     {
-                                                        "type": "ol",
-                                                        "content": [
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "warga negara dari negara tertentu yang ditetapkan berdasarkan Peraturan Presiden dengan memperhatikan asas timbal balik dan asas manfaat;"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "warga negara asing pemegang Izin Tinggal yang memiliki Izin Masuk Kembali yang masih berlaku;"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "nakhoda, kapten pilot, atau awak yang sedang bertugas di alat angkut;"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "nakhoda, awak kapal, atau tenaga ahli asing di atas kapal laut atau alat apung yang datang langsung dengan alat angkutnya untuk beroperasi di perairan Nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia."
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "terlibat tindak pidana transnasional yang terorganisasi atau membahayakan keutuhan wilayah Negara Kesatuan Republik Indonesia; dan/atau"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "termasuk dalam jaringan praktik atau kegiatan prostitusi, perdagangan orang, dan penyelundupan manusia."
-                                                            }
-                                                        ]
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "warga negara dari negara tertentu yang ditetapkan berdasarkan Peraturan Presiden dengan memperhatikan asas timbal balik dan asas manfaat;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "warga negara asing pemegang Izin Tinggal yang memiliki Izin Masuk Kembali yang masih berlaku;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "nakhoda, kapten pilot, atau awak yang sedang bertugas di alat angkut;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "nakhoda, awak kapal, atau tenaga ahli asing di atas kapal laut atau alat apung yang datang langsung dengan alat angkutnya untuk beroperasi di perairan Nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "terlibat tindak pidana transnasional yang terorganisasi atau membahayakan keutuhan wilayah Negara Kesatuan Republik Indonesia; dan/atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "termasuk dalam jaringan praktik atau kegiatan prostitusi, perdagangan orang, dan penyelundupan manusia."
                                                     }
                                                 ]
                                             }
