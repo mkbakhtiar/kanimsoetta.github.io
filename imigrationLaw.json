@@ -673,11 +673,157 @@
                                         ]
                                     },
                                     {
-                                        "title": "Pasal 2",
+                                        "title": "Pasal 25",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Paspor diplomatik diterbitkan bagi warga negara Indonesia yang akan melakukan perjalanan keluar Wilayah Indonesia dalam rangka penempatan atau perjalanan tugas yang bersifat diplomatik."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Paspor dinas diterbitkan bagi warga negara Indonesia yang akan melakukan perjalanan keluar Wilayah Indonesia dalam rangka penempatan atau perjalanan dinas yang tidak bersifat diplomatik."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Paspor diplomatik dan Paspor dinas sebagaimana dimaksud pada ayat (1) dan ayat (2) diterbitkan oleh Menteri Luar Negeri."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 26",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Paspor biasa diterbitkan untuk warga negara Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Paspor biasa sebagaimana dimaksud pada ayat (1) diterbitkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 27",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Surat Perjalanan Laksana Paspor untuk warga negara Indonesia dikeluarkan bagi warga negara Indonesia dalam keadaan tertentu jika Paspor biasa tidak dapat diberikan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Surat Perjalanan Laksana Paspor untuk Orang Asing dikeluarkan bagi Orang Asing yang tidak mempunyai Dokumen Perjalanan yang sah dan negaranya tidak mempunyai perwakilan di Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Surat Perjalanan Laksana Paspor sebagaimana dimaksud pada ayat (2) diberikan dalam hal: a. atas kehendak sendiri keluar Wilayah Indonesia sepanjang tidak terkena pencegahan; b. dikenai Deportasi; atau c. repatriasi."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Surat Perjalanan Laksana Paspor diterbitkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 28",
                                         "content": [
                                             {
                                                 "type": "p",
-                                                "content": "Setiap warga negara Indonesia berhak melakukan perjalanan keluar dan masuk Wilayah Indonesia."
+                                                "content": "Surat Perjalanan Laksana Paspor dapat dikeluarkan untuk orang perseorangan atau kolektif."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 29",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Surat perjalanan lintas batas atau pas lintas batas dapat dikeluarkan bagi warga negara Indonesia yang berdomisili di wilayah perbatasan negara Republik Indonesia dengan negara lain sesuai dengan perjanjian lintas batas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Surat perjalanan lintas batas atau pas lintas batas diterbitkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 30",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Setiap warga negara Indonesia hanya diperbolehkan memegang 1 (satu) Dokumen Perjalanan Republik Indonesia yang sejenis atas namanya sendiri yang masih berlaku."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 31",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk berwenang melakukan penarikan atau pencabutan Paspor biasa, Surat Perjalanan Laksana Paspor, dan surat perjalanan lintas batas atau pas lintas batas yang telah dikeluarkan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri Luar Negeri atau pejabat yang ditunjuk berwenang melakukan penarikan atau pencabutan Paspor diplomatik dan Paspor dinas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Penarikan Paspor biasa dilakukan dalam hal: a. pemegangnya melakukan tindak pidana atau melanggar peraturan perundang-undangan di Indonesia; atau b. pemegangnya termasuk dalam daftar Pencegahan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 32",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk bertanggung jawab atas perencanaan, pengadaan, penyimpanan, pendistribusian, dan pengamanan blanko dan formulir: a. Paspor biasa; b. Surat Perjalanan Laksana Paspor; dan c. surat perjalanan lintas batas atau pas lintas batas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri atau Pejabat Imigrasi yang ditunjuk menetapkan spesifikasi teknis pengamanan dengan standar bentuk, ukuran, desain, fitur pengamanan, dan isi blanko sesuai dengan standar internasional serta formulir: a. Paspor biasa; b. Surat Perjalanan Laksana Paspor; dan c. surat perjalanan lintas batas atau pas lintas batas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat Imigrasi atau pejabat yang ditunjuk berwenang melakukan pengisian dan pencatatan, baik secara manual maupun elektronik, dalam blanko dan formulir: a. Paspor biasa; b. Surat Perjalanan Laksana Paspor; dan c. surat perjalanan lintas batas atau pas lintasbatas."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 33",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan lebih lanjut mengenai tata cara dan persyaratan pemberian, penarikan, pembatalan, pencabutan, penggantian, serta pengadaan blanko dan standardisasi Dokumen Perjalanan Republik Indonesia diatur dengan Peraturan Pemerintah."
                                             }
                                         ]
                                     }
@@ -687,71 +833,438 @@
                     }
                 ]
             },
-            "peraturanPemerintah": {
-                "pageTitle": "Peraturan Pemerintah",
+            "bab5": {
+                "pageTitle": "Bab 5 - Visa Tanda Masuk dan Izin Tinggal",
                 "content": [
                     {
-                        "content": "Peraturan Pemerintah RI Nomor 48 Tahun 2021 Tentang Perubahan Ketiga Atas Peraturan Pemerintah Nomor 31 Tahun 2013 Tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2011 Tentang Keimigrasian",
-                        "date": "19 Maret 2021"
+                        "type": "h4",
+                        "content": "Bagian Kesatu - Visa"
                     },
                     {
-                        "content": "Peraturan Pemerintah RI Nomor 51 Tahun 2020 Tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 31 Tahun 2013 Tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2011 Tentang Keimigrasian",
-                        "date": "19 Maret 2021"
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 34",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Visa terdiri atas: Visa diplomatik; Visa dinas; Visa kunjungan; dan Visa tinggal terbatas."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 35",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Visa diplomatik diberikan kepada Orang Asing pemegang Paspor diplomatik dan paspor lain untuk masuk Wilayah Indonesia guna melaksanakan tugas yang bersifat diplomatik."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 36",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Visa dinas diberikan kepada Orang Asing pemegang Paspor dinas dan Paspor lain yang akan melakukan perjalanan ke Wilayah Indonesia dalam rangka melaksanakan tugas resmi yang tidak bersifat diplomatik dari pemerintah asing yang bersangkutan atau organisasi internasional."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 37",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pemberian Visa diplomatik dan Visa dinas merupakan kewenangan Menteri Luar Negeri dan dalam pelaksanaannya dikeluarkan oleh pejabat dinas luar negeri di Perwakilan Republik Indonesia."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 38",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Visa kunjungan diberikan kepada Orang Asing yang akan melakukan perjalanan ke Wilayah Indonesia dalam rangka kunjungan tugas pemerintahan, pendidikan, sosial budaya, pariwisata, bisnis, keluarga, jurnalistik, atau singgah untuk meneruskan perjalanan ke negara lain."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 39",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Visa tinggal terbatas diberikan kepada Orang Asing: a. sebagai rohaniawan, tenaga ahli, pekerja, peneliti, pelajar, investor, lanjut usia, dan keluarganya, serta Orang Asing yang kawin secara sah dengan warga negara Indonesia, yang akan melakukan perjalanan ke Wilayah Indonesia untuk bertempat tinggal dalam jangka waktu yang terbatas; atau b. dalam rangka bergabung untuk bekerja di atas kapal, alat apung, atau instalasi yang beroperasi di wilayah perairan nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 40",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemberian Visa kunjungan dan Visa tinggal terbatas merupakan kewenangan Menteri."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Visa sebagaimana dimaksud pada ayat (1) diberikan dan ditandatangani oleh Pejabat Imigrasi di Perwakilan Republik Indonesia di luar negeri."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal Perwakilan Republik Indonesia belum ada Pejabat Imigrasi sebagaimana dimaksud pada ayat (2), pemberian Visa kunjungan dan Visa tinggal terbatas dilaksanakan oleh pejabat dinas luar negeri."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pejabat dinas luar negeri sebagaimana dimaksud pada ayat (3) berwenang memberikan Visa setelah memperoleh Keputusan Menteri."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 41",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Visa kunjungan dapat juga diberikan kepada Orang Asing pada saat kedatangan di Tempat Pemeriksaan Imigrasi."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing yang dapat diberikan Visa kunjungan saat kedatangan adalah warga negara dari negara tertentu yang ditetapkan berdasarkan Peraturan Menteri."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemberian Visa kunjungan saat kedatangan di Tempat Pemeriksaan Imigrasi sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Pejabat Imigrasi."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 42",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Permohonan Visa ditolak dalam hal pemohon:"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "a. namanya tercantum dalam daftar Penangkalan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "b. tidak memiliki Dokumen Perjalanan yang sah dan masih berlaku;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "c. tidak cukup memiliki biaya hidup bagi dirinya dan/atau keluarganya selama berada di Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "d. tidak memiliki tiket kembali atau tiket terusan untuk melanjutkan perjalanan ke negara lain;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "e. tidak memiliki Izin Masuk Kembali ke negara asal atau tidak memiliki visa ke negara lain;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "f. menderita penyakit menular, gangguan jiwa, atau hal lain yang dapat membahayakan kesehatan atau ketertiban umum;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "g. terlibat tindak pidana transnasional yang terorganisasi atau membahayakan keutuhan wilayah Negara Kesatuan Republik Indonesia; dan/atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "h. termasuk dalam jaringan praktik atau kegiatan prostitusi, perdagangan orang, dan penyelundupan manusia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 43",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam hal tertentu Orang Asing dapat dibebaskan dari kewajiban memiliki Visa."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing yang dibebaskan dari kewajiban memiliki Visa sebagaimana dimaksud pada ayat (1) adalah:"
+                                                    },
+                                                    {
+                                                        "type": "ol",
+                                                        "content": [
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "a. warga negara dari negara tertentu yang ditetapkan berdasarkan Peraturan Presiden dengan memperhatikan asas timbal balik dan asas manfaat;"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "b. warga negara asing pemegang Izin Tinggal yang memiliki Izin Masuk Kembali yang masih berlaku;"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "c. nakhoda, kapten pilot, atau awak yang sedang bertugas di alat angkut;"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "d. nakhoda, awak kapal, atau tenaga ahli asing di atas kapal laut atau alat apung yang datang langsung dengan alat angkutnya untuk beroperasi di perairan Nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia."
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "g. terlibat tindak pidana transnasional yang terorganisasi atau membahayakan keutuhan wilayah Negara Kesatuan Republik Indonesia; dan/atau"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "h. termasuk dalam jaringan praktik atau kegiatan prostitusi, perdagangan orang, dan penyelundupan manusia."
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
-                        "content": "Peraturan Pemerintah RI Nomor 26 Tahun 2016 Tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 31 Tahun 2013 Tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2011 Tentang Keimigrasian",
-                        "date": "19 Maret 2021"
+                        "type": "h4",
+                        "content": "Bagian Kedua - Tanda Masuk"
                     },
                     {
-                        "content": "Peraturan Pemerintah Nomor 31 Tahun 2013 Tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2011 Tentang Keimigrasian",
-                        "date": "19 Maret 2021"
-                    }
-                ]
-            },
-            "peraturanPresiden": {
-                "pageTitle": "Peraturan Pemerintah",
-                "content": [
-                    {
-                        "content": "Peraturan Presiden RI Nomor 21 Tahun 2016 Tentang Visa Bebas Kunjungan",
-                        "date": "19 Maret 2021"
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 44",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing dapat masuk Wilayah Indonesia setelah mendapat Tanda Masuk."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Tanda Masuk diberikan oleh Pejabat Imigrasi di Tempat Pemeriksaan Imigrasi kepada Orang Asing yang telah memenuhi persyaratan masuk Wilayah Indonesia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 45",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Tanda Masuk bagi Orang Asing pemegang Visa diplomatik atau Visa dinas yang melakukan kunjungan singkat di Indonesia berlaku juga sebagai Izin Tinggal diplomatik atau Izin Tinggal dinas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Tanda Masuk bagi Orang Asing yang dibebaskan dari kewajiban memiliki Visa atau pemegang Visa kunjungan berlaku juga sebagai Izin Tinggal kunjungan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 46",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing pemegang Visa diplomatik atau Visa dinas dengan maksud bertempat tinggal di Wilayah Indonesia setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada Menteri Luar Negeri atau pejabat yang ditunjuk untuk memperoleh Izin Tinggal diplomatik atau Izin Tinggal dinas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing pemegang Visa tinggal terbatas setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada kepala Kantor Imigrasi untuk memperoleh Izin Tinggal terbatas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Jika Orang Asing sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak melaksanakan kewajiban tersebut, Orang Asing yang bersangkutan dianggap berada di Wilayah Indonesia secara tidak sah."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 47",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan lebih lanjut mengenai persyaratan dan tata cara permohonan, jenis kegiatan, dan jangka waktu Visa, serta tata cara pemberian Tanda Masuk diatur dengan Peraturan Pemerintah."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     },
                     {
-                        "content": "Peraturan Presiden RI Nomor 69 Tahun 2015 Tentang Visa Bebas Kunjungan",
-                        "date": "19 Maret 2021"
+                        "type": "h4",
+                        "content": "Bagian Ketiga - Izin Tinggal"
                     },
                     {
-                        "content": "Peraturan Presiden RI Nomor 43 Tahun 2011 Tentang Perubahan Ketiga Atas Keputusan Presiden Nomor 18 Tahun 2003 Tentang Visa Bebas Kunjungan Singkat",
-                        "date": "19 Maret 2021"
-                    }
-                ]
-            },
-            "peraturanMenteri": {
-                "pageTitle": "Peraturan Menteri",
-                "content": [
-                    {
-                        "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 8 Tahun 2022 Tentang Intelijen Keimigrasian",
-                        "date": "19 Maret 2021"
-                    },
-                    {
-                        "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 18 Tahun 2022 Tentang Perubahan Atas Peraturan Menteri HAM Nomor 8 Tahun 2014 Tentang Lapor Biasa dan Surat Perjalanan Laksana Paspor",
-                        "date": "19 Maret 2021"
-                    },
-                    {
-                        "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 34 Tahun 2021 Tentang Pemberian Visa dan Izin Tinggal Keimigrasian Dalam Masa Penanganan Covid-19 dan Pemulihan Ekonomi Nasional",
-                        "date": "19 Maret 2021"
-                    },
-                    {
-                        "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 44 Tahun 2015 Tentang Cara Pemeriksaan Masuk dan Keluar Wilayah Indonesia di Tempat Pemeriksaan Imigrasi",
-                        "date": "19 Maret 2021"
-                    }
-                ]
-            },
-            "peraturanDirjenim": {
-                "pageTitle": "Peraturan SE Dirjenim",
-                "content": [
-                    {
-                        "content": "Surat Edaran Nomor IMI-0700.GR.01.01 Tahun 2022 Tentang Kemudahan Keimigrasian Dalam Rangka Mendukung Pariwisata Berkelanjutan Pada Masa Pandemi Covid-19",
-                        "date": "19 Maret 2021"
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 48",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setiap Orang Asing yang berada di Wilayah Indonesia wajib memiliki Izin Tinggal."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal diberikan kepada Orang Asing sesuai dengan Visa yang dimilikinya."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal sebagaimana dimaksud pada ayat (1) terdiri atas:"
+                                                    },
+                                                    {
+                                                        "type": "ol",
+                                                        "content": [
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "Izin Tinggal diplomatik;"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "b. warga negara asing pemegang Izin Tinggal yang memiliki Izin Masuk Kembali yang masih berlaku;"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "c. nakhoda, kapten pilot, atau awak yang sedang bertugas di alat angkut;"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "d. nakhoda, awak kapal, atau tenaga ahli asing di atas kapal laut atau alat apung yang datang langsung dengan alat angkutnya untuk beroperasi di perairan Nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia."
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "g. terlibat tindak pidana transnasional yang terorganisasi atau membahayakan keutuhan wilayah Negara Kesatuan Republik Indonesia; dan/atau"
+                                                            },
+                                                            {
+                                                                "type": "li",
+                                                                "className": "list-c list-alpha",
+                                                                "content": "h. termasuk dalam jaringan praktik atau kegiatan prostitusi, perdagangan orang, dan penyelundupan manusia."
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 45",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Tanda Masuk bagi Orang Asing pemegang Visa diplomatik atau Visa dinas yang melakukan kunjungan singkat di Indonesia berlaku juga sebagai Izin Tinggal diplomatik atau Izin Tinggal dinas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Tanda Masuk bagi Orang Asing yang dibebaskan dari kewajiban memiliki Visa atau pemegang Visa kunjungan berlaku juga sebagai Izin Tinggal kunjungan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 46",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing pemegang Visa diplomatik atau Visa dinas dengan maksud bertempat tinggal di Wilayah Indonesia setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada Menteri Luar Negeri atau pejabat yang ditunjuk untuk memperoleh Izin Tinggal diplomatik atau Izin Tinggal dinas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing pemegang Visa tinggal terbatas setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada kepala Kantor Imigrasi untuk memperoleh Izin Tinggal terbatas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Jika Orang Asing sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak melaksanakan kewajiban tersebut, Orang Asing yang bersangkutan dianggap berada di Wilayah Indonesia secara tidak sah."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 47",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan lebih lanjut mengenai persyaratan dan tata cara permohonan, jenis kegiatan, dan jangka waktu Visa, serta tata cara pemberian Tanda Masuk diatur dengan Peraturan Pemerintah."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 48",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan lebih lanjut mengenai persyaratan dan tata cara permohonan, jenis kegiatan, dan jangka waktu Visa, serta tata cara pemberian Tanda Masuk diatur dengan Peraturan Pemerintah."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
