@@ -2965,7 +2965,7 @@
                 ]
             },
             "bab11": {
-                "pageTitle": "Bab 10 - Ketentuan Pidana",
+                "pageTitle": "Bab 11 - Ketentuan Pidana",
                 "content": [
                     {
                         "type": "ac",
@@ -3356,6 +3356,224 @@
                                                 ]
                                             }
                                         ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bab12": {
+                "pageTitle": "Bab 12 - Biaya",
+                "content": [
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 137",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Dana untuk melaksanakan Undang-Undang ini dibebankan pada Anggaran Pendapatan dan Belanja Negara."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 138",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Permohonan Dokumen Perjalanan, Visa, Izin Tinggal, Izin Masuk Kembali dan biaya beban berdasarkan Undang-Undang ini dikenai biaya imigrasi."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Biaya imigrasi sebagaimana dimaksud pada ayat (1) merupakan salah satu Penerimaan Negara Bukan Pajak di bidang Keimigrasian."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Ketentuan lebih lanjut mengenai biaya imigrasi sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bab13": {
+                "pageTitle": "Bab 13 - Ketentuan Lain-Lain",
+                "content": [
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 139",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Ketentuan Keimigrasian bagi lalu lintas orang yang masuk atau keluar Wilayah Indonesia di daerah perbatasan diatur tersendiri dengan perjanjian lintas batas antara Pemerintah Republik Indonesia dan pemerintah negara tetangga yang memiliki perbatasan yang sama dengan memperhatikan ketentuan Undang-Undang ini."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Ketentuan Keimigrasian bagi lalu lintas orang yang masuk atau keluar Wilayah Indonesia dengan menggunakan tanda masuk atau tanda keluar dengan alat elektronik dapat diatur tersendiri melalui perjanjian bilateral atau multilateral dengan memperhatikan ketentuan Undang-Undang ini."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 140",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Untuk menjadi Pejabat Imigrasi, diselenggarakan pendidikan khusus Keimigrasian."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Untuk mengikuti pendidikan khusus Keimigrasian, peserta harus telah lulus jenjang pendidikan sarjana."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Penyelenggaraan pendidikan khusus Keimigrasian sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bab14": {
+                "pageTitle": "Bab 14 - Ketentuan Peralihan",
+                "content": [
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 141",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pada saat Undang-Undang ini mulai berlaku:"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal kunjungan, Izin Tinggal terbatas, dan Izin Tinggal Tetap yang dikeluarkan berdasarkan Undang- Undang Nomor 9 Tahun 1992 tentang Keimigrasian dinyatakan tetap berlaku sampai jangka waktunya berakhir;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "suami atau istri dari perkawinan yang sah dengan warga negara Indonesia yang usia perkawinannya lebih dari 2 (dua) tahun dan memegang Izin Tinggal terbatas berdasarkan Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian dapat langsung diberikan Izin Tinggal Tetap menurut ketentuan Undang-Undang ini;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dokumen Perjalanan Republik Indonesia yang telah dikeluarkan berdasarkan Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian dinyatakan tetap berlaku sampai jangka waktunya berakhir; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "perkara tindak pidana di bidang Keimigrasian yang sedang diproses dalam tahap penyidikan tetap diproses berdasarkan Undang-Undang tentang Hukum Acara Pidana."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bab15": {
+                "pageTitle": "Bab 15 - Ketentuan Penutup",
+                "content": [
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 142",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pada saat Undang-Undang ini mulai berlaku:"
+                                            },
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 3474);"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Undang-Undang Nomor 37 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 3 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 145, Tambahan Lembaran Negara Republik Indonesia Nomor 5064); dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "semua peraturan perundang-undangan yang berkaitan dengan Keimigrasian yang bertentangan atau tidak sesuai dengan Undang-Undang ini,"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "p",
+                                                "content": "dicabut dan dinyatakan tidak berlaku."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Pasal 143",
+                                "content": [
+                                    {
+                                        "type": "p",
+                                        "content": "Pada saat Undang-Undang ini mulai berlaku, peraturan pelaksanaan dari Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 3474) dinyatakan masih tetap berlaku sepanjang tidak bertentangan atau belum diganti dengan yang baru berdasarkan Undang-Undang ini."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Pasal 144",
+                                "content": [
+                                    {
+                                        "type": "p",
+                                        "content": "Peraturan pelaksanaan Undang-Undang ini harus telah ditetapkan paling lambat 1 (satu) tahun sejak Undang- Undang ini diundangkan."
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Pasal 145",
+                                "content": [
+                                    {
+                                        "type": "p",
+                                        "content": "Undang-Undang ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia."
                                     }
                                 ]
                             }
