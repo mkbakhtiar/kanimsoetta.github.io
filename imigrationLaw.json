@@ -2767,6 +2767,202 @@
                         ]
                     }
                 ]
+            },
+            "bab10": {
+                "pageTitle": "Bab 10 - Penyidikan",
+                "content": [
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 104",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Penyidikan tindak pidana Keimigrasian dilakukan berdasarkan hukum acara pidana."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 105",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "PPNS Keimigrasian diberi wewenang sebagai penyidik tindak pidana Keimigrasian yang dilaksanakan sesuai dengan ketentuan Undang-Undang ini."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 106",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "p",
+                                                        "content": "PPNS Keimigrasian berwenang:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "menerima laporan tentang adanya tindak pidana Keimigrasian;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "mencari keterangan dan alat bukti;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "melakukan tindakan pertama di tempat kejadian;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "melarang setiap orang meninggalkan atau memasuki tempat kejadian perkara untuk kepentingan penyidikan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "memanggil, memeriksa, menggeledah, menangkap, atau menahan seseorang yang disangka melakukan tindak pidana Keimigrasian;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "menahan, memeriksa, dan menyita Dokumen Perjalanan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "menyuruh berhenti orang yang dicurigai atau tersangka dan memeriksa identitas dirinya;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "memeriksa atau menyita surat, dokumen, atau benda yang ada hubungannya dengan tindak pidana Keimigrasian;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "memanggil seseorang untuk diperiksa dan didengar keterangannya sebagai tersangka atau saksi;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "mendatangkan ahli yang diperlukan dalam hubungannya dengan pemeriksaan perkara;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "melakukan pemeriksaan di tempat tertentu yang diduga terdapat surat, dokumen, atau benda lain yang ada hubungannya dengan tindak pidana Keimigrasian;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "mengambil foto dan sidik jari tersangka;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "meminta keterangan dari masyarakat atau sumber yang berkompeten;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "melakukan penghentian penyidikan; dan/atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "mengadakan tindakan lain menurut hukum."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 107",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Dalam melakukan penyidikan, PPNS Keimigrasian berkoordinasi dengan penyidik Kepolisian Negara Republik Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Setelah selesai melakukan penyidikan, PPNS Keimigrasian menyerahkan berkas perkara kepada penuntut umum."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 108",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "p",
+                                                        "content": "Alat bukti pemeriksaan tindak pidana Keimigrasian berupa:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "alat bukti sebagaimana dimaksud dalam hukum acara pidana;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "alat bukti lain berupa informasi yang diucapkan, dikirimkan, dan diterima atau disimpan secara elektronik atau yang serupa dengan itu; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "keterangan tertulis dari Pejabat Imigrasi yang berwenang."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 109",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Terhadap tersangka atau terdakwa yang melakukan tindak pidana keimigrasian sebagaimana dimaksud dalam Pasal 118, Pasal 119, Pasal 120, Pasal 121, Pasal 122, Pasal 123, Pasal 126, Pasal 127, Pasal 128, Pasal 129, Pasal 131, Pasal 132, Pasal 133 huruf b, Pasal 134 huruf b, dan Pasal 135 dapat dikenai penahanan."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 110",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Terhadap tindak pidana keimigrasian sebagaimana dimaksud dalam Pasal 116 dan Pasal 117 diberlakukan acara pemeriksaan singkat sebagaimana dimaksud dalam hukum acara pidana."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "PPNS Keimigrasian menyerahkan tersangka dan alat bukti kepada penuntut umum dengan disertai catatan mengenai tindak pidana Keimigrasian yang disangkakan kepada tersangka."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 111",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "PPNS Keimigrasian dapat melaksanakan kerja sama dalam penyelidikan dan penyidikan tindak pidana Keimigrasian dengan lembaga penegak hukum dalam negeri dan negara lain sesuai dengan ketentuan peraturan perundang- undangan atau berdasarkan perjanjian internasional yang telah diakui oleh Pemerintah Republik Indonesia."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 112",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan lebih lanjut mengenai persyaratan, tata cara pengangkatan PPNS Keimigrasian, dan administrasi penyidikan diatur dengan Peraturan Pemerintah."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         }
     ]
