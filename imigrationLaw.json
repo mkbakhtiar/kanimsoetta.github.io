@@ -1161,99 +1161,538 @@
                                                         "content": "Izin Tinggal sebagaimana dimaksud pada ayat (1) terdiri atas:"
                                                     },
                                                     {
-                                                        "type": "ol",
-                                                        "content": [
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "Izin Tinggal diplomatik;"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "b. warga negara asing pemegang Izin Tinggal yang memiliki Izin Masuk Kembali yang masih berlaku;"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "c. nakhoda, kapten pilot, atau awak yang sedang bertugas di alat angkut;"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "d. nakhoda, awak kapal, atau tenaga ahli asing di atas kapal laut atau alat apung yang datang langsung dengan alat angkutnya untuk beroperasi di perairan Nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia."
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "g. terlibat tindak pidana transnasional yang terorganisasi atau membahayakan keutuhan wilayah Negara Kesatuan Republik Indonesia; dan/atau"
-                                                            },
-                                                            {
-                                                                "type": "li",
-                                                                "className": "list-c list-alpha",
-                                                                "content": "h. termasuk dalam jaringan praktik atau kegiatan prostitusi, perdagangan orang, dan penyelundupan manusia."
-                                                            }
-                                                        ]
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Izin Tinggal diplomatik;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Izin Tinggal dinas;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Izin Tinggal kunjungan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Izin Tinggal terbatas; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Izin Tinggal Tetap."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri berwenang melarang Orang Asing yang telah diberi Izin Tinggal berada di daerah tertentu di Wilayah Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Terhadap Orang Asing yang sedang menjalani penahanan untuk kepentingan proses penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan atau menjalani pidana kurungan atau pidana penjara di lembaga pemasyarakatan, sedangkan izin tinggalnya telah lampau waktu, Orang Asing tersebut tidak dikenai kewajiban sebagaimana dimaksud pada ayat (1)."
                                                     }
                                                 ]
                                             }
                                         ]
                                     },
                                     {
-                                        "title": "Pasal 45",
+                                        "title": "Pasal 49",
                                         "content": [
                                             {
                                                 "type": "ol",
                                                 "content": [
                                                     {
                                                         "type": "li",
-                                                        "content": "Tanda Masuk bagi Orang Asing pemegang Visa diplomatik atau Visa dinas yang melakukan kunjungan singkat di Indonesia berlaku juga sebagai Izin Tinggal diplomatik atau Izin Tinggal dinas."
+                                                        "content": "Izin Tinggal diplomatik diberikan kepada Orang Asing yang masuk Wilayah Indonesia dengan Visa diplomatik."
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "content": "Tanda Masuk bagi Orang Asing yang dibebaskan dari kewajiban memiliki Visa atau pemegang Visa kunjungan berlaku juga sebagai Izin Tinggal kunjungan."
+                                                        "content": "Izin Tinggal dinas diberikan kepada Orang Asing yang masuk Wilayah Indonesia dengan Visa dinas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal diplomatik dan Izin Tinggal dinas serta perpanjangannya diberikan oleh Menteri Luar Negeri."
                                                     }
                                                 ]
                                             }
                                         ]
                                     },
                                     {
-                                        "title": "Pasal 46",
+                                        "title": "Pasal 50",
                                         "content": [
                                             {
                                                 "type": "ol",
                                                 "content": [
                                                     {
                                                         "type": "li",
-                                                        "content": "Orang Asing pemegang Visa diplomatik atau Visa dinas dengan maksud bertempat tinggal di Wilayah Indonesia setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada Menteri Luar Negeri atau pejabat yang ditunjuk untuk memperoleh Izin Tinggal diplomatik atau Izin Tinggal dinas."
+                                                        "content": "Izin Tinggal kunjungan diberikan kepada:"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "content": "Orang Asing pemegang Visa tinggal terbatas setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada kepala Kantor Imigrasi untuk memperoleh Izin Tinggal terbatas."
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Orang Asing yang masuk Wilayah Indonesia dengan Visa kunjungan; atau"
                                                     },
                                                     {
                                                         "type": "li",
-                                                        "content": "Jika Orang Asing sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak melaksanakan kewajiban tersebut, Orang Asing yang bersangkutan dianggap berada di Wilayah Indonesia secara tidak sah."
+                                                        "className": "list-c list-alpha",
+                                                        "content": "anak yang baru lahir di Wilayah Indonesia dan pada saat lahir ayah dan/atau ibunya pemegang Izin Tinggal kunjungan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal kunjungan sebagaimana dimaksud pada ayat (1) huruf b diberikan sesuai dengan Izin Tinggal kunjungan ayah dan/atau ibunya."
                                                     }
                                                 ]
                                             }
                                         ]
                                     },
                                     {
-                                        "title": "Pasal 47",
+                                        "title": "Pasal 51",
                                         "content": [
                                             {
-                                                "type": "p",
-                                                "content": "Ketentuan lebih lanjut mengenai persyaratan dan tata cara permohonan, jenis kegiatan, dan jangka waktu Visa, serta tata cara pemberian Tanda Masuk diatur dengan Peraturan Pemerintah."
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "p",
+                                                        "content": "Izin Tinggal kunjungan berakhir karena pemegang Izin Tinggal kunjungan:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "kembali ke negara asalnya;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "izinnya telah habis masa berlaku;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "izinnya beralih status menjadi Izin Tinggal terbatas;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "izinnya dibatalkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "dikenai Deportasi; atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "meninggal dunia."
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
                                     {
-                                        "title": "Pasal 48",
+                                        "title": "Pasal 52",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "p",
+                                                        "content": "Izin Tinggal terbatas diberikan kepada:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Orang Asing yang masuk Wilayah Indonesia dengan Visa tinggal terbatas;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "anak yang pada saat lahir di Wilayah Indonesia ayah dan/atau ibunya pemegang Izin Tinggal terbatas;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Orang Asing yang diberikan alih status dari Izin Tinggal kunjungan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "nakhoda, awak kapal, atau tenaga ahli asing di atas kapal laut, alat apung, atau instalasi yang beroperasi di wilayah perairan dan wilayah yurisdiksi Indonesia sesuai dengan ketentuan peraturan perundang-undangan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Orang Asing yang kawin secara sah dengan warga negara Indonesia; atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "anak dari Orang Asing yang kawin secara sah dengan warga negara Indonesia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 53",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "p",
+                                                        "content": "Izin Tinggal terbatas berakhir karena pemegang Izin Tinggal terbatas:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "kembali ke negara asalnya dan tidak bermaksud masuk lagi ke Wilayah Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "kembali ke negara asalnya dan tidak kembali lagi melebihi masa berlaku Izin Masuk Kembali yang dimilikinya;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "memperoleh kewarganegaraan Republik Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "izinnya telah habis masa berlaku;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "izinnya beralih status menjadi Izin Tinggal Tetap;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "izinnya dibatalkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "dikenai Deportasi; atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "meninggal dunia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 54",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal Tetap dapat diberikan kepada:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Orang Asing pemegang Izin Tinggal terbatas sebagai rohaniwan, pekerja, investor, dan lanjut usia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "keluarga karena perkawinan campuran;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "suami, istri, dan/atau anak dari Orang Asing pemegang Izin Tinggal Tetap; dan"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Orang Asing eks warga negara Indonesia dan eks subjek anak berkewarganegaraan ganda Republik Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal Tetap sebagaimana dimaksud pada ayat (1) tidak diberikan kepada Orang Asing yang tidak memiliki paspor kebangsaan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing pemegang Izin Tinggal Tetap merupakan penduduk Indonesia."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 55",
                                         "content": [
                                             {
                                                 "type": "p",
-                                                "content": "Ketentuan lebih lanjut mengenai persyaratan dan tata cara permohonan, jenis kegiatan, dan jangka waktu Visa, serta tata cara pemberian Tanda Masuk diatur dengan Peraturan Pemerintah."
+                                                "content": "Pemberian, perpanjangan, dan pembatalan Izin Tinggal kunjungan, Izin Tinggal terbatas, dan Izin Tinggal Tetap dilakukan oleh Menteri atau Pejabat Imigrasi yang ditunjuk."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 56",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal yang telah diberikan kepada Orang Asing dapat dialihstatuskan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal yang dapat dialihstatuskan adalah Izin Tinggal kunjungan menjadi Izin Tinggal terbatas dan Izin Tinggal terbatas menjadi Izin Tinggal Tetap."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Alih status Izin Tinggal sebagaimana dimaksud pada ayat (2) ditetapkan dengan Keputusan Menteri."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 57",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal kunjungan dan Izin Tinggal terbatas dapat juga dialihstatuskan menjadi Izin Tinggal dinas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Alih status sebagaimana dimaksud pada ayat (1) hanya dapat dilaksanakan berdasarkan Keputusan Menteri setelah mendapat persetujuan Menteri Luar Negeri."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 58",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Dalam hal Pejabat Imigrasi meragukan status Izin Tinggal Orang Asing dan kewarganegaraan seseorang, Pejabat Imigrasi berwenang menelaah serta memeriksa status Izin Tinggal dan kewarganegaraannya."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 59",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal Tetap diberikan untuk jangka waktu 5 (lima) tahun dan dapat diperpanjang untuk waktu yang tidak terbatas sepanjang izinnya tidak dibatalkan."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemegang Izin Tinggal Tetap untuk jangka waktu yang tidak terbatas sebagaimana dimaksud pada ayat (1) wajib melapor ke Kantor Imigrasi setiap 5 (lima) tahun dan tidak dikenai biaya."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 60",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal Tetap bagi pemohon sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf a diberikan setelah pemohon tinggal menetap selama 3 (tiga) tahun berturut-turut dan menandatangani Pernyataan Integrasi kepada Pemerintah Republik Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Untuk mendapatkan Izin Tinggal Tetap bagi pemohon sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf b diberikan setelah usia perkawinannya mencapai 2 (dua) tahun dan menandatangani Pernyataan Integrasi kepada Pemerintah Republik Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal Tetap bagi pemohon sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf c dan huruf d dapat langsung diberikan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 61",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Pemegang Izin Tinggal terbatas sebagaimana dimaksud dalam Pasal 52 huruf e dan huruf f dan pemegang Izin Tinggal Tetap sebagaimana dimaksud dalam Pasal 54 ayat (1) huruf b dan huruf d dapat melakukan pekerjaan dan/atau usaha untuk memenuhi kebutuhan hidup dan/atau keluarganya."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 62",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal Tetap dapat berakhir karena pemegang Izin Tinggal Tetap:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "meninggalkan Wilayah Indonesia lebih dari 1 (satu) tahun atau tidak bermaksud masuk lagi ke Wilayah Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "tidak melakukan perpanjangan Izin Tinggal Tetap setelah 5 (lima) tahun;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "memperoleh kewarganegaraan Republik Indonesia;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "izinnya dibatalkan oleh Menteri atau Pejabat Imigrasi yang ditunjuk;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "dikenai tindakan Deportasi; atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "meninggal dunia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Tinggal Tetap dibatalkan karena pemegang Izin Tinggal Tetap:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "terbukti melakukan tindak pidana terhadap negara sebagaimana diatur dalam peraturan perundang-undangan;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "melakukan kegiatan yang membahayakan keamanan negara;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "melanggar Pernyataan Integrasi;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "mempekerjakan tenaga kerja asing tanpa izin kerja;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "memberikan informasi yang tidak benar dalam pengajuan permohonan Izin Tinggal Tetap;"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "Orang Asing yang bersangkutan dikenai Tindakan Administratif Keimigrasian; atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "putus hubungan perkawinan Orang Asing yang kawin secara sah dengan warga negara Indonesia karena perceraian dan/atau atas putusan pengadilan, kecuali perkawinan yang telah berusia 10 (sepuluh) tahun atau lebih."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 63",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Orang Asing tertentu yang berada di Wilayah Indonesia wajib memiliki Penjamin yang menjamin keberadaannya."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Penjamin bertanggung jawab atas keberadaan dan kegiatan Orang Asing yang dijamin selama tinggal di Wilayah Indonesia serta berkewajiban melaporkan setiap perubahan status sipil, status Keimigrasian, dan perubahan alamat."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Penjamin wajib membayar biaya yang timbul untuk memulangkan atau mengeluarkan Orang Asing yang dijaminnya dari Wilayah Indonesia apabila Orang Asing yang bersangkutan:"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "telah habis masa berlaku Izin Tinggalnya; dan/atau"
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "className": "list-c list-alpha",
+                                                        "content": "dikenai Tindakan Administratif Keimigrasian berupa Deportasi."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Ketentuan mengenai penjaminan tidak berlaku bagi Orang Asing yang kawin secara sah dengan warga negara Indonesia."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Ketentuan sebagaimana dimaksud dalam Pasal 62 ayat (2) huruf g tidak berlaku dalam hal pemegang Izin Tinggal Tetap tersebut putus hubungan perkawinannya dengan warga negara Indonesia memperoleh penjaminan yang menjamin keberadaannya sebagaimana dimaksud pada ayat (1)."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 64",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Masuk Kembali diberikan kepada Orang Asing pemegang Izin Tinggal terbatas atau Izin Tinggal Tetap."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemegang Izin Tinggal terbatas diberikan Izin Masuk Kembali yang masa berlakunya sama dengan masa berlaku Izin Tinggal terbatas."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pemegang Izin Tinggal Tetap diberikan Izin Masuk Kembali yang berlaku selama 2 (dua) tahun sepanjang tidak melebihi masa berlaku Izin Tinggal Tetap."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Izin Masuk Kembali berlaku untuk beberapa kali perjalanan."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "Pasal 65",
+                                        "content": [
+                                            {
+                                                "type": "p",
+                                                "content": "Ketentuan lebih lanjut mengenai tata cara dan persyaratan permohonan, jangka waktu, pemberian, perpanjangan, atau pembatalan Izin Tinggal, dan alih status Izin Tinggal diatur dengan Peraturan Pemerintah."
                                             }
                                         ]
                                     }
