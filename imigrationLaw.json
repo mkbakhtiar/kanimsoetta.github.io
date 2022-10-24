@@ -1699,6 +1699,43 @@
                         ]
                     }
                 ]
+            },
+            "bab6": {
+                "pageTitle": "Bab 5 - Visa Tanda Masuk dan Izin Tinggal",
+                "content": [
+                    {
+                        "type": "h4",
+                        "content": "Bagian Kesatu - Umum"
+                    },
+                    {
+                        "type": "ac",
+                        "content": [
+                            {
+                                "firstExpand": true,
+                                "content": [
+                                    {
+                                        "title": "Pasal 66",
+                                        "content": [
+                                            {
+                                                "type": "ol",
+                                                "content": [
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Menteri melakukan pengawasan Keimigrasian."
+                                                    },
+                                                    {
+                                                        "type": "li",
+                                                        "content": "Pengawasan Keimigrasian meliputi:"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         }
     ]
