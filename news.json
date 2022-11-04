@@ -4,6 +4,66 @@
         "berita": [
 	{
 	    "cover": {
+	      "url": "/images/news/20221104-Semarakkan-Perhelatan-G20-dengan-Jalan-Santai-header.jpg",
+	      "photoDescription": "Semarakkan Perhelatan G20 dengan Jalan Santai"
+	    },
+	    "category": "Serba-Serbi",
+	    "title": "Semarakkan Perhelatan G20 dengan Jalan Santai",
+	    "content": [
+	      {
+		"type": "p",
+		"content": "Sahabat Mido, pasti tahu dong jika tahun ini merupakan tahun di mana Indonesia berkesempatan menjadi tuan rumah bagi perhelatan internasional G20. Forum antar negara yang fokus pada koordinasi kebijakan di bidang ekonomi dan pembangunan ini nantinya akan menggelar presidensi di Bali pada tanggal 16-17 November 2022. Mengusung tema “Pulih Bersama dan Lebih Kuat”, KTT G20 kali ini terasa spesial karena diadakan setelah seluruh negara di dunia -termasuk Indonesia- dilanda wabah pandemic Covid-19."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/20221104-Semarakkan-Perhelatan-G20-dengan-Jalan-Santai-gambar1.jpg",
+		  "photoDescription": "Segenap pegawai Kantor Imigrasi Soekarno-Hatta tengah bersiap-siap mengikuti kegiatan Jalan Santai"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Nah, dalam usaha turut memeriahkan forum besar berskala internasional ini, Kementerian Hukum dan HAM mengamanatkan pada setiap UPT (Unit Pelaksana Tugas) untuk melaksanakan program Jalan Santai, tidak terkecuali di Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/20221104-Semarakkan-Perhelatan-G20-dengan-Jalan-Santai-gambar2.jpg",
+		  "photoDescription": "Jajaran struktural terlihat turut memeriahkan kegiatan Jalan Santai"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Nah, pada Jumat (4/11) akhirnya diselenggarakanlah jalan santai yang diikuti oleh segenap pegawai Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta. Dimulai dari lapangan parkir kantor, jalur jalan santai yang bertemakan “Jalan Sehat Kumham Semarak G20” ini kemudian dibuat mengelilingi area perkantoran Bandara Soekarno-Hatta, untuk kemudian kembali lagi ke lapangan parkir kantor."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/20221104-Semarakkan-Perhelatan-G20-dengan-Jalan-Santai-gambar3.jpg",
+		  "photoDescription": "Pegawai Kantor Imigrasi Seokarno-Hatta foto bersama di Stasiun Kereta Bandara Soekarno-Hatta"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Dengan tetap menerapkan protokol kesehatan, jalan santai ini suskes meningkatkan awareness seluruh pegawai akan agenda internasional yang sebentar lagi akan dihelat di Indonesia, sekaligus menggugah semangat setiap pegawai untuk terus memberikan pelayanan keimigrasian yang lebih baik. Bagaimana tidak, setidaknya hingga akhir perhelatan G20 ini atensi dunia akan berfokus pada Indonesia."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/20221104-Semarakkan-Perhelatan-G20-dengan-Jalan-Santai-gambar4.jpg",
+		  "photoDescription": "Pelaksanaan kegiatan senam pagi setelah Jalan Santai"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Jadi, Sahabat Mido, yuk kita dukung dan turut semarakkan presidensi KTT G20 di Bali nanti! <i>So, that we can recover together, recover stronger!</i>"
+	      }
+	    ],
+	    "created_at": "2022-10-04",
+	    "tags": ""
+	},		
+	{
+	    "cover": {
 	      "url": "/images/news/header-Terminal2F.jpg",
 	      "photoDescription": "Terminal 2F Telah Dibuka Kembali"
 	    },
