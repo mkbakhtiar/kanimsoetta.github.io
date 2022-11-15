@@ -2,6 +2,189 @@
     "data": [
       {
         "berita": [
+            {
+                "cover": {
+                  "url": "/images/news/15-11-2022_uji_coba_voa_Header.jpg",
+                  "photoDescription": "Perdana! Imigrasi Soekarno-Hatta Laksanakan Uji Coba e-VoA"
+                },
+                "category": "Pelayanan Keimigrasian",
+                "title": "Perdana! Imigrasi Soekarno-Hatta Laksanakan Uji Coba e-VoA",
+                "content": [
+                  {
+                "type": "p",
+                "content": "Sahabat Mido, tahu nggak jika pada 9 November 2022 Direktorat Jenderal Imigrasi merilis inovasi layanan terbaru. Yap, inovasi bernama e-VoA (electronic visa on arrival) nantinya diharapkan dapat memberi kemudahan lebih bagi WNA yang hendak berkunjung ke Indonesia. Lho, kenapa disebut lebih mudah? Karena, kini WNA bisa apply VoA dari mana saja dan kapan saja -tanpa harus melewati proses pemerolah VoA yang biasanya."
+                  },
+                  {
+                "type": "g",
+                "content": {
+                  "url": "/images/news/15-11-2022_ uji_coba_voa_Gambar1.jpg",
+                  "photoDescription": "Proses pemeriksaan penumpang yang datang menggunakan layanan e-VoA"
+                }
+                  },
+                  {
+                "type": "p",
+                "content": "Nah, sebelum tanggal rilis resminya, Imigrasi Soekarno-Hatta ternyata berkesempatan untuk melaksanakan uji coba e-VoA. Pada tanggal 4 November, seorang WN asing berkewarganegaraan China ternyata datang mengunjungi Indonesia dengan menggunakan e-VoA ini. Mendarat dengan pesawat Cathay Pacific Ariways CX797, WN China bernama Guo Jinpeng langsung diarahkan ke konter e-VoA demi mencoba inovasi layanan ini secara perdana. "
+                  },
+                  {
+                    "type": "p",
+                    "content": "“Saya ke sini untuk bisnis. Saya menggunakan visa elektronik yang dikeluarkan oleh pemerintah Indonesia, dan inovasi ini sangat memudahkan saya”, tutur Guo Jinpeng saat diinterview singkat oleh tim Humas Imigrasi Soekarno-Hatta."
+                },
+                  {
+                "type": "g",
+                "content": {
+                  "url": "/images/news/15-11-2022_uji_coba_voa_Gambar2.jpg",
+                  "photoDescription": "WN China, Guo Jinpeng, mendarat pada tanggal 4 November lewat Bandara Soetta dengan menggunakan e-VoA"
+                }
+                  },
+                  {
+                "type": "p",
+                "content": "Pada lain kesempatan, Muhammad Tito selaku Kepala Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta menuturkan bahwa pemberlakukan e-VoA ini sejalan dengan visi dan arahan Pelaksana Tugas (Plt) Direktur Jenderal Imigrasi, Widodo Ekatjahjana, yang yakin bahwa e-VoA bisa menjawab kebutuhan masyarakat dunia yang ingin berlibur atau melakukan pertemuan bisnis di Indonesia."
+                  },
+                  {
+                "type": "g",
+                "content": {
+                  "url": "/images/news/15-11-2022_uji_coba_voa_Gambar3.jpg",
+                  "photoDescription": "Petugas tengah memeriksa dokumen perjalanan penumpang"
+                }
+                  },
+                  {
+                "type": "p",
+                "content": "Lalu, warga negara mana aja sih yang bisa merasakan layanan e-VoA? Untuk sementara, berikut daftar negara e-VoA:"
+                  },
+                  {
+                    "type": "ol",
+                    "content": [
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Australia"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Argentina"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Brazil"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Belgia"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Kanada"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Cina"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Denmark"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Perancis"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Jerman"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "India"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Italia"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Jepang"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Belanda"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Selandia Baru"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Korea Selatan"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Rusia"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Arab Saudi"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Afrika Selatan"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Spanyol"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Swiss"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Timor Leste"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Turki"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Ukraina"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Inggris"
+                      },
+                      {
+                        "type": "li",
+                        "className": "list-c list-number",
+                        "content": "Amerika"
+                      }
+                    ]
+                  }  
+                ],
+                "created_at": "2022-11-15",
+                "tags": ""
+            },
 	{
 	    "cover": {
 	      "url": "/images/news/20221104-Semarakkan-Perhelatan-G20-dengan-Jalan-Santai-header.jpg",
