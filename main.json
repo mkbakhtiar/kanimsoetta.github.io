@@ -1087,7 +1087,17 @@
                             29.85,
                             46.70
                           ]
-                        }                          
+                        },
+                        {
+                          "periode": "Oktober 2022",
+                          "data": [
+                            82.88,
+                            44.04,
+                            85.38,
+                            44.20,
+                            67.91
+                          ]
+                        }                        
                       ],
                       "label": [
                         "Bidang TU",
@@ -1112,6 +1122,10 @@
                         {
                           "label": "September 2022",
                           "value": "September 2022"
+                        },
+                        {
+                          "label": "Oktober 2022",
+                          "value": "Oktober 2022"
                         }                        
                       ],
                       "colors": [
