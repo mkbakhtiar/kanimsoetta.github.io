@@ -1,7 +1,56 @@
 {
     "data": [
       {
-        "berita": [		
+        "berita": [
+		{
+	    "cover": {
+	      "url": "/images/news/Bahasa_Jepang_Header.jpg",
+	      "photoDescription": "Salah satu peserta memperoleh hadiah dari Sensei Ayu"
+	    },
+	    "category": "Serba-Serbi",
+	    "title": "Pelatihan Bahasa Jepang untuk Pegawai Imigrasi Soekarno-Hatta",
+	    "content": [
+	      {
+		"type": "p",
+		"content": "Pembekalan bahasa asing bagi petugas Imigrasi adalah cara untuk meningkatkan kualitas pelayanan publik, begitulah yang disampaikan oleh Ika Rahmawati (Kepala Bidang Dokumen Perjalanan dan Izin Tinggal Keimigrasian) saat membuka acara Pelatihan Bahasa Jepang pada Selasa, 23 November 2022."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/Bahasa_Jepang_2.jpg",
+		  "photoDescription": "Sensei Ayu menyampaikan materi berupa basic knowledge kepada peserta"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Ika mengungkapkan jika Jepang menduduki peringkat ketujuh negara pelintas masuk terbanyak ke Indonesia. Untuk itu dirasa penting membekali petugas dengan kemampuan basic conversation bahasa Jepang."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/Bahasa_Jepang_3.jpg",
+		  "photoDescription": "Perwakilan pegawai Kantor Kesehatan Pelabuhan (KKP) turut hadir dalam kesempatan ini"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Kegiatan pelatihan berjalan seru dipandu oleh Sensei Trasnihati dan Sri S. Rahayu yang mengajarkan berbagai pengetahuan dasar seperti cara menyapa, memperkenalkan diri, menyebutkan tanggal & bulan hingga istilah-istilah Keimigrasian dalam bahasa Jepang yang aplikatif untuk dipraktekan oleh petugas Imigrasi saat menghadapi warga negara Jepang."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/Bahasa_Jepang_4.jpg",
+		  "photoDescription": "Peserta saling mempraktekan percakapan sederhana dalam bahasa Jepang"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Diharapkan melalui pelatihan ini petugas Imigrasi Soekarno-Hatta mampu memberikan pelayanan Keimigrasian secara prima ditunjang oleh kemampuan berbahasa Jepang. Selain diikuti oleh pegawai internal Imigrasi Soekarno-Hatta, kegiatan pelatihan pun dihadiri oleh perwakilan Komunitas Bandara Soekarno-Hatta seperti pihak Aviation Security dan Kantor Kesehatan Pelabuhan (KKP)."
+	      }
+	    ],
+	    "created_at": "2022-11-23",
+	    "tags": ""
+	},		
             {
                 "cover": {
                   "url": "/images/news/15-11-2022_uji_coba_voa_Header.jpg",
