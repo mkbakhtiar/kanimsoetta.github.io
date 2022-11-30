@@ -2,6 +2,94 @@
     "data": [
       {
         "berita": [
+	{
+	  "cover": {
+	    "url": "/images/news/Gunakan_Paspor_Palsu_Header.jpg",
+	    "photoDescription": "Gunakan Paspor Palsu, WN Suriah Digagalkan Keluar Wilayah Indonesia"
+	  },
+	  "category": "Serba-Serbi",
+	  "title": "Gunakan Paspor Palsu, WN Suriah Digagalkan Keluar Wilayah Indonesia",
+	  "content": [
+	    {
+	      "type": "p",
+	      "content": "Sahabat Mido, pada tanggal 20 November kemarin Imigrasi Soekarno-Hatta beserta stakeholder bandara yang lain berhasil menggagalkan keberangkatan WN Suriah. Alasannya adalah karena yang bersangkutan diduga menggunakan dokumen perjalanan palsu. Wah!"
+	    },
+	    {
+	      "type": "g",
+	      "content": {
+		"url": "/images/news/Gunakan_Paspor_Palsu_Gambar1.jpg",
+		"photoDescription": "Jajaran awak media yang hadir pada konferensi pers tanggal 28 November 2022"
+	      }
+	    },
+	    {
+	      "type": "p",
+	      "content": "Dengan menggunakan paspor palsu Uni Emirat Arab, pelaku berinisial GSA (60 tahun) mencoba meninggalkan wilayah Indonesia dengan menggunakan maskapai KLM Royal Dutch Airlines KL 810. Setelah dilakukan pendalaman, diketahui bahwa pada tanggal 20 November pelaku GSA mencoba pergi ke Jerman untuk mengunjungi putra-putrinya yang sudah lama tidak ia temui."
+	    },
+	    {
+	      "type": "g",
+	      "content": {
+	      "url": "/images/news/Gunakan_Paspor_Palsu_Gambar2.jpg",
+	      "photoDescription": "Konferensi pers juga turut ditayangkan secara live di akun Instagram Kantor Imigrasi Soekarno-Hatta"
+	    }
+	    },
+	    {
+	      "type": "p",
+	      "content": "Nah, setelah dicek dengan menggunakan mesin forensik VSC 80i, paspor palsu yang digunakan GSA menunjukkan beberapa kualitas dokumen perjalanan palsu, seperti:"
+	    },
+	    {
+	      "type": "ol",
+	      "content": [
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Security feature sinar UV yang tidak berpendar pada halaman biodata"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Benang jahitan yang merupakan benang jahitan biasa"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Terdapat lubang jahitan ulang"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Lubang perforasi tidak bulat presisi dan tidak beraturan"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Tulisan microprinting “United Arab Emirates” pada halaman sampul yang bias"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Sudut buku paspor yang tampak asimetris"
+		}
+	      ]
+	    },
+	    {
+	      "type": "p",
+	      "content": "Lalu, apa sih jeratan hukum yang mengintai GSA karena nekat menggunakan dokumen perjalanan palsu? Berdasarkan Pasal 119 Undang-undang Keimigrasian RI No. 6 Tahun 2011 tentang keimigrasian, atas perbuatannya GSA terancam hukuman pidana penjara paling lama 5 tahun dengan denda pidana paling banyak Rp. 500 juta."
+	    },
+	    {
+	      "type": "g",
+	      "content": {
+		"url": "/images/news/Gunakan_Paspor_Palsu_Gambar3.jpg",
+		"photoDescription": "Kepala Bidang Intelijen dan Penindakan Keimigrasian, Andika Pandu Kurniawan, memberikan keterangan kepada awak media"
+	      }
+	    },
+	    {
+	      "type": "p",
+	      "content": "Pada gelaran konferensi pers tanggal 28 November yang diadakan di aula Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta, Bpk. Muhammad Tito selaku kepala kantor mengungkapkan apresiasi yang tinggi atas kerjasama antar stakeholder Bandara Soekarno-Hatta. Beliau kembali menekankan bahwa pencegahan tindak kejahatan bukan kewajiban satu pihak saja, namun semua pihak yang ada di komunitas bandara."
+	    }
+	  ],
+	  "created_at": "2022-11-28",
+	  "tags": ""
+	},
 		{
 	    "cover": {
 	      "url": "/images/news/Bahasa_Jepang_Header.jpg",
