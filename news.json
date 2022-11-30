@@ -4,6 +4,79 @@
         "berita": [
 	{
 	  "cover": {
+	    "url": "/images/news/Pegawai_Teladan_Header.jpg",
+	    "photoDescription": "Ini Dia Daftar Pegawai Teladan Imigrasi Soetta Periode Oktober-Desember 2022"
+	  },
+	  "category": "WBK/WBBM",
+	  "title": "Ini Dia Daftar Pegawai Teladan Imigrasi Soetta Periode Oktober-Desember 2022",
+	  "content": [
+	    {
+	      "type": "p",
+	      "content": "Sahabat Mido, pada Senin tanggal 28 November 2022 lalu, Kepala Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta -Bpk. Muhamad Tito- kembali menganugerahkan predikat pegawai teladan kepada beberapa pegawai terpilih. Nah, untuk periode seleksi bulan Oktober hingga Desember 2022, terpilih 6 pegawai yang dianggap dapat menjadi teladan bagi pegawai lain dalam hal pekerjaan dan pengabdian pada instansi. Enam pegawai tersebut adalah:"
+	    },
+	    {
+	      "type": "g",
+	      "content": {
+		"url": "/images/news/Pegawai_Teladan_Gambar1.jpg",
+		"photoDescription": "Jajaran pegawai teladan Kantor Imigrasi Soekarno-Hatta periode Oktober-Desember 2022"
+	      }
+	    },
+	    {
+	      "type": "ol",
+	      "content": [
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Ai Rahmiyati, dari bidang Teknologi Informasi dan Komunikasi Kemigrasian"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Muhammad Hamid Mitarwan, dari bidang Intelijen dan Penindakan Keimigrasian"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Purwi Diyono, dari bidang Dokumen Perjalanan dan Izin Tinggal Keimigrasian"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Daffana Maulana Budiman, PPNPN (Pegawai Pemerintah Non-Pegawai Negeri) Kantor Imigrasi Soekarno-hatta"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Muhamad Ilham, PPNPN (Pegawai Pemerintah Non-Pegawai Negeri) Kantor Imigrasi Soekarno-hatta"
+		},
+		{
+		  "type": "li",
+		  "className": "list-c list-number",
+		  "content": "Mahmudin, PPNPN (Pegawai Pemerintah Non-Pegawai Negeri) Kantor Imigrasi Soekarno-hatta"
+		}
+	      ]
+	    },
+	    {
+	      "type": "p",
+	      "content": "Lalu, seperti apa sih proses seleksi pegawai teladan Kantor Imigrasi Soekarno-Hatta? Jadi, mulanya tiap bidang kerja akan merekomendasikan beberapa nama pegawai yang dianggap telah menunjukkan etika dan kinerja kerja yang baik. Lalu, nama-nama ini kemudian akan dinilai berdasarkan beberapa indikator penilaian tertentu."
+	    },
+	    {
+	      "type": "g",
+	      "content": {
+		"url": "/images/news/Pegawai_Teladan_Gambar2.jpg",
+		"photoDescription": "Kepala Kantor tengah memberikan piagam penghargaan pada masing-masing pegawai teladan"
+	      }
+	    },
+	    {
+	      "type": "p",
+	      "content": "Nah, yang menjadi tim penilainya tidak lain adalah jajaran struktural Kantor Imigrasi Soekarno-Hatta; terdiri dari Kepala Bagian Tata Usaha, Kepala Bidang Teknologi Informasi dan Komunikasi Keimigrasian, Kepala Bidang Dokumen Perjalanan dan Izin Tinggal Keimigrasian, Kepala Bidang Intelijen dan Penindakan Keimigrasian, serta Kepala Bidang Tempat Pemeriksaan Keimigrasian. Jadi, Sahabat Mido tertarik nggak nih jadi pegawai teladan?"
+	    }
+	  ],
+	  "created_at": "2022-11-28",
+	  "tags": ""
+	},
+	{
+	  "cover": {
 	    "url": "/images/news/Gunakan_Paspor_Palsu_Header.jpg",
 	    "photoDescription": "Gunakan Paspor Palsu, WN Suriah Digagalkan Keluar Wilayah Indonesia"
 	  },
