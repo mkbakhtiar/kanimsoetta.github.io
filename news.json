@@ -3,6 +3,65 @@
       {
         "berita": [
 	{
+	{
+	    "cover": {
+	      "url": "/images/news/2212-Header-Sosialisasi-EVOA.jpg",
+	      "photoDescription": "Salah satu peserta memperoleh hadiah dari Sensei Ayu"
+	    },
+	    "category": "Serba-Serbi",
+	    "title": "Sosialisasi E-VoA; Inovasi Imigrasi yang Paling Dinanti",
+	    "content": [
+	      {
+		"type": "p",
+		"content": "Sahabat Mido, sejak pertama kali diluncurkan pada 9 November 2022 lalu, Electronic Visa on Arrival (e-VoA) memang tengah menjadi sorotan warga Indonesia maupun warga dunia. Bagaimana tidak, dengan layanan e-VoA ini Warga Negara Asing (WNA) yang hendak berkunjung ke Indonesia tidak perlu lagi mengantri di loket pembayaran VoA yang berada di Tempat Pemeriksaan Imigrasi. Ya, kini WNA bisa langsung apply VoA dari negara asalnya. "
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/2212-Gambar-1-Sosialisasi-EVOA.jpg",
+		  "photoDescription": "Foto bersama pada acara Focus Group Discussion 7 November 2022"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Namun, karena terdapat beberapa perubahan aturan terkait penerapan e-VoA (seperti penambahan jumlah negara subjek e-VoA, atau ketentuan TPI yang bisa melayani aplikasi e-VoA), maka bidang Tempat Pemeriksaan Imigrasi (TPI) Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta merasa perlu diadakannya forum diskusi sekaligus sosialisasi e-VoA yang dihadiri semua stakeholder bandara. Berangkat dari tujuan inilah, akhirnya diselenggarakan forum Focus Group Discussion (FGD) pada 7 November 2022. Bertempat di hotel Mercure Ancol, forum diskusi ini dihadiri oleh semua stakeholder Bandara Soekarno-Hatta, mulai dari Polresta Bandara, Bea Cukai, KKP, BKPIM, Angkasa Pura II, Otoritas Bandara, BASARNAS, serta perwakilan maskapai."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/2212-Gambar-2-Sosialisasi-EVOA.jpg",
+		  "photoDescription": "Kepala Divisi Keimigrasian Kanwil Kemenkumham DKI Jakarta membuka forum diskusi secara resmi"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Dalam forum diskusi yang dibuka langsung oleh Kepala Divisi Keimigrasian Kanwil Kemenkumham DKI Jakarta ini, sosialisasi mengenai e-VoA terbukti menjadi ‘primadona’. Tidak hanya antusiasme peserta forum saja, pembahasan mengenai e-VoA yang turut ditayangkan secara langsung lewat akun Instagram @imigrasi.soekarnohatta juga terbukti mampu menarik perhatian masyarakat umum."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/2212-Gambar-3-Sosialisasi-EVOA.jpg",
+		  "photoDescription": "Kepala Bidang Teknologi Informasi dan Komunikasi Keimigrasian sedang memberikan sosialisasi terkait e-VoA"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Selain diisi dengan pembahasan mengenai e-VoA, FGD juga mengangkat pembahasan isu-isu lain, seperti isu terkait pemeriksaan keimigrasian, intelijen dan penindakan keimigrasian, hingga kondisi teranyar Bandara Soekarno-Hatta pasca pandemi."
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/2212-Gambar-4-Sosialisasi-EVOA.jpg",
+		  "photoDescription": "Antusiasme tamu undangan dan peserta forum diskusi"
+		},
+	      {
+		"type": "p",
+		"content": "Menarik, bukan?"
+	      }
+	    ],
+	    "created_at": "2022-12-09",
+	    "tags": ""
+	},			
 	  "cover": {
 	    "url": "/images/news/Pegawai_Teladan_Header.jpg",
 	    "photoDescription": "Ini Dia Daftar Pegawai Teladan Imigrasi Soetta Periode Oktober-Desember 2022"
@@ -163,7 +222,7 @@
 	  "created_at": "2022-11-28",
 	  "tags": ""
 	},
-		{
+	{
 	    "cover": {
 	      "url": "/images/news/Bahasa_Jepang_Header.jpg",
 	      "photoDescription": "Salah satu peserta memperoleh hadiah dari Sensei Ayu"
