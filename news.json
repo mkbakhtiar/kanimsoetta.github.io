@@ -54,8 +54,7 @@
 			  "content": "Dengan layanan e-VoA, WNA bisa tinggal di wilayah Indonesia selama 30 hari; dan, bisa diperpanjang sekali dengan masa berlaku 30 hari."
 			}
 			  ]
-	    },
-		  
+	    }, 
 	      {
 		"type": "g",
 		"content": {
@@ -66,13 +65,12 @@
 	      {
 		"type": "p",
 		"content": "Untuk informasi lebih lengkap, Sahabat Mido bisa langsung mengunjungi www.molina.imigrasi.go.id. Happy travelling!"
-	      },
+	      }
 	    ],
 	    "created_at": "2022-12-13",
 	    "tags": ""
 	},		
 	{
-	   
 	    "cover": {
 	      "url": "/images/news/2212-Header-Sosialisasi-EVOA.jpg",
 	      "photoDescription": "Sosialisasi E-Voa"
