@@ -5,6 +5,75 @@
 	{
 	   
 	    "cover": {
+	      "url": "/images/news/221213-Header-EVoA-Kini-86-Negara.jpg",
+	      "photoDescription": "Penambahan Subjek E-Voa"
+	    },
+	    "category": "Serba-Serbi",
+	    "title": "Kabar Bahagia! Subjek E-VoA Kini Jadi 86 Negara",
+	    "content": [
+	      {
+		"type": "p",
+		"content": "Sejak resmi dirilis ke publik pada tanggal 9 November 2022, layanan keimigrasian electronic Visa on Arrival -atau yang bisa disingkat e-VoA- mendapat sambutan yang baik dari masyarakat Indonesia maupun masyarakat dunia. Melihat animo yang tinggi ini, akhirnya Direktorat Jenderal Imigrasi menambah subjek negara e-VoA; yang tadinya hanya berlaku untuk 26 negara, sekarang bertambah menjadi 86 negara. Penasaran negara mana saja yang kini menjadi subjek e-VoA? Berikut daftar lengkapnya:"
+	      },
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/221213-Gambar-1-EVoA-Kini-86-Negara.jpg",
+		  "photoDescription": "Daftar negara subjek electronic Visa on Arrival (e-VoA)"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Mungkin Sahabat Mido masih penasaran, “Apa sih bedanya VoA dengan e-VoA?”. Jadi, berbeda dengan layanan VoA yang mengharuskan WNA untuk mengantri di konter pembayaran ketika sampai di bandara Indonesia, e-VoA memungkinkan WNA untuk mendapatkan izin tinggal sedari di negara asal."
+	      },
+	      {
+		"type": "p",
+		"content": "Cukup dengan mengakes www.molina.imigrasi.go.id, WNA bisa langsung mendaftar layanan e-VoA. Lalu, apa saja yang harus diperhatikan sebelum daftar layanan e-VoA? Yuk, cek penjelasan berikut ini!"
+	      },
+	    {
+			  "type": "ol",
+			  "content": [
+			{
+			  "type": "li",
+			  "className": "list-c list-number",
+			  "content": "E-VoA hanya bisa digunakan untuk tujuan: kunjungan wisata, kunjungan tugas pemerintahan, kunjungan pembicaraan bisnis, kunjungan pembelian barang, kunjungan rapat, dan transit."
+			},
+			{
+			  "type": "li",
+			  "className": "list-c list-number",
+			  "content": "Biaya PNBP untuk e-VoA adalah Rp. 500.000, dan bisa dibayar sedari di negara asal lewat kartu debit/kartu kredit."
+			},
+			{
+			  "type": "li",
+			  "className": "list-c list-number",
+			  "content": "Untuk mendaftar layanan e-VoA, WNA harus memiliki paspor yang masih berlaku (>6 bulan) dan tiket pulang ke negara asal atau negara transit."
+			},
+			{
+			  "type": "li",
+			  "className": "list-c list-number",
+			  "content": "Dengan layanan e-VoA, WNA bisa tinggal di wilayah Indonesia selama 30 hari; dan, bisa diperpanjang sekali dengan masa berlaku 30 hari."
+			}
+			  ]
+	    },
+		  
+	      {
+		"type": "g",
+		"content": {
+		  "url": "/images/news/221213-Gambar-2-EVoA-Kini-86-Negara.jpg",
+		  "photoDescription": "Konter khusus layanan e-VoA"
+		}
+	      },
+	      {
+		"type": "p",
+		"content": "Untuk informasi lebih lengkap, Sahabat Mido bisa langsung mengunjungi www.molina.imigrasi.go.id. Happy travelling!"
+	      },
+	    ],
+	    "created_at": "2022-12-13",
+	    "tags": ""
+	},		
+	{
+	   
+	    "cover": {
 	      "url": "/images/news/2212-Header-Sosialisasi-EVOA.jpg",
 	      "photoDescription": "Sosialisasi E-Voa"
 	    },
