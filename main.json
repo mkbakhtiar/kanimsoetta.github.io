@@ -43,11 +43,6 @@
               "id": 8,
               "image_mobile": "/images/banner/yKambTK.jpg",
               "image_dekstop": "/images/banner/qjxnKxX.jpg"
-            },
-            {
-              "id": 9,
-              "image_mobile": "/images/banner/G20-HP.jpg",
-              "image_dekstop": "/images/banner/G20.jpg"
             }
           ]
         },
@@ -163,7 +158,22 @@
             },
             {
               "id_youtube": "TAGF-wGF3uE"
-            }
+            },
+            {
+              "id_youtube": "YY5wlFnvnBg"
+            },
+            {
+              "id_youtube": "WrmpsM1i5pc"
+            },
+            {
+              "id_youtube": "iVY9XHMzzDo"
+            },
+            {
+              "id_youtube": "4CSX-nA7Eu0"
+            },
+            {
+              "id_youtube": "7A_holAUJoo"
+            }                     
           ]
         },
         {
