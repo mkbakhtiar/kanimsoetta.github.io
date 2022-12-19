@@ -1697,34 +1697,39 @@
                     "content": "Buat akun dengan cara : "
                   },
                   {
+                    "type": "ol",
+                    "content": [
+                    {
                     "type": "li",
                     "className": "sub-list",
                     "content": "Isi data diri"
-                  },
-                  {
-                    "type": "li",
-                    "className": "sub-list",
-                    "content": "Isi data paspor"
-                  },
-                  {
-                    "type": "li",
-                    "className": "sub-list",
-                    "content": "Isi data akun"
-                  },
-                  {
-                    "type": "li",
-                    "className": "sub-list",
-                    "content": "Isi data visa"
-                  },
-                  {
-                    "type": "li",
-                    "className": "sub-list",
-                    "content": "Isi detail kedatangan ke Indonesia"
-                  },
-                  {
-                    "type": "li",
-                    "className": "sub-list",
-                    "content": "Isi data lengkap alamat tempat tinggal"
+                    },
+                    {
+                      "type": "li",
+                      "className": "sub-list",
+                      "content": "Isi data paspor"
+                    },
+                    {
+                      "type": "li",
+                      "className": "sub-list",
+                      "content": "Isi data akun"
+                    },
+                    {
+                      "type": "li",
+                      "className": "sub-list",
+                      "content": "Isi data visa"
+                    },
+                    {
+                      "type": "li",
+                      "className": "sub-list",
+                      "content": "Isi detail kedatangan ke Indonesia"
+                    },
+                    {
+                      "type": "li",
+                      "className": "sub-list",
+                      "content": "Isi data lengkap alamat tempat tinggal"
+                    }
+                  ] 
                   },
                   {
                     "type": "li",
@@ -1772,7 +1777,7 @@
             "attachmentUrl": [],
             "tags": "",
             "show_beranda": false
-          },          
+          },                   
           {
             "images": [
               "/images/news/drive-thru-announcement.jpg"
