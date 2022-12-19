@@ -1674,6 +1674,107 @@
         "pengumuman": [
           {
             "images": [
+              "/images/news/cover-evoa.jpg"
+            ],
+            "created_at": "2022-12-19",
+            "title": "Cara Daftar e-VoA",
+            "content": [
+              {
+                "type": "h4",
+                "content": "Tata Cara Daftar E-VOA Lewat MOLINA :"
+              },
+              {
+                "type": "ol",
+                "content": [
+                  {
+                    "type": "li",
+                    "className":"list-c list-number",
+                    "content": "Masuk laman https://molina.imigrasi.go.id "
+                  },
+                  {
+                    "type": "li",
+                    "className":"list-c list-number",
+                    "content": "Buat akun dengan cara : "
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Isi data diri"
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Isi data paspor"
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Isi data akun"
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Isi data visa"
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Isi detail kedatangan ke Indonesia"
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Isi data lengkap alamat tempat tinggal"
+                  },
+                  {
+                    "type": "li",
+                    "className":"list-c list-number",
+                    "content": "Kirim permohonan pengajuan e-VoA"
+                  },
+                  {
+                    "type": "li",
+                    "className":"list-c list-number",
+                    "content": "Lakukan pembayaran e-VoA lewat kartu debit/kredit "
+                  },
+                  {
+                    "type": "li",
+                    "className":"list-c list-number",
+                    "content": "Download halaman e-VoA"
+                  },
+                  {
+                    "type": "li",
+                    "className":"list-c list-number",
+                    "content": "Lakukan validasi e-VoA dengan cara:"
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Akses kembali laman https://molina.imigrasi.go.id"
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Pilih menu ‘verification’"
+                  },
+                  {
+                    "type": "li",
+                    "className": "sub-list",
+                    "content": "Masukkan nomor visa"
+                  },
+                  {
+                    "type": "li",
+                    "className":"list-c list-number",
+                    "content": " Lakukan pembayaran e-VoA lewat kartu debit/kredit "
+                  }
+                ]
+              }
+            ],
+            "attachmentUrl": [],
+            "tags": "",
+            "show_beranda": false
+          },          
+          {
+            "images": [
               "/images/news/drive-thru-announcement.jpg"
             ],
             "created_at": "2022-08-24",
