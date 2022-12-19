@@ -1752,19 +1752,24 @@
                     "content": "Lakukan validasi e-VoA dengan cara:"
                   },
                   {
-                    "type": "li",
-                    "className": "sub-list",
-                    "content": "Akses kembali laman https://molina.imigrasi.go.id"
-                  },
-                  {
-                    "type": "li",
-                    "className": "sub-list",
-                    "content": "Pilih menu ‘verification’"
-                  },
-                  {
-                    "type": "li",
-                    "className": "sub-list",
-                    "content": "Masukkan nomor visa"
+                    "type": "ol",
+                    "content": [
+                      {
+                        "type": "li",
+                        "className": "sub-list",
+                        "content": "Akses kembali laman https://molina.imigrasi.go.id"
+                      },
+                      {
+                        "type": "li",
+                        "className": "sub-list",
+                        "content": "Pilih menu ‘verification’"
+                      },
+                      {
+                        "type": "li",
+                        "className": "sub-list",
+                        "content": "Masukkan nomor visa"
+                      }
+                    ]
                   },
                   {
                     "type": "li",
@@ -1776,8 +1781,8 @@
             ],
             "attachmentUrl": [],
             "tags": "",
-            "show_beranda": false
-          },                   
+            "show_beranda": true
+          },                            
           {
             "images": [
               "/images/news/drive-thru-announcement.jpg"
