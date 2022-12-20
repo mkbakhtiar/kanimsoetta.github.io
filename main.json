@@ -207,7 +207,7 @@
                 },
                 {
                   "title": "e-VOA",
-                  "description": "Aplikasi ini digunakan untuk penerbitan e-VOA (Electronic Visa On Arrival) bagi orang asing yang akan masuk ke Indonesia. Pastikan pengajuan Visa sesuai dengan maksud kegiatan Orang Asing di Indonesia.",
+                  "description": "Aplikasi ini digunakan untuk penerbitan e-VOA (Electronic Visa On Arrival) bagi orang asing yang akan masuk ke Indonesia.",
                   "icon": "/images/apps/Jush5VM.png",
                   "appUrl": "https://molina.imigrasi.go.id/"
                 },
